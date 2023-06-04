@@ -1,0 +1,2859 @@
+year,raceName,driverFullname,constructorName,position,stop,milliseconds
+2011,Italian Grand Prix,Jenson Button,McLaren,2,2.0,22095.0
+2011,Italian Grand Prix,Jenson Button,McLaren,2,1.0,21660.0
+2011,Italian Grand Prix,Sebastian Vettel,Red Bull,1,2.0,21378.0
+2011,Italian Grand Prix,Sebastian Vettel,Red Bull,1,1.0,22124.0
+2011,Belgian Grand Prix,Timo Glock,Virgin,18,4.0,21721.0
+2011,Belgian Grand Prix,Lewis Hamilton,McLaren,\N,1.0,21895.0
+2011,Italian Grand Prix,Fernando Alonso,Ferrari,3,1.0,22539.0
+2011,Italian Grand Prix,Lewis Hamilton,McLaren,4,1.0,22083.0
+2011,Belgian Grand Prix,Timo Glock,Virgin,18,3.0,24204.0
+2011,Italian Grand Prix,Fernando Alonso,Ferrari,3,2.0,21989.0
+2011,Italian Grand Prix,Felipe Massa,Ferrari,6,2.0,22148.0
+2011,Italian Grand Prix,Felipe Massa,Ferrari,6,1.0,21821.0
+2011,Italian Grand Prix,Lewis Hamilton,McLaren,4,2.0,21876.0
+2011,Belgian Grand Prix,Timo Glock,Virgin,18,2.0,13914.0
+2011,Belgian Grand Prix,Felipe Massa,Ferrari,8,1.0,22267.0
+2011,Belgian Grand Prix,Jérôme d'Ambrosio,Virgin,17,2.0,22114.0
+2011,Belgian Grand Prix,Fernando Alonso,Ferrari,4,2.0,21243.0
+2011,Belgian Grand Prix,Felipe Massa,Ferrari,8,2.0,21856.0
+2011,Belgian Grand Prix,Felipe Massa,Ferrari,8,3.0,21485.0
+2011,Belgian Grand Prix,Jérôme d'Ambrosio,Virgin,17,1.0,22939.0
+2011,Belgian Grand Prix,Timo Glock,Virgin,18,1.0,35092.0
+2011,Singapore Grand Prix,Felipe Massa,Ferrari,9,4.0,30983.0
+2011,Singapore Grand Prix,Felipe Massa,Ferrari,9,3.0,30478.0
+2011,Singapore Grand Prix,Felipe Massa,Ferrari,9,1.0,30290.0
+2011,Singapore Grand Prix,Felipe Massa,Ferrari,9,2.0,32351.0
+2011,Belgian Grand Prix,Fernando Alonso,Ferrari,4,1.0,20994.0
+2011,Singapore Grand Prix,Lewis Hamilton,McLaren,5,4.0,30706.0
+2011,Italian Grand Prix,Timo Glock,Virgin,15,2.0,22784.0
+2011,Italian Grand Prix,Timo Glock,Virgin,15,1.0,25147.0
+2011,Singapore Grand Prix,Lewis Hamilton,McLaren,5,5.0,29876.0
+2011,Singapore Grand Prix,Sebastian Vettel,Red Bull,1,1.0,30023.0
+2011,Singapore Grand Prix,Lewis Hamilton,McLaren,5,3.0,24342.0
+2011,Singapore Grand Prix,Lewis Hamilton,McLaren,5,2.0,33456.0
+2011,Singapore Grand Prix,Lewis Hamilton,McLaren,5,1.0,30142.0
+2011,Singapore Grand Prix,Fernando Alonso,Ferrari,4,3.0,29972.0
+2011,Singapore Grand Prix,Fernando Alonso,Ferrari,4,2.0,30387.0
+2011,Singapore Grand Prix,Fernando Alonso,Ferrari,4,1.0,30621.0
+2011,Singapore Grand Prix,Mark Webber,Red Bull,3,3.0,30413.0
+2011,Singapore Grand Prix,Mark Webber,Red Bull,3,1.0,30462.0
+2011,Singapore Grand Prix,Jenson Button,McLaren,2,3.0,30305.0
+2011,Singapore Grand Prix,Jenson Button,McLaren,2,2.0,29921.0
+2011,Singapore Grand Prix,Jenson Button,McLaren,2,1.0,30169.0
+2011,Singapore Grand Prix,Sebastian Vettel,Red Bull,1,3.0,30796.0
+2011,Singapore Grand Prix,Sebastian Vettel,Red Bull,1,2.0,30809.0
+2011,Singapore Grand Prix,Mark Webber,Red Bull,3,2.0,31204.0
+2011,Belgian Grand Prix,Jenson Button,McLaren,3,3.0,21640.0
+2011,Belgian Grand Prix,Jenson Button,McLaren,3,1.0,26046.0
+2011,Hungarian Grand Prix,Jenson Button,McLaren,1,3.0,20046.0
+2011,Hungarian Grand Prix,Jenson Button,McLaren,1,2.0,21065.0
+2011,Hungarian Grand Prix,Jenson Button,McLaren,1,1.0,21786.0
+2011,German Grand Prix,Jenson Button,McLaren,\N,1.0,20952.0
+2011,Hungarian Grand Prix,Sebastian Vettel,Red Bull,2,1.0,20690.0
+2011,German Grand Prix,Jérôme d'Ambrosio,Virgin,18,2.0,23588.0
+2011,German Grand Prix,Jérôme d'Ambrosio,Virgin,18,1.0,20762.0
+2011,German Grand Prix,Timo Glock,Virgin,17,2.0,21252.0
+2011,Hungarian Grand Prix,Sebastian Vettel,Red Bull,2,2.0,20611.0
+2011,Hungarian Grand Prix,Fernando Alonso,Ferrari,3,1.0,22886.0
+2011,Hungarian Grand Prix,Mark Webber,Red Bull,5,5.0,20715.0
+2011,Hungarian Grand Prix,Mark Webber,Red Bull,5,4.0,21122.0
+2011,Hungarian Grand Prix,Mark Webber,Red Bull,5,3.0,20673.0
+2011,Hungarian Grand Prix,Mark Webber,Red Bull,5,2.0,20000.0
+2011,Hungarian Grand Prix,Mark Webber,Red Bull,5,1.0,20854.0
+2011,Hungarian Grand Prix,Lewis Hamilton,McLaren,4,6.0,13173.0
+2011,Hungarian Grand Prix,Sebastian Vettel,Red Bull,2,3.0,19664.0
+2011,Hungarian Grand Prix,Lewis Hamilton,McLaren,4,5.0,21628.0
+2011,Hungarian Grand Prix,Lewis Hamilton,McLaren,4,3.0,20861.0
+2011,Hungarian Grand Prix,Lewis Hamilton,McLaren,4,2.0,20803.0
+2011,Hungarian Grand Prix,Lewis Hamilton,McLaren,4,1.0,21880.0
+2011,Hungarian Grand Prix,Fernando Alonso,Ferrari,3,4.0,20126.0
+2011,Hungarian Grand Prix,Fernando Alonso,Ferrari,3,3.0,19936.0
+2011,Hungarian Grand Prix,Fernando Alonso,Ferrari,3,2.0,23208.0
+2011,Hungarian Grand Prix,Lewis Hamilton,McLaren,4,4.0,20855.0
+2011,Hungarian Grand Prix,Felipe Massa,Ferrari,6,1.0,22293.0
+2011,German Grand Prix,Timo Glock,Virgin,17,1.0,22252.0
+2011,German Grand Prix,Felipe Massa,Ferrari,5,3.0,21903.0
+2011,German Grand Prix,Felipe Massa,Ferrari,5,2.0,20185.0
+2011,German Grand Prix,Felipe Massa,Ferrari,5,1.0,20344.0
+2011,German Grand Prix,Sebastian Vettel,Red Bull,4,2.0,20274.0
+2011,German Grand Prix,Sebastian Vettel,Red Bull,4,1.0,20394.0
+2011,German Grand Prix,Mark Webber,Red Bull,3,3.0,20324.0
+2011,German Grand Prix,Mark Webber,Red Bull,3,2.0,21299.0
+2011,German Grand Prix,Mark Webber,Red Bull,3,1.0,20440.0
+2011,German Grand Prix,Fernando Alonso,Ferrari,2,3.0,19975.0
+2011,German Grand Prix,Sebastian Vettel,Red Bull,4,3.0,20110.0
+2011,Belgian Grand Prix,Jenson Button,McLaren,3,2.0,21756.0
+2011,Hungarian Grand Prix,Felipe Massa,Ferrari,6,2.0,21138.0
+2011,Hungarian Grand Prix,Felipe Massa,Ferrari,6,4.0,21157.0
+2011,Hungarian Grand Prix,Jérôme d'Ambrosio,Virgin,19,4.0,22470.0
+2011,Hungarian Grand Prix,Jérôme d'Ambrosio,Virgin,19,3.0,49849.0
+2011,Hungarian Grand Prix,Jérôme d'Ambrosio,Virgin,19,2.0,20916.0
+2011,Hungarian Grand Prix,Jérôme d'Ambrosio,Virgin,19,1.0,25337.0
+2011,Hungarian Grand Prix,Timo Glock,Virgin,17,3.0,20929.0
+2011,Hungarian Grand Prix,Timo Glock,Virgin,17,2.0,20613.0
+2011,Hungarian Grand Prix,Timo Glock,Virgin,17,1.0,22222.0
+2011,Belgian Grand Prix,Mark Webber,Red Bull,2,2.0,20947.0
+2011,Belgian Grand Prix,Mark Webber,Red Bull,2,1.0,21015.0
+2011,Belgian Grand Prix,Sebastian Vettel,Red Bull,1,3.0,20786.0
+2011,Belgian Grand Prix,Sebastian Vettel,Red Bull,1,2.0,21411.0
+2011,Belgian Grand Prix,Sebastian Vettel,Red Bull,1,1.0,20898.0
+2011,Hungarian Grand Prix,Felipe Massa,Ferrari,6,3.0,22453.0
+2011,Singapore Grand Prix,Jérôme d'Ambrosio,Virgin,18,1.0,31763.0
+2011,Abu Dhabi Grand Prix,Lewis Hamilton,McLaren,1,2.0,19350.0
+2011,Abu Dhabi Grand Prix,Fernando Alonso,Ferrari,2,1.0,20211.0
+2011,Abu Dhabi Grand Prix,Fernando Alonso,Ferrari,2,2.0,21314.0
+2011,Abu Dhabi Grand Prix,Jenson Button,McLaren,3,1.0,20908.0
+2011,Abu Dhabi Grand Prix,Jenson Button,McLaren,3,2.0,20301.0
+2011,Abu Dhabi Grand Prix,Mark Webber,Red Bull,4,1.0,25182.0
+2011,Abu Dhabi Grand Prix,Mark Webber,Red Bull,4,2.0,20000.0
+2011,Abu Dhabi Grand Prix,Mark Webber,Red Bull,4,3.0,19525.0
+2011,Abu Dhabi Grand Prix,Felipe Massa,Ferrari,5,1.0,20471.0
+2011,Abu Dhabi Grand Prix,Felipe Massa,Ferrari,5,2.0,20035.0
+2011,Abu Dhabi Grand Prix,Lewis Hamilton,McLaren,1,1.0,19439.0
+2011,Indian Grand Prix,Timo Glock,Virgin,\N,1.0,27378.0
+2011,Indian Grand Prix,Lewis Hamilton,McLaren,7,3.0,22172.0
+2011,Indian Grand Prix,Felipe Massa,Ferrari,\N,3.0,27619.0
+2011,Indian Grand Prix,Felipe Massa,Ferrari,\N,2.0,14919.0
+2011,Indian Grand Prix,Felipe Massa,Ferrari,\N,1.0,21848.0
+2011,Indian Grand Prix,Jérôme d'Ambrosio,Virgin,16,2.0,22472.0
+2011,Indian Grand Prix,Jérôme d'Ambrosio,Virgin,16,1.0,22687.0
+2011,German Grand Prix,Fernando Alonso,Ferrari,2,2.0,20035.0
+2011,Brazilian Grand Prix,Timo Glock,Virgin,\N,1.0,22452.0
+2011,Brazilian Grand Prix,Lewis Hamilton,McLaren,\N,3.0,20681.0
+2011,Brazilian Grand Prix,Lewis Hamilton,McLaren,\N,2.0,20396.0
+2011,Brazilian Grand Prix,Lewis Hamilton,McLaren,\N,1.0,21099.0
+2011,Brazilian Grand Prix,Jérôme d'Ambrosio,Virgin,19,2.0,23542.0
+2011,Brazilian Grand Prix,Jérôme d'Ambrosio,Virgin,19,1.0,21859.0
+2011,Indian Grand Prix,Lewis Hamilton,McLaren,7,2.0,27193.0
+2011,Brazilian Grand Prix,Sebastian Vettel,Red Bull,2,2.0,20652.0
+2011,Brazilian Grand Prix,Sebastian Vettel,Red Bull,2,1.0,20927.0
+2011,Brazilian Grand Prix,Mark Webber,Red Bull,1,3.0,20781.0
+2011,Brazilian Grand Prix,Mark Webber,Red Bull,1,2.0,20990.0
+2011,Brazilian Grand Prix,Mark Webber,Red Bull,1,1.0,20755.0
+2011,Brazilian Grand Prix,Sebastian Vettel,Red Bull,2,3.0,22094.0
+2011,Abu Dhabi Grand Prix,Timo Glock,Virgin,19,2.0,20561.0
+2011,Abu Dhabi Grand Prix,Timo Glock,Virgin,19,1.0,21792.0
+2011,Brazilian Grand Prix,Jenson Button,McLaren,3,1.0,22005.0
+2011,Brazilian Grand Prix,Jenson Button,McLaren,3,3.0,21583.0
+2011,Brazilian Grand Prix,Jenson Button,McLaren,3,2.0,21038.0
+2011,Brazilian Grand Prix,Felipe Massa,Ferrari,5,2.0,21053.0
+2011,Brazilian Grand Prix,Felipe Massa,Ferrari,5,1.0,21696.0
+2011,Brazilian Grand Prix,Fernando Alonso,Ferrari,4,3.0,20752.0
+2011,Brazilian Grand Prix,Fernando Alonso,Ferrari,4,2.0,20664.0
+2011,Brazilian Grand Prix,Fernando Alonso,Ferrari,4,1.0,20773.0
+2011,Singapore Grand Prix,Jérôme d'Ambrosio,Virgin,18,2.0,31592.0
+2011,Indian Grand Prix,Lewis Hamilton,McLaren,7,1.0,22530.0
+2011,Japanese Grand Prix,Felipe Massa,Ferrari,7,3.0,21100.0
+2011,Japanese Grand Prix,Felipe Massa,Ferrari,7,2.0,21214.0
+2011,Japanese Grand Prix,Felipe Massa,Ferrari,7,1.0,21313.0
+2011,Japanese Grand Prix,Timo Glock,Virgin,20,1.0,25563.0
+2011,Japanese Grand Prix,Jenson Button,McLaren,1,1.0,21094.0
+2011,Japanese Grand Prix,Jenson Button,McLaren,1,3.0,20998.0
+2011,Japanese Grand Prix,Lewis Hamilton,McLaren,5,3.0,21292.0
+2011,Japanese Grand Prix,Lewis Hamilton,McLaren,5,2.0,22821.0
+2011,Japanese Grand Prix,Lewis Hamilton,McLaren,5,1.0,21091.0
+2011,Japanese Grand Prix,Mark Webber,Red Bull,4,3.0,21455.0
+2011,Japanese Grand Prix,Jenson Button,McLaren,1,2.0,20713.0
+2011,Japanese Grand Prix,Mark Webber,Red Bull,4,2.0,21369.0
+2011,Japanese Grand Prix,Sebastian Vettel,Red Bull,3,3.0,21705.0
+2011,Japanese Grand Prix,Sebastian Vettel,Red Bull,3,2.0,21596.0
+2011,Japanese Grand Prix,Sebastian Vettel,Red Bull,3,1.0,22374.0
+2011,Japanese Grand Prix,Fernando Alonso,Ferrari,2,3.0,20731.0
+2011,Japanese Grand Prix,Fernando Alonso,Ferrari,2,2.0,21319.0
+2011,Japanese Grand Prix,Fernando Alonso,Ferrari,2,1.0,21147.0
+2011,Japanese Grand Prix,Mark Webber,Red Bull,4,1.0,21820.0
+2011,Japanese Grand Prix,Timo Glock,Virgin,20,2.0,21726.0
+2011,Japanese Grand Prix,Timo Glock,Virgin,20,3.0,22877.0
+2011,Japanese Grand Prix,Jérôme d'Ambrosio,Virgin,21,1.0,23013.0
+2011,Korean Grand Prix,Jérôme d'Ambrosio,Virgin,20,2.0,22412.0
+2011,Korean Grand Prix,Jérôme d'Ambrosio,Virgin,20,1.0,26905.0
+2011,Korean Grand Prix,Timo Glock,Virgin,18,2.0,22481.0
+2011,Korean Grand Prix,Timo Glock,Virgin,18,1.0,22533.0
+2011,Indian Grand Prix,Mark Webber,Red Bull,4,2.0,21240.0
+2011,Indian Grand Prix,Mark Webber,Red Bull,4,1.0,21392.0
+2011,Indian Grand Prix,Fernando Alonso,Ferrari,3,2.0,21755.0
+2011,Indian Grand Prix,Fernando Alonso,Ferrari,3,1.0,21873.0
+2011,Indian Grand Prix,Jenson Button,McLaren,2,2.0,21838.0
+2011,Indian Grand Prix,Sebastian Vettel,Red Bull,1,2.0,21449.0
+2011,Indian Grand Prix,Sebastian Vettel,Red Bull,1,1.0,21415.0
+2011,Indian Grand Prix,Jenson Button,McLaren,2,1.0,21092.0
+2011,Korean Grand Prix,Mark Webber,Red Bull,3,1.0,20828.0
+2011,Korean Grand Prix,Lewis Hamilton,McLaren,2,2.0,20584.0
+2011,Korean Grand Prix,Lewis Hamilton,McLaren,2,1.0,20846.0
+2011,Korean Grand Prix,Sebastian Vettel,Red Bull,1,2.0,20170.0
+2011,Korean Grand Prix,Sebastian Vettel,Red Bull,1,1.0,19985.0
+2011,Korean Grand Prix,Mark Webber,Red Bull,3,2.0,20800.0
+2011,Japanese Grand Prix,Jérôme d'Ambrosio,Virgin,21,3.0,24269.0
+2011,Japanese Grand Prix,Jérôme d'Ambrosio,Virgin,21,2.0,22258.0
+2011,Korean Grand Prix,Jenson Button,McLaren,4,1.0,20766.0
+2011,Korean Grand Prix,Fernando Alonso,Ferrari,5,1.0,20978.0
+2011,Korean Grand Prix,Jenson Button,McLaren,4,2.0,20758.0
+2011,Korean Grand Prix,Felipe Massa,Ferrari,6,2.0,21080.0
+2011,Korean Grand Prix,Felipe Massa,Ferrari,6,1.0,23642.0
+2011,Korean Grand Prix,Fernando Alonso,Ferrari,5,2.0,20639.0
+2011,German Grand Prix,Fernando Alonso,Ferrari,2,1.0,20430.0
+2011,German Grand Prix,Lewis Hamilton,McLaren,1,2.0,20496.0
+2011,Turkish Grand Prix,Lewis Hamilton,McLaren,4,1.0,20833.0
+2011,Turkish Grand Prix,Lewis Hamilton,McLaren,4,2.0,21075.0
+2011,Turkish Grand Prix,Lewis Hamilton,McLaren,4,3.0,35688.0
+2011,Turkish Grand Prix,Lewis Hamilton,McLaren,4,4.0,22041.0
+2011,Turkish Grand Prix,Jenson Button,McLaren,6,1.0,21368.0
+2011,Turkish Grand Prix,Jenson Button,McLaren,6,2.0,22639.0
+2011,Turkish Grand Prix,Jenson Button,McLaren,6,3.0,21417.0
+2011,Turkish Grand Prix,Felipe Massa,Ferrari,11,4.0,26685.0
+2011,Turkish Grand Prix,Felipe Massa,Ferrari,11,3.0,23471.0
+2011,Turkish Grand Prix,Felipe Massa,Ferrari,11,2.0,21322.0
+2011,Turkish Grand Prix,Felipe Massa,Ferrari,11,1.0,22022.0
+2011,Turkish Grand Prix,Fernando Alonso,Ferrari,3,4.0,21379.0
+2011,Turkish Grand Prix,Fernando Alonso,Ferrari,3,3.0,21702.0
+2011,Turkish Grand Prix,Fernando Alonso,Ferrari,3,2.0,21732.0
+2011,Turkish Grand Prix,Fernando Alonso,Ferrari,3,1.0,21308.0
+2011,Chinese Grand Prix,Jérôme d'Ambrosio,Virgin,20,1.0,22901.0
+2011,Chinese Grand Prix,Jérôme d'Ambrosio,Virgin,20,2.0,22802.0
+2011,Chinese Grand Prix,Timo Glock,Virgin,21,2.0,21908.0
+2011,Turkish Grand Prix,Mark Webber,Red Bull,2,4.0,22087.0
+2011,Turkish Grand Prix,Mark Webber,Red Bull,2,3.0,20843.0
+2011,Turkish Grand Prix,Mark Webber,Red Bull,2,2.0,20421.0
+2011,Turkish Grand Prix,Mark Webber,Red Bull,2,1.0,21050.0
+2011,Turkish Grand Prix,Sebastian Vettel,Red Bull,1,4.0,20489.0
+2011,Turkish Grand Prix,Sebastian Vettel,Red Bull,1,3.0,20385.0
+2011,Chinese Grand Prix,Timo Glock,Virgin,21,1.0,22683.0
+2011,Turkish Grand Prix,Sebastian Vettel,Red Bull,1,2.0,20112.0
+2011,Chinese Grand Prix,Timo Glock,Virgin,21,3.0,33827.0
+2011,Turkish Grand Prix,Sebastian Vettel,Red Bull,1,1.0,20623.0
+2011,Spanish Grand Prix,Mark Webber,Red Bull,4,4.0,19984.0
+2011,Spanish Grand Prix,Mark Webber,Red Bull,4,3.0,20279.0
+2011,Spanish Grand Prix,Mark Webber,Red Bull,4,2.0,20079.0
+2011,Spanish Grand Prix,Mark Webber,Red Bull,4,1.0,20881.0
+2011,Spanish Grand Prix,Jenson Button,McLaren,3,3.0,20107.0
+2011,Spanish Grand Prix,Jenson Button,McLaren,3,2.0,20763.0
+2011,Spanish Grand Prix,Fernando Alonso,Ferrari,5,1.0,20567.0
+2011,Spanish Grand Prix,Jenson Button,McLaren,3,1.0,20015.0
+2011,Spanish Grand Prix,Lewis Hamilton,McLaren,2,3.0,20473.0
+2011,Spanish Grand Prix,Lewis Hamilton,McLaren,2,2.0,20235.0
+2011,Spanish Grand Prix,Lewis Hamilton,McLaren,2,1.0,19761.0
+2011,Spanish Grand Prix,Sebastian Vettel,Red Bull,1,4.0,20292.0
+2011,Spanish Grand Prix,Sebastian Vettel,Red Bull,1,3.0,20426.0
+2011,Spanish Grand Prix,Sebastian Vettel,Red Bull,1,2.0,19887.0
+2011,Spanish Grand Prix,Lewis Hamilton,McLaren,2,4.0,20988.0
+2011,Spanish Grand Prix,Sebastian Vettel,Red Bull,1,1.0,20253.0
+2011,Spanish Grand Prix,Fernando Alonso,Ferrari,5,2.0,20238.0
+2011,Spanish Grand Prix,Fernando Alonso,Ferrari,5,4.0,20380.0
+2011,Spanish Grand Prix,Fernando Alonso,Ferrari,5,3.0,20738.0
+2011,Turkish Grand Prix,Jérôme d'Ambrosio,Virgin,20,2.0,24837.0
+2011,Turkish Grand Prix,Jérôme d'Ambrosio,Virgin,20,1.0,22779.0
+2011,German Grand Prix,Lewis Hamilton,McLaren,1,3.0,20403.0
+2011,Malaysian Grand Prix,Sebastian Vettel,Red Bull,1,1.0,23019.0
+2011,Malaysian Grand Prix,Sebastian Vettel,Red Bull,1,2.0,21893.0
+2011,Malaysian Grand Prix,Sebastian Vettel,Red Bull,1,3.0,22313.0
+2011,Malaysian Grand Prix,Jenson Button,McLaren,2,1.0,22400.0
+2011,Malaysian Grand Prix,Jenson Button,McLaren,2,2.0,22471.0
+2011,Malaysian Grand Prix,Fernando Alonso,Ferrari,6,3.0,23812.0
+2011,Malaysian Grand Prix,Fernando Alonso,Ferrari,6,2.0,23894.0
+2011,Malaysian Grand Prix,Fernando Alonso,Ferrari,6,1.0,23152.0
+2011,Malaysian Grand Prix,Felipe Massa,Ferrari,5,3.0,22893.0
+2011,Malaysian Grand Prix,Felipe Massa,Ferrari,5,2.0,22541.0
+2011,Malaysian Grand Prix,Felipe Massa,Ferrari,5,1.0,29224.0
+2011,Malaysian Grand Prix,Mark Webber,Red Bull,4,4.0,22161.0
+2011,Malaysian Grand Prix,Mark Webber,Red Bull,4,2.0,21991.0
+2011,Malaysian Grand Prix,Mark Webber,Red Bull,4,1.0,22572.0
+2011,Malaysian Grand Prix,Jenson Button,McLaren,2,3.0,22483.0
+2011,Malaysian Grand Prix,Mark Webber,Red Bull,4,3.0,22069.0
+2011,Australian Grand Prix,Timo Glock,Virgin,\N,1.0,23792.0
+2011,Australian Grand Prix,Jérôme d'Ambrosio,Virgin,14,2.0,26446.0
+2011,Australian Grand Prix,Jenson Button,McLaren,6,2.0,23303.0
+2011,Australian Grand Prix,Jenson Button,McLaren,6,1.0,16867.0
+2011,Australian Grand Prix,Mark Webber,Red Bull,5,3.0,26230.0
+2011,Australian Grand Prix,Mark Webber,Red Bull,5,2.0,22520.0
+2011,Australian Grand Prix,Mark Webber,Red Bull,5,1.0,23426.0
+2011,Australian Grand Prix,Fernando Alonso,Ferrari,4,3.0,24181.0
+2011,Australian Grand Prix,Jenson Button,McLaren,6,3.0,22681.0
+2011,Australian Grand Prix,Fernando Alonso,Ferrari,4,2.0,24733.0
+2011,Australian Grand Prix,Lewis Hamilton,McLaren,2,2.0,23199.0
+2011,Australian Grand Prix,Lewis Hamilton,McLaren,2,1.0,23227.0
+2011,Australian Grand Prix,Sebastian Vettel,Red Bull,1,2.0,24036.0
+2011,Australian Grand Prix,Sebastian Vettel,Red Bull,1,1.0,22603.0
+2011,Australian Grand Prix,Fernando Alonso,Ferrari,4,1.0,23251.0
+2011,Malaysian Grand Prix,Fernando Alonso,Ferrari,6,4.0,27182.0
+2011,Australian Grand Prix,Felipe Massa,Ferrari,7,1.0,23842.0
+2011,Australian Grand Prix,Felipe Massa,Ferrari,7,3.0,24095.0
+2011,Australian Grand Prix,Jérôme d'Ambrosio,Virgin,14,1.0,25259.0
+2011,Australian Grand Prix,Felipe Massa,Ferrari,7,2.0,24500.0
+2011,Malaysian Grand Prix,Lewis Hamilton,McLaren,8,1.0,22552.0
+2011,Chinese Grand Prix,Jenson Button,McLaren,4,3.0,21237.0
+2011,Chinese Grand Prix,Jenson Button,McLaren,4,2.0,20758.0
+2011,Chinese Grand Prix,Jenson Button,McLaren,4,1.0,23779.0
+2011,Chinese Grand Prix,Mark Webber,Red Bull,3,3.0,21091.0
+2011,Chinese Grand Prix,Mark Webber,Red Bull,3,2.0,21132.0
+2011,Chinese Grand Prix,Mark Webber,Red Bull,3,1.0,23442.0
+2011,Chinese Grand Prix,Sebastian Vettel,Red Bull,2,1.0,21995.0
+2011,Chinese Grand Prix,Lewis Hamilton,McLaren,1,3.0,20567.0
+2011,Chinese Grand Prix,Lewis Hamilton,McLaren,1,2.0,20533.0
+2011,Chinese Grand Prix,Lewis Hamilton,McLaren,1,1.0,20878.0
+2011,Chinese Grand Prix,Sebastian Vettel,Red Bull,2,2.0,21533.0
+2011,Chinese Grand Prix,Felipe Massa,Ferrari,6,2.0,21168.0
+2011,Chinese Grand Prix,Felipe Massa,Ferrari,6,1.0,21624.0
+2011,Chinese Grand Prix,Fernando Alonso,Ferrari,7,2.0,21251.0
+2011,Chinese Grand Prix,Fernando Alonso,Ferrari,7,1.0,22524.0
+2011,Malaysian Grand Prix,Lewis Hamilton,McLaren,8,4.0,22466.0
+2011,Malaysian Grand Prix,Lewis Hamilton,McLaren,8,3.0,25382.0
+2011,Malaysian Grand Prix,Lewis Hamilton,McLaren,8,2.0,22611.0
+2011,Malaysian Grand Prix,Jérôme d'Ambrosio,Virgin,\N,2.0,24416.0
+2011,Malaysian Grand Prix,Jérôme d'Ambrosio,Virgin,\N,1.0,26252.0
+2011,Malaysian Grand Prix,Timo Glock,Virgin,16,2.0,24429.0
+2011,Malaysian Grand Prix,Timo Glock,Virgin,16,1.0,24617.0
+2011,European Grand Prix,Jenson Button,McLaren,6,3.0,20479.0
+2011,European Grand Prix,Jenson Button,McLaren,6,2.0,20325.0
+2011,European Grand Prix,Jenson Button,McLaren,6,1.0,20997.0
+2011,Canadian Grand Prix,Fernando Alonso,Ferrari,\N,2.0,26348.0
+2011,Canadian Grand Prix,Fernando Alonso,Ferrari,\N,1.0,23893.0
+2011,Canadian Grand Prix,Fernando Alonso,Ferrari,\N,3.0,26129.0
+2011,European Grand Prix,Sebastian Vettel,Red Bull,1,1.0,21006.0
+2011,European Grand Prix,Felipe Massa,Ferrari,5,3.0,20404.0
+2011,European Grand Prix,Felipe Massa,Ferrari,5,2.0,25537.0
+2011,European Grand Prix,Felipe Massa,Ferrari,5,1.0,20718.0
+2011,European Grand Prix,Lewis Hamilton,McLaren,4,3.0,20212.0
+2011,European Grand Prix,Lewis Hamilton,McLaren,4,2.0,21035.0
+2011,European Grand Prix,Lewis Hamilton,McLaren,4,1.0,20340.0
+2011,European Grand Prix,Mark Webber,Red Bull,3,3.0,20367.0
+2011,European Grand Prix,Mark Webber,Red Bull,3,1.0,20465.0
+2011,European Grand Prix,Fernando Alonso,Ferrari,2,3.0,20136.0
+2011,European Grand Prix,Fernando Alonso,Ferrari,2,2.0,20551.0
+2011,European Grand Prix,Fernando Alonso,Ferrari,2,1.0,21477.0
+2011,European Grand Prix,Sebastian Vettel,Red Bull,1,3.0,20331.0
+2011,European Grand Prix,Sebastian Vettel,Red Bull,1,2.0,20441.0
+2011,European Grand Prix,Mark Webber,Red Bull,3,2.0,20319.0
+2011,British Grand Prix,Timo Glock,Virgin,16,1.0,25416.0
+2011,British Grand Prix,Timo Glock,Virgin,16,2.0,24959.0
+2011,British Grand Prix,Jérôme d'Ambrosio,Virgin,17,1.0,28742.0
+2011,German Grand Prix,Lewis Hamilton,McLaren,1,1.0,20982.0
+2011,British Grand Prix,Jérôme d'Ambrosio,Virgin,17,2.0,25428.0
+2011,British Grand Prix,Jenson Button,McLaren,\N,3.0,23292.0
+2011,British Grand Prix,Jenson Button,McLaren,\N,2.0,24287.0
+2011,British Grand Prix,Jenson Button,McLaren,\N,1.0,25070.0
+2011,British Grand Prix,Fernando Alonso,Ferrari,1,3.0,23474.0
+2011,British Grand Prix,Fernando Alonso,Ferrari,1,2.0,23974.0
+2011,British Grand Prix,Fernando Alonso,Ferrari,1,1.0,26566.0
+2011,British Grand Prix,Sebastian Vettel,Red Bull,2,1.0,24818.0
+2011,European Grand Prix,Jérôme d'Ambrosio,Virgin,22,2.0,22250.0
+2011,European Grand Prix,Jérôme d'Ambrosio,Virgin,22,1.0,21943.0
+2011,European Grand Prix,Timo Glock,Virgin,21,2.0,22030.0
+2011,European Grand Prix,Timo Glock,Virgin,21,1.0,21900.0
+2011,British Grand Prix,Sebastian Vettel,Red Bull,2,2.0,31558.0
+2011,British Grand Prix,Mark Webber,Red Bull,3,1.0,23973.0
+2011,British Grand Prix,Sebastian Vettel,Red Bull,2,3.0,23137.0
+2011,British Grand Prix,Felipe Massa,Ferrari,5,3.0,23238.0
+2011,British Grand Prix,Felipe Massa,Ferrari,5,1.0,24159.0
+2011,British Grand Prix,Lewis Hamilton,McLaren,4,3.0,23340.0
+2011,British Grand Prix,Lewis Hamilton,McLaren,4,2.0,24065.0
+2011,British Grand Prix,Lewis Hamilton,McLaren,4,1.0,25100.0
+2011,British Grand Prix,Mark Webber,Red Bull,3,3.0,23785.0
+2011,British Grand Prix,Mark Webber,Red Bull,3,2.0,25490.0
+2011,British Grand Prix,Felipe Massa,Ferrari,5,2.0,23929.0
+2011,Monaco Grand Prix,Sebastian Vettel,Red Bull,1,1.0,28536.0
+2011,Monaco Grand Prix,Fernando Alonso,Ferrari,2,1.0,25352.0
+2011,Monaco Grand Prix,Fernando Alonso,Ferrari,2,2.0,31382.0
+2011,Monaco Grand Prix,Jenson Button,McLaren,3,1.0,25280.0
+2011,Monaco Grand Prix,Jenson Button,McLaren,3,2.0,26421.0
+2011,Monaco Grand Prix,Jenson Button,McLaren,3,3.0,24670.0
+2011,Monaco Grand Prix,Mark Webber,Red Bull,4,1.0,37735.0
+2011,Monaco Grand Prix,Mark Webber,Red Bull,4,2.0,26269.0
+2011,Monaco Grand Prix,Lewis Hamilton,McLaren,6,1.0,31445.0
+2011,Monaco Grand Prix,Lewis Hamilton,McLaren,6,2.0,19347.0
+2011,Monaco Grand Prix,Lewis Hamilton,McLaren,6,3.0,26977.0
+2011,Spanish Grand Prix,Felipe Massa,Ferrari,\N,3.0,22419.0
+2011,Spanish Grand Prix,Felipe Massa,Ferrari,\N,2.0,21635.0
+2011,Spanish Grand Prix,Felipe Massa,Ferrari,\N,1.0,20800.0
+2011,Spanish Grand Prix,Jérôme d'Ambrosio,Virgin,20,3.0,21708.0
+2011,Spanish Grand Prix,Jérôme d'Ambrosio,Virgin,20,2.0,22982.0
+2011,Spanish Grand Prix,Jérôme d'Ambrosio,Virgin,20,1.0,23176.0
+2011,Spanish Grand Prix,Timo Glock,Virgin,19,3.0,21170.0
+2011,Spanish Grand Prix,Timo Glock,Virgin,19,2.0,21632.0
+2011,Spanish Grand Prix,Timo Glock,Virgin,19,1.0,22744.0
+2011,Monaco Grand Prix,Jérôme d'Ambrosio,Virgin,15,1.0,27577.0
+2011,Canadian Grand Prix,Timo Glock,Virgin,16,2.0,25079.0
+2011,Canadian Grand Prix,Timo Glock,Virgin,16,1.0,24425.0
+2011,Canadian Grand Prix,Jérôme d'Ambrosio,Virgin,15,5.0,30714.0
+2011,Canadian Grand Prix,Jérôme d'Ambrosio,Virgin,15,4.0,14538.0
+2011,Canadian Grand Prix,Jérôme d'Ambrosio,Virgin,15,2.0,30497.0
+2011,Canadian Grand Prix,Jérôme d'Ambrosio,Virgin,15,3.0,24655.0
+2011,Canadian Grand Prix,Felipe Massa,Ferrari,6,4.0,28346.0
+2011,Canadian Grand Prix,Jérôme d'Ambrosio,Virgin,15,1.0,24143.0
+2011,Canadian Grand Prix,Felipe Massa,Ferrari,6,2.0,22742.0
+2011,Canadian Grand Prix,Jenson Button,McLaren,1,2.0,14501.0
+2011,Canadian Grand Prix,Jenson Button,McLaren,1,1.0,23650.0
+2011,Monaco Grand Prix,Timo Glock,Virgin,\N,1.0,26827.0
+2011,Monaco Grand Prix,Felipe Massa,Ferrari,\N,1.0,26615.0
+2011,Monaco Grand Prix,Jérôme d'Ambrosio,Virgin,15,2.0,26464.0
+2011,Canadian Grand Prix,Felipe Massa,Ferrari,6,3.0,22560.0
+2011,Canadian Grand Prix,Jenson Button,McLaren,1,3.0,23868.0
+2011,Canadian Grand Prix,Jenson Button,McLaren,1,4.0,23589.0
+2011,Canadian Grand Prix,Jenson Button,McLaren,1,6.0,23741.0
+2011,Canadian Grand Prix,Jenson Button,McLaren,1,5.0,31718.0
+2011,Canadian Grand Prix,Mark Webber,Red Bull,3,3.0,22770.0
+2011,Canadian Grand Prix,Mark Webber,Red Bull,3,2.0,22402.0
+2011,Canadian Grand Prix,Mark Webber,Red Bull,3,1.0,29546.0
+2011,Canadian Grand Prix,Felipe Massa,Ferrari,6,1.0,24886.0
+2011,Canadian Grand Prix,Sebastian Vettel,Red Bull,2,1.0,23872.0
+2011,Canadian Grand Prix,Sebastian Vettel,Red Bull,2,3.0,22526.0
+2011,Canadian Grand Prix,Sebastian Vettel,Red Bull,2,2.0,22958.0
+2012,Italian Grand Prix,Mark Webber,Red Bull,20,1.0,21556.0
+2012,Italian Grand Prix,Sebastian Vettel,Red Bull,22,1.0,22303.0
+2012,Italian Grand Prix,Sebastian Vettel,Red Bull,22,2.0,15008.0
+2012,Italian Grand Prix,Jenson Button,McLaren,\N,1.0,23375.0
+2012,Italian Grand Prix,Felipe Massa,Ferrari,4,1.0,22161.0
+2012,Singapore Grand Prix,Sebastian Vettel,Red Bull,1,2.0,31137.0
+2012,Italian Grand Prix,Lewis Hamilton,McLaren,1,1.0,20736.0
+2012,Italian Grand Prix,Fernando Alonso,Ferrari,3,1.0,21515.0
+2012,Singapore Grand Prix,Sebastian Vettel,Red Bull,1,1.0,29117.0
+2012,Singapore Grand Prix,Jenson Button,McLaren,2,1.0,30019.0
+2012,Singapore Grand Prix,Lewis Hamilton,McLaren,\N,1.0,29124.0
+2012,Japanese Grand Prix,Sebastian Vettel,Red Bull,1,1.0,20508.0
+2012,Japanese Grand Prix,Sebastian Vettel,Red Bull,1,2.0,20346.0
+2012,Japanese Grand Prix,Felipe Massa,Ferrari,2,1.0,20936.0
+2012,Japanese Grand Prix,Felipe Massa,Ferrari,2,2.0,20778.0
+2012,Singapore Grand Prix,Jenson Button,McLaren,2,2.0,29662.0
+2012,Singapore Grand Prix,Fernando Alonso,Ferrari,3,2.0,29190.0
+2012,Singapore Grand Prix,Fernando Alonso,Ferrari,3,1.0,29557.0
+2012,Singapore Grand Prix,Felipe Massa,Ferrari,8,3.0,29455.0
+2012,Singapore Grand Prix,Felipe Massa,Ferrari,8,1.0,31958.0
+2012,Singapore Grand Prix,Felipe Massa,Ferrari,8,2.0,29403.0
+2012,Singapore Grand Prix,Mark Webber,Red Bull,11,2.0,29304.0
+2012,Singapore Grand Prix,Mark Webber,Red Bull,11,3.0,29348.0
+2012,Singapore Grand Prix,Mark Webber,Red Bull,11,1.0,29333.0
+2012,German Grand Prix,Lewis Hamilton,McLaren,\N,1.0,21012.0
+2012,German Grand Prix,Lewis Hamilton,McLaren,\N,2.0,17598.0
+2012,German Grand Prix,Lewis Hamilton,McLaren,\N,3.0,18877.0
+2012,Hungarian Grand Prix,Lewis Hamilton,McLaren,1,1.0,20436.0
+2012,Hungarian Grand Prix,Lewis Hamilton,McLaren,1,2.0,19059.0
+2012,Hungarian Grand Prix,Sebastian Vettel,Red Bull,4,1.0,19380.0
+2012,Hungarian Grand Prix,Sebastian Vettel,Red Bull,4,2.0,19331.0
+2012,Hungarian Grand Prix,Sebastian Vettel,Red Bull,4,3.0,18964.0
+2012,Hungarian Grand Prix,Fernando Alonso,Ferrari,5,1.0,19669.0
+2012,Japanese Grand Prix,Jenson Button,McLaren,4,1.0,20233.0
+2012,German Grand Prix,Mark Webber,Red Bull,8,1.0,18253.0
+2012,German Grand Prix,Mark Webber,Red Bull,8,2.0,17290.0
+2012,German Grand Prix,Felipe Massa,Ferrari,12,1.0,23049.0
+2012,German Grand Prix,Felipe Massa,Ferrari,12,2.0,19137.0
+2012,German Grand Prix,Felipe Massa,Ferrari,12,3.0,19680.0
+2012,Hungarian Grand Prix,Fernando Alonso,Ferrari,5,2.0,19365.0
+2012,Hungarian Grand Prix,Jenson Button,McLaren,6,1.0,19408.0
+2012,Hungarian Grand Prix,Jenson Button,McLaren,6,2.0,19083.0
+2012,Hungarian Grand Prix,Jenson Button,McLaren,6,3.0,20355.0
+2012,Belgian Grand Prix,Jenson Button,McLaren,1,1.0,19668.0
+2012,Belgian Grand Prix,Sebastian Vettel,Red Bull,2,1.0,20811.0
+2012,Belgian Grand Prix,Felipe Massa,Ferrari,5,1.0,20306.0
+2012,Belgian Grand Prix,Felipe Massa,Ferrari,5,2.0,21049.0
+2012,Belgian Grand Prix,Mark Webber,Red Bull,6,1.0,20908.0
+2012,Belgian Grand Prix,Mark Webber,Red Bull,6,2.0,20385.0
+2012,Hungarian Grand Prix,Mark Webber,Red Bull,8,1.0,19611.0
+2012,Hungarian Grand Prix,Mark Webber,Red Bull,8,2.0,19175.0
+2012,Hungarian Grand Prix,Mark Webber,Red Bull,8,3.0,19386.0
+2012,Hungarian Grand Prix,Felipe Massa,Ferrari,9,1.0,19981.0
+2012,Hungarian Grand Prix,Felipe Massa,Ferrari,9,2.0,19917.0
+2012,Japanese Grand Prix,Jenson Button,McLaren,4,2.0,21099.0
+2012,Japanese Grand Prix,Lewis Hamilton,McLaren,5,2.0,19794.0
+2012,Brazilian Grand Prix,Jenson Button,McLaren,1,1.0,21550.0
+2012,Brazilian Grand Prix,Jenson Button,McLaren,1,2.0,21456.0
+2012,Brazilian Grand Prix,Fernando Alonso,Ferrari,2,1.0,22472.0
+2012,Brazilian Grand Prix,Fernando Alonso,Ferrari,2,2.0,23000.0
+2012,Brazilian Grand Prix,Fernando Alonso,Ferrari,2,3.0,21862.0
+2012,Brazilian Grand Prix,Felipe Massa,Ferrari,3,1.0,22596.0
+2012,Brazilian Grand Prix,Felipe Massa,Ferrari,3,2.0,21680.0
+2012,Brazilian Grand Prix,Felipe Massa,Ferrari,3,3.0,22427.0
+2012,Brazilian Grand Prix,Mark Webber,Red Bull,4,1.0,23127.0
+2012,Brazilian Grand Prix,Mark Webber,Red Bull,4,2.0,21232.0
+2012,Brazilian Grand Prix,Mark Webber,Red Bull,4,3.0,21006.0
+2012,Abu Dhabi Grand Prix,Mark Webber,Red Bull,\N,1.0,19066.0
+2012,United States Grand Prix,Lewis Hamilton,McLaren,1,1.0,20814.0
+2012,United States Grand Prix,Sebastian Vettel,Red Bull,2,1.0,20904.0
+2012,United States Grand Prix,Fernando Alonso,Ferrari,3,1.0,24439.0
+2012,United States Grand Prix,Felipe Massa,Ferrari,4,1.0,21520.0
+2012,United States Grand Prix,Jenson Button,McLaren,5,1.0,21445.0
+2012,Brazilian Grand Prix,Sebastian Vettel,Red Bull,6,1.0,20997.0
+2012,Brazilian Grand Prix,Sebastian Vettel,Red Bull,6,2.0,22016.0
+2012,Brazilian Grand Prix,Lewis Hamilton,McLaren,\N,1.0,24410.0
+2012,Brazilian Grand Prix,Lewis Hamilton,McLaren,\N,2.0,21606.0
+2012,Brazilian Grand Prix,Sebastian Vettel,Red Bull,6,3.0,21256.0
+2012,Brazilian Grand Prix,Sebastian Vettel,Red Bull,6,4.0,28932.0
+2012,Japanese Grand Prix,Lewis Hamilton,McLaren,5,1.0,21148.0
+2012,Korean Grand Prix,Sebastian Vettel,Red Bull,1,1.0,19830.0
+2012,Korean Grand Prix,Sebastian Vettel,Red Bull,1,2.0,19801.0
+2012,Korean Grand Prix,Mark Webber,Red Bull,2,1.0,19811.0
+2012,Korean Grand Prix,Mark Webber,Red Bull,2,2.0,19616.0
+2012,Korean Grand Prix,Fernando Alonso,Ferrari,3,1.0,19930.0
+2012,Korean Grand Prix,Fernando Alonso,Ferrari,3,2.0,20090.0
+2012,Korean Grand Prix,Felipe Massa,Ferrari,4,2.0,20855.0
+2012,Korean Grand Prix,Lewis Hamilton,McLaren,10,1.0,19638.0
+2012,Korean Grand Prix,Felipe Massa,Ferrari,4,1.0,20607.0
+2012,Japanese Grand Prix,Mark Webber,Red Bull,9,1.0,32462.0
+2012,Japanese Grand Prix,Mark Webber,Red Bull,9,2.0,20691.0
+2012,Korean Grand Prix,Lewis Hamilton,McLaren,10,2.0,20777.0
+2012,Korean Grand Prix,Lewis Hamilton,McLaren,10,3.0,19447.0
+2012,Abu Dhabi Grand Prix,Fernando Alonso,Ferrari,2,1.0,19368.0
+2012,Abu Dhabi Grand Prix,Sebastian Vettel,Red Bull,3,1.0,24962.0
+2012,Abu Dhabi Grand Prix,Sebastian Vettel,Red Bull,3,2.0,19918.0
+2012,Abu Dhabi Grand Prix,Jenson Button,McLaren,4,1.0,19455.0
+2012,Abu Dhabi Grand Prix,Felipe Massa,Ferrari,7,1.0,19585.0
+2012,Indian Grand Prix,Sebastian Vettel,Red Bull,1,1.0,20707.0
+2012,Indian Grand Prix,Fernando Alonso,Ferrari,2,1.0,20800.0
+2012,Indian Grand Prix,Mark Webber,Red Bull,3,1.0,20808.0
+2012,Indian Grand Prix,Lewis Hamilton,McLaren,4,1.0,20852.0
+2012,Indian Grand Prix,Jenson Button,McLaren,5,1.0,21509.0
+2012,Indian Grand Prix,Felipe Massa,Ferrari,6,1.0,21100.0
+2012,British Grand Prix,Mark Webber,Red Bull,1,1.0,25854.0
+2012,German Grand Prix,Sebastian Vettel,Red Bull,5,2.0,17859.0
+2012,Chinese Grand Prix,Felipe Massa,Ferrari,13,1.0,20250.0
+2012,Bahrain Grand Prix,Sebastian Vettel,Red Bull,1,1.0,22017.0
+2012,Bahrain Grand Prix,Sebastian Vettel,Red Bull,1,2.0,22717.0
+2012,Chinese Grand Prix,Felipe Massa,Ferrari,13,2.0,20051.0
+2012,Chinese Grand Prix,Jenson Button,McLaren,2,3.0,26618.0
+2012,Chinese Grand Prix,Jenson Button,McLaren,2,1.0,20563.0
+2012,Chinese Grand Prix,Jenson Button,McLaren,2,2.0,20474.0
+2012,Chinese Grand Prix,Lewis Hamilton,McLaren,3,3.0,20177.0
+2012,Chinese Grand Prix,Lewis Hamilton,McLaren,3,1.0,20903.0
+2012,Chinese Grand Prix,Lewis Hamilton,McLaren,3,2.0,20691.0
+2012,Chinese Grand Prix,Mark Webber,Red Bull,4,3.0,20471.0
+2012,Chinese Grand Prix,Mark Webber,Red Bull,4,1.0,20474.0
+2012,Chinese Grand Prix,Mark Webber,Red Bull,4,2.0,20377.0
+2012,Chinese Grand Prix,Sebastian Vettel,Red Bull,5,2.0,21146.0
+2012,Chinese Grand Prix,Sebastian Vettel,Red Bull,5,1.0,21449.0
+2012,Chinese Grand Prix,Fernando Alonso,Ferrari,9,2.0,20136.0
+2012,Chinese Grand Prix,Fernando Alonso,Ferrari,9,3.0,20024.0
+2012,Chinese Grand Prix,Fernando Alonso,Ferrari,9,1.0,20296.0
+2012,Bahrain Grand Prix,Sebastian Vettel,Red Bull,1,3.0,21800.0
+2012,Bahrain Grand Prix,Jenson Button,McLaren,18,1.0,23016.0
+2012,Bahrain Grand Prix,Jenson Button,McLaren,18,2.0,22270.0
+2012,Bahrain Grand Prix,Jenson Button,McLaren,18,3.0,22616.0
+2012,Bahrain Grand Prix,Jenson Button,McLaren,18,4.0,23943.0
+2012,Bahrain Grand Prix,Mark Webber,Red Bull,4,1.0,22236.0
+2012,Bahrain Grand Prix,Mark Webber,Red Bull,4,2.0,22649.0
+2012,Bahrain Grand Prix,Mark Webber,Red Bull,4,3.0,21705.0
+2012,Bahrain Grand Prix,Fernando Alonso,Ferrari,7,1.0,22094.0
+2012,Bahrain Grand Prix,Fernando Alonso,Ferrari,7,2.0,23449.0
+2012,Bahrain Grand Prix,Fernando Alonso,Ferrari,7,3.0,23207.0
+2012,Bahrain Grand Prix,Lewis Hamilton,McLaren,8,1.0,28341.0
+2012,Bahrain Grand Prix,Lewis Hamilton,McLaren,8,2.0,30622.0
+2012,Bahrain Grand Prix,Lewis Hamilton,McLaren,8,3.0,23696.0
+2012,Bahrain Grand Prix,Felipe Massa,Ferrari,9,1.0,23557.0
+2012,Bahrain Grand Prix,Felipe Massa,Ferrari,9,2.0,21963.0
+2012,Bahrain Grand Prix,Felipe Massa,Ferrari,9,3.0,21938.0
+2012,Australian Grand Prix,Felipe Massa,Ferrari,\N,1.0,22313.0
+2012,Australian Grand Prix,Felipe Massa,Ferrari,\N,2.0,22528.0
+2012,Australian Grand Prix,Felipe Massa,Ferrari,\N,3.0,22103.0
+2012,Malaysian Grand Prix,Fernando Alonso,Ferrari,1,1.0,24653.0
+2012,Malaysian Grand Prix,Fernando Alonso,Ferrari,1,2.0,22864.0
+2012,Malaysian Grand Prix,Fernando Alonso,Ferrari,1,3.0,22534.0
+2012,Malaysian Grand Prix,Lewis Hamilton,McLaren,3,1.0,24271.0
+2012,Malaysian Grand Prix,Lewis Hamilton,McLaren,3,2.0,27961.0
+2012,Malaysian Grand Prix,Lewis Hamilton,McLaren,3,3.0,26338.0
+2012,Malaysian Grand Prix,Mark Webber,Red Bull,4,1.0,24569.0
+2012,Malaysian Grand Prix,Mark Webber,Red Bull,4,2.0,26337.0
+2012,Australian Grand Prix,Jenson Button,McLaren,1,1.0,23275.0
+2012,Australian Grand Prix,Jenson Button,McLaren,1,2.0,22837.0
+2012,Australian Grand Prix,Sebastian Vettel,Red Bull,2,1.0,24256.0
+2012,Australian Grand Prix,Lewis Hamilton,McLaren,3,1.0,22862.0
+2012,Australian Grand Prix,Lewis Hamilton,McLaren,3,2.0,23464.0
+2012,Australian Grand Prix,Mark Webber,Red Bull,4,1.0,23302.0
+2012,Australian Grand Prix,Mark Webber,Red Bull,4,2.0,22915.0
+2012,Australian Grand Prix,Fernando Alonso,Ferrari,5,1.0,22035.0
+2012,Australian Grand Prix,Fernando Alonso,Ferrari,5,2.0,21910.0
+2012,Malaysian Grand Prix,Mark Webber,Red Bull,4,3.0,23195.0
+2012,Malaysian Grand Prix,Jenson Button,McLaren,14,5.0,23477.0
+2012,Malaysian Grand Prix,Felipe Massa,Ferrari,15,1.0,24034.0
+2012,Malaysian Grand Prix,Felipe Massa,Ferrari,15,2.0,24420.0
+2012,Malaysian Grand Prix,Felipe Massa,Ferrari,15,3.0,23130.0
+2012,Malaysian Grand Prix,Felipe Massa,Ferrari,15,4.0,26934.0
+2012,Malaysian Grand Prix,Jenson Button,McLaren,14,4.0,23509.0
+2012,Malaysian Grand Prix,Jenson Button,McLaren,14,3.0,36517.0
+2012,Malaysian Grand Prix,Jenson Button,McLaren,14,1.0,24305.0
+2012,Malaysian Grand Prix,Sebastian Vettel,Red Bull,11,1.0,25658.0
+2012,Malaysian Grand Prix,Sebastian Vettel,Red Bull,11,2.0,24057.0
+2012,Malaysian Grand Prix,Sebastian Vettel,Red Bull,11,3.0,22998.0
+2012,Malaysian Grand Prix,Sebastian Vettel,Red Bull,11,4.0,25884.0
+2012,Malaysian Grand Prix,Jenson Button,McLaren,14,2.0,25922.0
+2012,Australian Grand Prix,Sebastian Vettel,Red Bull,2,2.0,24131.0
+2012,European Grand Prix,Jenson Button,McLaren,8,2.0,19640.0
+2012,European Grand Prix,Felipe Massa,Ferrari,16,1.0,20498.0
+2012,European Grand Prix,Felipe Massa,Ferrari,16,2.0,20126.0
+2012,European Grand Prix,Felipe Massa,Ferrari,16,3.0,39041.0
+2012,European Grand Prix,Felipe Massa,Ferrari,16,4.0,20476.0
+2012,European Grand Prix,Lewis Hamilton,McLaren,19,1.0,19355.0
+2012,European Grand Prix,Jenson Button,McLaren,8,1.0,20246.0
+2012,Canadian Grand Prix,Jenson Button,McLaren,16,1.0,21748.0
+2012,Canadian Grand Prix,Jenson Button,McLaren,16,2.0,21845.0
+2012,Canadian Grand Prix,Jenson Button,McLaren,16,3.0,21363.0
+2012,European Grand Prix,Fernando Alonso,Ferrari,1,1.0,19789.0
+2012,European Grand Prix,Fernando Alonso,Ferrari,1,2.0,20718.0
+2012,European Grand Prix,Mark Webber,Red Bull,4,1.0,20246.0
+2012,European Grand Prix,Mark Webber,Red Bull,4,2.0,20222.0
+2012,European Grand Prix,Lewis Hamilton,McLaren,19,2.0,31081.0
+2012,European Grand Prix,Sebastian Vettel,Red Bull,\N,1.0,20357.0
+2012,German Grand Prix,Fernando Alonso,Ferrari,1,1.0,17570.0
+2012,German Grand Prix,Fernando Alonso,Ferrari,1,2.0,17942.0
+2012,German Grand Prix,Jenson Button,McLaren,2,1.0,17867.0
+2012,German Grand Prix,Jenson Button,McLaren,2,2.0,16831.0
+2012,German Grand Prix,Sebastian Vettel,Red Bull,5,1.0,17512.0
+2012,European Grand Prix,Sebastian Vettel,Red Bull,\N,2.0,20023.0
+2012,British Grand Prix,Mark Webber,Red Bull,1,2.0,25179.0
+2012,British Grand Prix,Fernando Alonso,Ferrari,2,1.0,25372.0
+2012,British Grand Prix,Fernando Alonso,Ferrari,2,2.0,24998.0
+2012,British Grand Prix,Sebastian Vettel,Red Bull,3,2.0,25319.0
+2012,British Grand Prix,Sebastian Vettel,Red Bull,3,1.0,25829.0
+2012,British Grand Prix,Felipe Massa,Ferrari,4,1.0,25325.0
+2012,British Grand Prix,Felipe Massa,Ferrari,4,2.0,25110.0
+2012,British Grand Prix,Lewis Hamilton,McLaren,8,1.0,24498.0
+2012,British Grand Prix,Lewis Hamilton,McLaren,8,2.0,25003.0
+2012,British Grand Prix,Jenson Button,McLaren,10,1.0,25138.0
+2012,British Grand Prix,Jenson Button,McLaren,10,2.0,24762.0
+2012,Spanish Grand Prix,Mark Webber,Red Bull,11,1.0,20119.0
+2012,Spanish Grand Prix,Mark Webber,Red Bull,11,2.0,24864.0
+2012,Spanish Grand Prix,Mark Webber,Red Bull,11,3.0,20129.0
+2012,Spanish Grand Prix,Felipe Massa,Ferrari,15,1.0,20130.0
+2012,Spanish Grand Prix,Felipe Massa,Ferrari,15,2.0,13259.0
+2012,Spanish Grand Prix,Felipe Massa,Ferrari,15,3.0,19699.0
+2012,Spanish Grand Prix,Felipe Massa,Ferrari,15,4.0,22645.0
+2012,Spanish Grand Prix,Jenson Button,McLaren,9,3.0,19888.0
+2012,Spanish Grand Prix,Jenson Button,McLaren,9,2.0,21061.0
+2012,Spanish Grand Prix,Jenson Button,McLaren,9,1.0,20333.0
+2012,Spanish Grand Prix,Fernando Alonso,Ferrari,2,1.0,19456.0
+2012,Spanish Grand Prix,Fernando Alonso,Ferrari,2,2.0,20028.0
+2012,Spanish Grand Prix,Fernando Alonso,Ferrari,2,3.0,20105.0
+2012,Spanish Grand Prix,Sebastian Vettel,Red Bull,6,1.0,19745.0
+2012,Spanish Grand Prix,Sebastian Vettel,Red Bull,6,2.0,19624.0
+2012,Spanish Grand Prix,Sebastian Vettel,Red Bull,6,3.0,13335.0
+2012,Spanish Grand Prix,Sebastian Vettel,Red Bull,6,4.0,26143.0
+2012,Spanish Grand Prix,Lewis Hamilton,McLaren,8,1.0,21963.0
+2012,Spanish Grand Prix,Lewis Hamilton,McLaren,8,2.0,19980.0
+2012,Monaco Grand Prix,Jenson Button,McLaren,16,1.0,25219.0
+2012,Canadian Grand Prix,Lewis Hamilton,McLaren,1,1.0,21375.0
+2012,Canadian Grand Prix,Sebastian Vettel,Red Bull,4,1.0,21639.0
+2012,Canadian Grand Prix,Sebastian Vettel,Red Bull,4,2.0,22428.0
+2012,Canadian Grand Prix,Fernando Alonso,Ferrari,5,1.0,21133.0
+2012,Canadian Grand Prix,Mark Webber,Red Bull,7,1.0,21199.0
+2012,Canadian Grand Prix,Mark Webber,Red Bull,7,2.0,21254.0
+2012,Canadian Grand Prix,Felipe Massa,Ferrari,10,1.0,21128.0
+2012,Canadian Grand Prix,Felipe Massa,Ferrari,10,2.0,21115.0
+2012,Canadian Grand Prix,Lewis Hamilton,McLaren,1,2.0,22530.0
+2012,Monaco Grand Prix,Mark Webber,Red Bull,1,1.0,25566.0
+2012,Monaco Grand Prix,Sebastian Vettel,Red Bull,4,1.0,25079.0
+2012,Monaco Grand Prix,Fernando Alonso,Ferrari,3,1.0,25220.0
+2012,Monaco Grand Prix,Felipe Massa,Ferrari,6,1.0,24993.0
+2012,Monaco Grand Prix,Lewis Hamilton,McLaren,5,1.0,25748.0
+2013,Italian Grand Prix,Sergio Pérez,McLaren,12,1.0,25933.0
+2013,Singapore Grand Prix,Sebastian Vettel,Red Bull,1,2.0,28934.0
+2013,Singapore Grand Prix,Sebastian Vettel,Red Bull,1,1.0,28787.0
+2013,Singapore Grand Prix,Fernando Alonso,Ferrari,2,2.0,29176.0
+2013,Singapore Grand Prix,Fernando Alonso,Ferrari,2,1.0,29436.0
+2013,Italian Grand Prix,Jenson Button,McLaren,10,1.0,24450.0
+2013,Singapore Grand Prix,Felipe Massa,Ferrari,6,2.0,29136.0
+2013,Italian Grand Prix,Sebastian Vettel,Red Bull,1,1.0,24305.0
+2013,Italian Grand Prix,Fernando Alonso,Ferrari,2,1.0,24208.0
+2013,Italian Grand Prix,Mark Webber,Red Bull,3,1.0,24205.0
+2013,Italian Grand Prix,Felipe Massa,Ferrari,4,1.0,24692.0
+2013,Singapore Grand Prix,Felipe Massa,Ferrari,6,3.0,29573.0
+2013,Singapore Grand Prix,Jenson Button,McLaren,7,2.0,30085.0
+2013,Korean Grand Prix,Sebastian Vettel,Red Bull,1,1.0,22662.0
+2013,Korean Grand Prix,Sebastian Vettel,Red Bull,1,2.0,22935.0
+2013,Korean Grand Prix,Fernando Alonso,Ferrari,6,1.0,22208.0
+2013,Korean Grand Prix,Fernando Alonso,Ferrari,6,2.0,22807.0
+2013,Korean Grand Prix,Jenson Button,McLaren,8,1.0,26948.0
+2013,Korean Grand Prix,Felipe Massa,Ferrari,9,1.0,22474.0
+2013,Korean Grand Prix,Felipe Massa,Ferrari,9,2.0,22401.0
+2013,Singapore Grand Prix,Jenson Button,McLaren,7,1.0,29284.0
+2013,Singapore Grand Prix,Sergio Pérez,McLaren,8,2.0,29396.0
+2013,Singapore Grand Prix,Sergio Pérez,McLaren,8,1.0,28709.0
+2013,Singapore Grand Prix,Mark Webber,Red Bull,15,2.0,28909.0
+2013,Singapore Grand Prix,Mark Webber,Red Bull,15,1.0,29031.0
+2013,Singapore Grand Prix,Felipe Massa,Ferrari,6,1.0,29040.0
+2013,Korean Grand Prix,Jenson Button,McLaren,8,2.0,25946.0
+2013,Hungarian Grand Prix,Felipe Massa,Ferrari,8,3.0,21612.0
+2013,Hungarian Grand Prix,Sebastian Vettel,Red Bull,3,1.0,21343.0
+2013,Hungarian Grand Prix,Sebastian Vettel,Red Bull,3,2.0,21863.0
+2013,Hungarian Grand Prix,Sebastian Vettel,Red Bull,3,3.0,21666.0
+2013,Hungarian Grand Prix,Mark Webber,Red Bull,4,1.0,21762.0
+2013,Hungarian Grand Prix,Mark Webber,Red Bull,4,2.0,22349.0
+2013,Hungarian Grand Prix,Mark Webber,Red Bull,4,3.0,22022.0
+2013,Hungarian Grand Prix,Fernando Alonso,Ferrari,5,1.0,21599.0
+2013,Hungarian Grand Prix,Fernando Alonso,Ferrari,5,2.0,22249.0
+2013,Hungarian Grand Prix,Fernando Alonso,Ferrari,5,3.0,21753.0
+2013,German Grand Prix,Mark Webber,Red Bull,7,2.0,19991.0
+2013,German Grand Prix,Mark Webber,Red Bull,7,3.0,19921.0
+2013,Korean Grand Prix,Sergio Pérez,McLaren,10,1.0,22901.0
+2013,German Grand Prix,Sergio Pérez,McLaren,8,1.0,20432.0
+2013,German Grand Prix,Sergio Pérez,McLaren,8,2.0,20433.0
+2013,Hungarian Grand Prix,Jenson Button,McLaren,7,1.0,22107.0
+2013,Hungarian Grand Prix,Felipe Massa,Ferrari,8,1.0,23012.0
+2013,Belgian Grand Prix,Sebastian Vettel,Red Bull,1,1.0,22685.0
+2013,Belgian Grand Prix,Sebastian Vettel,Red Bull,1,2.0,22884.0
+2013,Belgian Grand Prix,Fernando Alonso,Ferrari,2,1.0,22631.0
+2013,Belgian Grand Prix,Fernando Alonso,Ferrari,2,2.0,22444.0
+2013,Belgian Grand Prix,Mark Webber,Red Bull,5,1.0,23004.0
+2013,Belgian Grand Prix,Jenson Button,McLaren,6,1.0,22465.0
+2013,Belgian Grand Prix,Jenson Button,McLaren,6,2.0,23317.0
+2013,Belgian Grand Prix,Felipe Massa,Ferrari,7,1.0,22872.0
+2013,Belgian Grand Prix,Felipe Massa,Ferrari,7,2.0,22634.0
+2013,Belgian Grand Prix,Sergio Pérez,McLaren,11,1.0,17378.0
+2013,Belgian Grand Prix,Sergio Pérez,McLaren,11,2.0,22597.0
+2013,Belgian Grand Prix,Mark Webber,Red Bull,5,2.0,23477.0
+2013,Hungarian Grand Prix,Felipe Massa,Ferrari,8,2.0,21753.0
+2013,Hungarian Grand Prix,Sergio Pérez,McLaren,9,1.0,22323.0
+2013,Hungarian Grand Prix,Sergio Pérez,McLaren,9,2.0,22722.0
+2013,Hungarian Grand Prix,Jenson Button,McLaren,7,2.0,22496.0
+2013,Korean Grand Prix,Sergio Pérez,McLaren,10,2.0,38893.0
+2013,United States Grand Prix,Sebastian Vettel,Red Bull,1,1.0,24086.0
+2013,United States Grand Prix,Mark Webber,Red Bull,3,1.0,23537.0
+2013,United States Grand Prix,Fernando Alonso,Ferrari,5,1.0,23817.0
+2013,United States Grand Prix,Sergio Pérez,McLaren,7,1.0,23808.0
+2013,United States Grand Prix,Jenson Button,McLaren,10,1.0,24589.0
+2013,United States Grand Prix,Felipe Massa,Ferrari,13,1.0,23936.0
+2013,United States Grand Prix,Felipe Massa,Ferrari,13,2.0,24116.0
+2013,Abu Dhabi Grand Prix,Sebastian Vettel,Red Bull,1,2.0,21298.0
+2013,Abu Dhabi Grand Prix,Mark Webber,Red Bull,2,1.0,21175.0
+2013,Abu Dhabi Grand Prix,Mark Webber,Red Bull,2,2.0,21911.0
+2013,Abu Dhabi Grand Prix,Fernando Alonso,Ferrari,5,1.0,21530.0
+2013,Abu Dhabi Grand Prix,Fernando Alonso,Ferrari,5,2.0,21453.0
+2013,Abu Dhabi Grand Prix,Felipe Massa,Ferrari,8,1.0,21485.0
+2013,Abu Dhabi Grand Prix,Felipe Massa,Ferrari,8,2.0,22315.0
+2013,Abu Dhabi Grand Prix,Sergio Pérez,McLaren,9,2.0,21370.0
+2013,Abu Dhabi Grand Prix,Jenson Button,McLaren,12,1.0,27176.0
+2013,Abu Dhabi Grand Prix,Jenson Button,McLaren,12,2.0,21516.0
+2013,Abu Dhabi Grand Prix,Sergio Pérez,McLaren,9,1.0,21503.0
+2013,German Grand Prix,Mark Webber,Red Bull,7,1.0,162042.0
+2013,Brazilian Grand Prix,Sebastian Vettel,Red Bull,1,1.0,22510.0
+2013,Brazilian Grand Prix,Sebastian Vettel,Red Bull,1,2.0,32899.0
+2013,Brazilian Grand Prix,Mark Webber,Red Bull,2,1.0,25012.0
+2013,Brazilian Grand Prix,Mark Webber,Red Bull,2,2.0,26718.0
+2013,Brazilian Grand Prix,Fernando Alonso,Ferrari,3,1.0,22755.0
+2013,Brazilian Grand Prix,Fernando Alonso,Ferrari,3,2.0,22732.0
+2013,Brazilian Grand Prix,Jenson Button,McLaren,4,1.0,22746.0
+2013,Brazilian Grand Prix,Jenson Button,McLaren,4,2.0,23788.0
+2013,Brazilian Grand Prix,Sergio Pérez,McLaren,6,1.0,22591.0
+2013,Brazilian Grand Prix,Sergio Pérez,McLaren,6,2.0,22397.0
+2013,Brazilian Grand Prix,Felipe Massa,Ferrari,7,1.0,22342.0
+2013,Brazilian Grand Prix,Felipe Massa,Ferrari,7,2.0,17367.0
+2013,Brazilian Grand Prix,Felipe Massa,Ferrari,7,3.0,22655.0
+2013,Abu Dhabi Grand Prix,Sebastian Vettel,Red Bull,1,1.0,22275.0
+2013,Indian Grand Prix,Mark Webber,Red Bull,\N,2.0,23459.0
+2013,Japanese Grand Prix,Mark Webber,Red Bull,2,3.0,23094.0
+2013,Japanese Grand Prix,Fernando Alonso,Ferrari,4,1.0,22645.0
+2013,Japanese Grand Prix,Fernando Alonso,Ferrari,4,2.0,22839.0
+2013,Japanese Grand Prix,Mark Webber,Red Bull,2,2.0,22774.0
+2013,Japanese Grand Prix,Jenson Button,McLaren,9,1.0,23462.0
+2013,Japanese Grand Prix,Jenson Button,McLaren,9,2.0,26263.0
+2013,Japanese Grand Prix,Jenson Button,McLaren,9,3.0,23105.0
+2013,Japanese Grand Prix,Felipe Massa,Ferrari,10,1.0,22946.0
+2013,Japanese Grand Prix,Felipe Massa,Ferrari,10,2.0,22871.0
+2013,Japanese Grand Prix,Felipe Massa,Ferrari,10,3.0,17822.0
+2013,Japanese Grand Prix,Mark Webber,Red Bull,2,1.0,23617.0
+2013,Japanese Grand Prix,Sebastian Vettel,Red Bull,1,2.0,22873.0
+2013,Japanese Grand Prix,Sebastian Vettel,Red Bull,1,1.0,22916.0
+2013,Korean Grand Prix,Mark Webber,Red Bull,\N,1.0,22587.0
+2013,Korean Grand Prix,Mark Webber,Red Bull,\N,2.0,22718.0
+2013,Korean Grand Prix,Mark Webber,Red Bull,\N,3.0,23490.0
+2013,Indian Grand Prix,Fernando Alonso,Ferrari,11,1.0,29800.0
+2013,Indian Grand Prix,Fernando Alonso,Ferrari,11,2.0,23595.0
+2013,Indian Grand Prix,Fernando Alonso,Ferrari,11,3.0,24066.0
+2013,Indian Grand Prix,Jenson Button,McLaren,14,1.0,23517.0
+2013,Indian Grand Prix,Jenson Button,McLaren,14,2.0,23774.0
+2013,Indian Grand Prix,Jenson Button,McLaren,14,3.0,24754.0
+2013,Indian Grand Prix,Mark Webber,Red Bull,\N,1.0,23487.0
+2013,Japanese Grand Prix,Sergio Pérez,McLaren,15,1.0,26423.0
+2013,Japanese Grand Prix,Sergio Pérez,McLaren,15,2.0,27707.0
+2013,Japanese Grand Prix,Sergio Pérez,McLaren,15,3.0,25585.0
+2013,Indian Grand Prix,Sebastian Vettel,Red Bull,1,1.0,24000.0
+2013,Indian Grand Prix,Sebastian Vettel,Red Bull,1,2.0,23568.0
+2013,Indian Grand Prix,Felipe Massa,Ferrari,4,1.0,23579.0
+2013,Indian Grand Prix,Felipe Massa,Ferrari,4,2.0,23332.0
+2013,Indian Grand Prix,Sergio Pérez,McLaren,5,1.0,23541.0
+2013,Indian Grand Prix,Sergio Pérez,McLaren,5,2.0,24910.0
+2013,German Grand Prix,Jenson Button,McLaren,6,2.0,19692.0
+2013,Chinese Grand Prix,Sergio Pérez,McLaren,11,1.0,19969.0
+2013,Chinese Grand Prix,Sergio Pérez,McLaren,11,2.0,20253.0
+2013,Chinese Grand Prix,Fernando Alonso,Ferrari,1,1.0,19719.0
+2013,Chinese Grand Prix,Fernando Alonso,Ferrari,1,2.0,20521.0
+2013,Chinese Grand Prix,Fernando Alonso,Ferrari,1,3.0,21012.0
+2013,Chinese Grand Prix,Sebastian Vettel,Red Bull,4,1.0,19323.0
+2013,Chinese Grand Prix,Sebastian Vettel,Red Bull,4,2.0,20084.0
+2013,Chinese Grand Prix,Sebastian Vettel,Red Bull,4,3.0,20191.0
+2013,Chinese Grand Prix,Jenson Button,McLaren,5,1.0,19898.0
+2013,Chinese Grand Prix,Jenson Button,McLaren,5,2.0,19862.0
+2013,Chinese Grand Prix,Felipe Massa,Ferrari,6,1.0,20753.0
+2013,Chinese Grand Prix,Felipe Massa,Ferrari,6,2.0,20027.0
+2013,Chinese Grand Prix,Felipe Massa,Ferrari,6,3.0,19449.0
+2013,Bahrain Grand Prix,Jenson Button,McLaren,10,1.0,23093.0
+2013,Bahrain Grand Prix,Jenson Button,McLaren,10,2.0,21894.0
+2013,Bahrain Grand Prix,Jenson Button,McLaren,10,3.0,21696.0
+2013,Bahrain Grand Prix,Jenson Button,McLaren,10,4.0,21230.0
+2013,Bahrain Grand Prix,Felipe Massa,Ferrari,15,1.0,21665.0
+2013,Bahrain Grand Prix,Felipe Massa,Ferrari,15,2.0,21722.0
+2013,Bahrain Grand Prix,Felipe Massa,Ferrari,15,3.0,21569.0
+2013,Bahrain Grand Prix,Felipe Massa,Ferrari,15,4.0,27757.0
+2013,Bahrain Grand Prix,Fernando Alonso,Ferrari,8,4.0,21189.0
+2013,Chinese Grand Prix,Mark Webber,Red Bull,\N,1.0,21287.0
+2013,Chinese Grand Prix,Mark Webber,Red Bull,\N,2.0,26956.0
+2013,Bahrain Grand Prix,Sebastian Vettel,Red Bull,1,1.0,21660.0
+2013,Bahrain Grand Prix,Sebastian Vettel,Red Bull,1,2.0,21290.0
+2013,Bahrain Grand Prix,Sebastian Vettel,Red Bull,1,3.0,21906.0
+2013,Bahrain Grand Prix,Sergio Pérez,McLaren,6,1.0,21471.0
+2013,Bahrain Grand Prix,Sergio Pérez,McLaren,6,2.0,21161.0
+2013,Bahrain Grand Prix,Sergio Pérez,McLaren,6,3.0,21319.0
+2013,Bahrain Grand Prix,Mark Webber,Red Bull,7,1.0,21798.0
+2013,Bahrain Grand Prix,Mark Webber,Red Bull,7,2.0,21221.0
+2013,Bahrain Grand Prix,Mark Webber,Red Bull,7,3.0,21031.0
+2013,Bahrain Grand Prix,Fernando Alonso,Ferrari,8,1.0,23055.0
+2013,Bahrain Grand Prix,Fernando Alonso,Ferrari,8,2.0,21436.0
+2013,Bahrain Grand Prix,Fernando Alonso,Ferrari,8,3.0,21123.0
+2013,Australian Grand Prix,Sergio Pérez,McLaren,11,3.0,21705.0
+2013,Malaysian Grand Prix,Sebastian Vettel,Red Bull,1,1.0,21135.0
+2013,Malaysian Grand Prix,Sebastian Vettel,Red Bull,1,2.0,21339.0
+2013,Malaysian Grand Prix,Sebastian Vettel,Red Bull,1,3.0,21482.0
+2013,Australian Grand Prix,Sergio Pérez,McLaren,11,2.0,22004.0
+2013,Australian Grand Prix,Sergio Pérez,McLaren,11,1.0,23677.0
+2013,German Grand Prix,Jenson Button,McLaren,6,1.0,20812.0
+2013,Australian Grand Prix,Fernando Alonso,Ferrari,2,1.0,21792.0
+2013,Australian Grand Prix,Fernando Alonso,Ferrari,2,2.0,21606.0
+2013,Australian Grand Prix,Fernando Alonso,Ferrari,2,3.0,21704.0
+2013,Australian Grand Prix,Sebastian Vettel,Red Bull,3,1.0,21807.0
+2013,Australian Grand Prix,Sebastian Vettel,Red Bull,3,2.0,22704.0
+2013,Australian Grand Prix,Sebastian Vettel,Red Bull,3,3.0,21596.0
+2013,Australian Grand Prix,Felipe Massa,Ferrari,4,1.0,21754.0
+2013,Australian Grand Prix,Felipe Massa,Ferrari,4,2.0,21511.0
+2013,Australian Grand Prix,Felipe Massa,Ferrari,4,3.0,21509.0
+2013,Australian Grand Prix,Mark Webber,Red Bull,6,1.0,24240.0
+2013,Australian Grand Prix,Mark Webber,Red Bull,6,2.0,21717.0
+2013,Australian Grand Prix,Mark Webber,Red Bull,6,3.0,21515.0
+2013,Australian Grand Prix,Jenson Button,McLaren,9,1.0,22282.0
+2013,Australian Grand Prix,Jenson Button,McLaren,9,2.0,23571.0
+2013,Australian Grand Prix,Jenson Button,McLaren,9,3.0,21538.0
+2013,Malaysian Grand Prix,Sebastian Vettel,Red Bull,1,4.0,20757.0
+2013,Malaysian Grand Prix,Mark Webber,Red Bull,2,1.0,21010.0
+2013,Malaysian Grand Prix,Mark Webber,Red Bull,2,3.0,20883.0
+2013,Malaysian Grand Prix,Jenson Button,McLaren,17,1.0,22448.0
+2013,Malaysian Grand Prix,Jenson Button,McLaren,17,2.0,21028.0
+2013,Malaysian Grand Prix,Jenson Button,McLaren,17,3.0,104833.0
+2013,Malaysian Grand Prix,Mark Webber,Red Bull,2,4.0,20767.0
+2013,Malaysian Grand Prix,Felipe Massa,Ferrari,5,1.0,22403.0
+2013,Malaysian Grand Prix,Felipe Massa,Ferrari,5,2.0,21635.0
+2013,Malaysian Grand Prix,Felipe Massa,Ferrari,5,3.0,21561.0
+2013,Malaysian Grand Prix,Felipe Massa,Ferrari,5,4.0,20970.0
+2013,Malaysian Grand Prix,Sergio Pérez,McLaren,9,1.0,21583.0
+2013,Malaysian Grand Prix,Sergio Pérez,McLaren,9,2.0,20894.0
+2013,Malaysian Grand Prix,Sergio Pérez,McLaren,9,3.0,21338.0
+2013,Malaysian Grand Prix,Sergio Pérez,McLaren,9,4.0,21366.0
+2013,Malaysian Grand Prix,Mark Webber,Red Bull,2,2.0,20736.0
+2013,British Grand Prix,Mark Webber,Red Bull,2,1.0,31448.0
+2013,British Grand Prix,Mark Webber,Red Bull,2,2.0,24781.0
+2013,British Grand Prix,Mark Webber,Red Bull,2,3.0,24473.0
+2013,British Grand Prix,Fernando Alonso,Ferrari,3,1.0,24572.0
+2013,British Grand Prix,Fernando Alonso,Ferrari,3,2.0,24789.0
+2013,British Grand Prix,Fernando Alonso,Ferrari,3,3.0,25018.0
+2013,Canadian Grand Prix,Jenson Button,McLaren,12,1.0,20212.0
+2013,Monaco Grand Prix,Felipe Massa,Ferrari,\N,1.0,25331.0
+2013,Canadian Grand Prix,Sebastian Vettel,Red Bull,1,1.0,20835.0
+2013,Canadian Grand Prix,Sebastian Vettel,Red Bull,1,2.0,20898.0
+2013,Canadian Grand Prix,Fernando Alonso,Ferrari,2,1.0,20512.0
+2013,Canadian Grand Prix,Fernando Alonso,Ferrari,2,2.0,20636.0
+2013,Canadian Grand Prix,Mark Webber,Red Bull,4,1.0,20716.0
+2013,Canadian Grand Prix,Mark Webber,Red Bull,4,2.0,22709.0
+2013,Canadian Grand Prix,Felipe Massa,Ferrari,8,1.0,20473.0
+2013,Canadian Grand Prix,Felipe Massa,Ferrari,8,2.0,20372.0
+2013,Canadian Grand Prix,Sergio Pérez,McLaren,11,1.0,20427.0
+2013,Canadian Grand Prix,Sergio Pérez,McLaren,11,2.0,20805.0
+2013,British Grand Prix,Sergio Pérez,McLaren,20,1.0,24596.0
+2013,British Grand Prix,Sergio Pérez,McLaren,20,2.0,25028.0
+2013,British Grand Prix,Sebastian Vettel,Red Bull,\N,1.0,24159.0
+2013,German Grand Prix,Sebastian Vettel,Red Bull,1,1.0,18979.0
+2013,German Grand Prix,Sebastian Vettel,Red Bull,1,2.0,20039.0
+2013,German Grand Prix,Fernando Alonso,Ferrari,4,1.0,20199.0
+2013,German Grand Prix,Fernando Alonso,Ferrari,4,2.0,19539.0
+2013,German Grand Prix,Fernando Alonso,Ferrari,4,3.0,19476.0
+2013,German Grand Prix,Sebastian Vettel,Red Bull,1,3.0,19118.0
+2013,British Grand Prix,Felipe Massa,Ferrari,6,1.0,35210.0
+2013,British Grand Prix,Felipe Massa,Ferrari,6,2.0,24680.0
+2013,British Grand Prix,Felipe Massa,Ferrari,6,3.0,24400.0
+2013,British Grand Prix,Felipe Massa,Ferrari,6,4.0,24872.0
+2013,British Grand Prix,Jenson Button,McLaren,13,1.0,24745.0
+2013,British Grand Prix,Jenson Button,McLaren,13,2.0,24357.0
+2013,British Grand Prix,Sebastian Vettel,Red Bull,\N,2.0,24092.0
+2013,Spanish Grand Prix,Mark Webber,Red Bull,5,2.0,19151.0
+2013,Spanish Grand Prix,Mark Webber,Red Bull,5,3.0,19170.0
+2013,Spanish Grand Prix,Mark Webber,Red Bull,5,4.0,18931.0
+2013,Spanish Grand Prix,Jenson Button,McLaren,8,1.0,18810.0
+2013,Spanish Grand Prix,Jenson Button,McLaren,8,2.0,19196.0
+2013,Spanish Grand Prix,Mark Webber,Red Bull,5,1.0,19668.0
+2013,Spanish Grand Prix,Jenson Button,McLaren,8,3.0,19290.0
+2013,Spanish Grand Prix,Sergio Pérez,McLaren,9,2.0,20578.0
+2013,Spanish Grand Prix,Sergio Pérez,McLaren,9,3.0,19866.0
+2013,Spanish Grand Prix,Sergio Pérez,McLaren,9,4.0,19993.0
+2013,Spanish Grand Prix,Sergio Pérez,McLaren,9,1.0,19250.0
+2013,Spanish Grand Prix,Sebastian Vettel,Red Bull,4,4.0,18694.0
+2013,Spanish Grand Prix,Sebastian Vettel,Red Bull,4,3.0,19551.0
+2013,Spanish Grand Prix,Sebastian Vettel,Red Bull,4,2.0,18708.0
+2013,Spanish Grand Prix,Fernando Alonso,Ferrari,1,1.0,18909.0
+2013,Spanish Grand Prix,Fernando Alonso,Ferrari,1,2.0,19952.0
+2013,Spanish Grand Prix,Fernando Alonso,Ferrari,1,3.0,19519.0
+2013,Spanish Grand Prix,Fernando Alonso,Ferrari,1,4.0,18471.0
+2013,Spanish Grand Prix,Felipe Massa,Ferrari,3,1.0,19490.0
+2013,Spanish Grand Prix,Felipe Massa,Ferrari,3,2.0,19373.0
+2013,Spanish Grand Prix,Felipe Massa,Ferrari,3,3.0,19326.0
+2013,Spanish Grand Prix,Felipe Massa,Ferrari,3,4.0,19001.0
+2013,Spanish Grand Prix,Sebastian Vettel,Red Bull,4,1.0,18606.0
+2013,Monaco Grand Prix,Sebastian Vettel,Red Bull,2,1.0,24375.0
+2013,Monaco Grand Prix,Mark Webber,Red Bull,3,1.0,24316.0
+2013,Monaco Grand Prix,Jenson Button,McLaren,6,1.0,24585.0
+2013,Monaco Grand Prix,Fernando Alonso,Ferrari,7,1.0,24489.0
+2013,Monaco Grand Prix,Sergio Pérez,McLaren,16,1.0,24672.0
+2014,Singapore Grand Prix,Sebastian Vettel,Red Bull,2,2.0,28733.0
+2014,Singapore Grand Prix,Sebastian Vettel,Red Bull,2,1.0,30147.0
+2014,Singapore Grand Prix,Daniel Ricciardo,Red Bull,3,2.0,29113.0
+2014,Singapore Grand Prix,Daniel Ricciardo,Red Bull,3,1.0,29761.0
+2014,Singapore Grand Prix,Fernando Alonso,Ferrari,4,3.0,28991.0
+2014,Singapore Grand Prix,Fernando Alonso,Ferrari,4,1.0,28912.0
+2014,Singapore Grand Prix,Fernando Alonso,Ferrari,4,2.0,28810.0
+2014,Singapore Grand Prix,Kimi Räikkönen,Ferrari,8,2.0,29164.0
+2014,Singapore Grand Prix,Kimi Räikkönen,Ferrari,8,3.0,30194.0
+2014,Singapore Grand Prix,Kimi Räikkönen,Ferrari,8,1.0,29702.0
+2014,Italian Grand Prix,Daniel Ricciardo,Red Bull,5,1.0,24388.0
+2014,Italian Grand Prix,Sebastian Vettel,Red Bull,6,1.0,25176.0
+2014,Italian Grand Prix,Jenson Button,McLaren,8,1.0,24669.0
+2014,Italian Grand Prix,Kimi Räikkönen,Ferrari,9,1.0,24547.0
+2014,Italian Grand Prix,Kevin Magnussen,McLaren,10,1.0,24214.0
+2014,Italian Grand Prix,Fernando Alonso,Ferrari,\N,1.0,24913.0
+2014,Singapore Grand Prix,Kevin Magnussen,McLaren,10,2.0,28841.0
+2014,Singapore Grand Prix,Kevin Magnussen,McLaren,10,1.0,28684.0
+2014,Japanese Grand Prix,Sebastian Vettel,Red Bull,3,1.0,1134978.0
+2014,Japanese Grand Prix,Sebastian Vettel,Red Bull,3,2.0,23764.0
+2014,Japanese Grand Prix,Sebastian Vettel,Red Bull,3,3.0,23443.0
+2014,Japanese Grand Prix,Daniel Ricciardo,Red Bull,4,1.0,1135520.0
+2014,Japanese Grand Prix,Daniel Ricciardo,Red Bull,4,2.0,24184.0
+2014,Japanese Grand Prix,Jenson Button,McLaren,5,1.0,1136054.0
+2014,Japanese Grand Prix,Jenson Button,McLaren,5,2.0,24532.0
+2014,Japanese Grand Prix,Jenson Button,McLaren,5,3.0,28547.0
+2014,Japanese Grand Prix,Jenson Button,McLaren,5,4.0,24757.0
+2014,Japanese Grand Prix,Daniel Ricciardo,Red Bull,4,3.0,25607.0
+2014,Singapore Grand Prix,Jenson Button,McLaren,\N,2.0,28627.0
+2014,Singapore Grand Prix,Jenson Button,McLaren,\N,1.0,28641.0
+2014,Singapore Grand Prix,Kevin Magnussen,McLaren,10,3.0,28706.0
+2014,Hungarian Grand Prix,Kimi Räikkönen,Ferrari,6,1.0,23214.0
+2014,Hungarian Grand Prix,Kimi Räikkönen,Ferrari,6,2.0,22154.0
+2014,Hungarian Grand Prix,Sebastian Vettel,Red Bull,7,1.0,22170.0
+2014,Hungarian Grand Prix,Sebastian Vettel,Red Bull,7,2.0,21608.0
+2014,Hungarian Grand Prix,Jenson Button,McLaren,10,1.0,26737.0
+2014,Hungarian Grand Prix,Jenson Button,McLaren,10,2.0,22807.0
+2014,Hungarian Grand Prix,Kevin Magnussen,McLaren,12,1.0,23546.0
+2014,Hungarian Grand Prix,Kevin Magnussen,McLaren,12,2.0,21812.0
+2014,Hungarian Grand Prix,Jenson Button,McLaren,10,3.0,22211.0
+2014,Hungarian Grand Prix,Daniel Ricciardo,Red Bull,1,1.0,22205.0
+2014,Hungarian Grand Prix,Daniel Ricciardo,Red Bull,1,2.0,23741.0
+2014,Hungarian Grand Prix,Daniel Ricciardo,Red Bull,1,3.0,22273.0
+2014,Hungarian Grand Prix,Fernando Alonso,Ferrari,2,1.0,22253.0
+2014,Hungarian Grand Prix,Fernando Alonso,Ferrari,2,2.0,21634.0
+2014,Belgian Grand Prix,Kevin Magnussen,McLaren,12,1.0,23115.0
+2014,Belgian Grand Prix,Kevin Magnussen,McLaren,12,2.0,22414.0
+2014,Belgian Grand Prix,Daniel Ricciardo,Red Bull,1,1.0,22913.0
+2014,Belgian Grand Prix,Daniel Ricciardo,Red Bull,1,2.0,22675.0
+2014,Belgian Grand Prix,Kimi Räikkönen,Ferrari,4,1.0,22858.0
+2014,Belgian Grand Prix,Kimi Räikkönen,Ferrari,4,2.0,22819.0
+2014,Belgian Grand Prix,Sebastian Vettel,Red Bull,5,1.0,22800.0
+2014,Belgian Grand Prix,Sebastian Vettel,Red Bull,5,2.0,22731.0
+2014,Belgian Grand Prix,Sebastian Vettel,Red Bull,5,3.0,23190.0
+2014,Belgian Grand Prix,Jenson Button,McLaren,6,1.0,22800.0
+2014,Belgian Grand Prix,Jenson Button,McLaren,6,2.0,22588.0
+2014,Belgian Grand Prix,Fernando Alonso,Ferrari,7,1.0,28920.0
+2014,Belgian Grand Prix,Fernando Alonso,Ferrari,7,2.0,22974.0
+2014,Brazilian Grand Prix,Kimi Räikkönen,Ferrari,7,2.0,27934.0
+2014,Brazilian Grand Prix,Kevin Magnussen,McLaren,9,1.0,23061.0
+2014,Brazilian Grand Prix,Kevin Magnussen,McLaren,9,2.0,24190.0
+2014,Brazilian Grand Prix,Kevin Magnussen,McLaren,9,3.0,24131.0
+2014,Brazilian Grand Prix,Kimi Räikkönen,Ferrari,7,1.0,23427.0
+2014,Brazilian Grand Prix,Fernando Alonso,Ferrari,6,3.0,23077.0
+2014,Brazilian Grand Prix,Fernando Alonso,Ferrari,6,2.0,23134.0
+2014,Brazilian Grand Prix,Fernando Alonso,Ferrari,6,1.0,23278.0
+2014,Brazilian Grand Prix,Jenson Button,McLaren,4,1.0,23018.0
+2014,Brazilian Grand Prix,Jenson Button,McLaren,4,2.0,22620.0
+2014,Brazilian Grand Prix,Jenson Button,McLaren,4,3.0,23383.0
+2014,Brazilian Grand Prix,Sebastian Vettel,Red Bull,5,1.0,23808.0
+2014,Brazilian Grand Prix,Sebastian Vettel,Red Bull,5,2.0,23195.0
+2014,Brazilian Grand Prix,Sebastian Vettel,Red Bull,5,3.0,22746.0
+2014,United States Grand Prix,Kimi Räikkönen,Ferrari,13,3.0,24226.0
+2014,Abu Dhabi Grand Prix,Kevin Magnussen,McLaren,11,1.0,22087.0
+2014,Abu Dhabi Grand Prix,Kevin Magnussen,McLaren,11,2.0,21623.0
+2014,Abu Dhabi Grand Prix,Kimi Räikkönen,Ferrari,10,2.0,22206.0
+2014,Abu Dhabi Grand Prix,Kimi Räikkönen,Ferrari,10,1.0,21546.0
+2014,Abu Dhabi Grand Prix,Fernando Alonso,Ferrari,9,2.0,22068.0
+2014,Abu Dhabi Grand Prix,Fernando Alonso,Ferrari,9,1.0,21619.0
+2014,Brazilian Grand Prix,Daniel Ricciardo,Red Bull,\N,1.0,23141.0
+2014,Brazilian Grand Prix,Daniel Ricciardo,Red Bull,\N,2.0,22871.0
+2014,Abu Dhabi Grand Prix,Daniel Ricciardo,Red Bull,4,1.0,21747.0
+2014,Abu Dhabi Grand Prix,Daniel Ricciardo,Red Bull,4,2.0,21582.0
+2014,Abu Dhabi Grand Prix,Jenson Button,McLaren,5,1.0,22627.0
+2014,Abu Dhabi Grand Prix,Jenson Button,McLaren,5,2.0,22042.0
+2014,Abu Dhabi Grand Prix,Sebastian Vettel,Red Bull,8,1.0,23094.0
+2014,Abu Dhabi Grand Prix,Sebastian Vettel,Red Bull,8,2.0,21611.0
+2014,United States Grand Prix,Kimi Räikkönen,Ferrari,13,2.0,23872.0
+2014,United States Grand Prix,Kimi Räikkönen,Ferrari,13,1.0,24131.0
+2014,United States Grand Prix,Jenson Button,McLaren,12,2.0,23546.0
+2014,Japanese Grand Prix,Kevin Magnussen,McLaren,14,5.0,24361.0
+2014,Japanese Grand Prix,Kevin Magnussen,McLaren,14,4.0,23701.0
+2014,Japanese Grand Prix,Kimi Räikkönen,Ferrari,12,1.0,1135276.0
+2014,Japanese Grand Prix,Kimi Räikkönen,Ferrari,12,2.0,25191.0
+2014,Japanese Grand Prix,Kimi Räikkönen,Ferrari,12,3.0,32466.0
+2014,Japanese Grand Prix,Kimi Räikkönen,Ferrari,12,4.0,24173.0
+2014,Japanese Grand Prix,Kimi Räikkönen,Ferrari,12,5.0,24768.0
+2014,Japanese Grand Prix,Kevin Magnussen,McLaren,14,1.0,1135891.0
+2014,Japanese Grand Prix,Kevin Magnussen,McLaren,14,2.0,24550.0
+2014,Japanese Grand Prix,Kevin Magnussen,McLaren,14,3.0,33215.0
+2014,United States Grand Prix,Daniel Ricciardo,Red Bull,3,1.0,24040.0
+2014,United States Grand Prix,Daniel Ricciardo,Red Bull,3,2.0,24356.0
+2014,United States Grand Prix,Fernando Alonso,Ferrari,6,1.0,24601.0
+2014,United States Grand Prix,Fernando Alonso,Ferrari,6,2.0,24133.0
+2014,United States Grand Prix,Sebastian Vettel,Red Bull,7,1.0,24226.0
+2014,United States Grand Prix,Sebastian Vettel,Red Bull,7,2.0,23909.0
+2014,United States Grand Prix,Sebastian Vettel,Red Bull,7,3.0,23799.0
+2014,United States Grand Prix,Sebastian Vettel,Red Bull,7,4.0,23948.0
+2014,United States Grand Prix,Kevin Magnussen,McLaren,8,1.0,26881.0
+2014,United States Grand Prix,Kevin Magnussen,McLaren,8,2.0,24497.0
+2014,United States Grand Prix,Jenson Button,McLaren,12,1.0,26806.0
+2014,Japanese Grand Prix,Fernando Alonso,Ferrari,\N,1.0,1137051.0
+2014,Russian Grand Prix,Jenson Button,McLaren,4,1.0,29994.0
+2014,Russian Grand Prix,Kevin Magnussen,McLaren,5,1.0,29736.0
+2014,Russian Grand Prix,Fernando Alonso,Ferrari,6,1.0,35112.0
+2014,Russian Grand Prix,Daniel Ricciardo,Red Bull,7,1.0,30006.0
+2014,Russian Grand Prix,Sebastian Vettel,Red Bull,8,1.0,30355.0
+2014,Russian Grand Prix,Kimi Räikkönen,Ferrari,9,1.0,30097.0
+2014,Bahrain Grand Prix,Jenson Button,McLaren,17,1.0,24476.0
+2014,Bahrain Grand Prix,Jenson Button,McLaren,17,2.0,25245.0
+2014,Bahrain Grand Prix,Kevin Magnussen,McLaren,\N,1.0,24611.0
+2014,Bahrain Grand Prix,Kevin Magnussen,McLaren,\N,2.0,24559.0
+2014,Bahrain Grand Prix,Kevin Magnussen,McLaren,\N,3.0,25572.0
+2014,Bahrain Grand Prix,Sebastian Vettel,Red Bull,6,2.0,26186.0
+2014,Bahrain Grand Prix,Fernando Alonso,Ferrari,9,1.0,25770.0
+2014,Bahrain Grand Prix,Fernando Alonso,Ferrari,9,2.0,24576.0
+2014,Bahrain Grand Prix,Fernando Alonso,Ferrari,9,3.0,24493.0
+2014,Bahrain Grand Prix,Kimi Räikkönen,Ferrari,10,1.0,25009.0
+2014,Bahrain Grand Prix,Kimi Räikkönen,Ferrari,10,2.0,25415.0
+2014,Bahrain Grand Prix,Kimi Räikkönen,Ferrari,10,3.0,24453.0
+2014,Bahrain Grand Prix,Sebastian Vettel,Red Bull,6,1.0,24964.0
+2014,Chinese Grand Prix,Fernando Alonso,Ferrari,3,1.0,22776.0
+2014,Chinese Grand Prix,Daniel Ricciardo,Red Bull,4,1.0,23186.0
+2014,Spanish Grand Prix,Daniel Ricciardo,Red Bull,3,1.0,21969.0
+2014,Spanish Grand Prix,Daniel Ricciardo,Red Bull,3,2.0,21830.0
+2014,Spanish Grand Prix,Sebastian Vettel,Red Bull,4,1.0,21974.0
+2014,Spanish Grand Prix,Sebastian Vettel,Red Bull,4,2.0,21599.0
+2014,Spanish Grand Prix,Sebastian Vettel,Red Bull,4,3.0,21608.0
+2014,Chinese Grand Prix,Daniel Ricciardo,Red Bull,4,2.0,22498.0
+2014,Chinese Grand Prix,Sebastian Vettel,Red Bull,5,1.0,22570.0
+2014,Chinese Grand Prix,Sebastian Vettel,Red Bull,5,2.0,22246.0
+2014,Chinese Grand Prix,Kimi Räikkönen,Ferrari,8,1.0,22994.0
+2014,Chinese Grand Prix,Kimi Räikkönen,Ferrari,8,2.0,23291.0
+2014,Chinese Grand Prix,Jenson Button,McLaren,11,1.0,22408.0
+2014,Chinese Grand Prix,Jenson Button,McLaren,11,2.0,22548.0
+2014,Chinese Grand Prix,Kevin Magnussen,McLaren,13,1.0,23670.0
+2014,Chinese Grand Prix,Kevin Magnussen,McLaren,13,2.0,22579.0
+2014,Chinese Grand Prix,Fernando Alonso,Ferrari,3,2.0,22947.0
+2014,Bahrain Grand Prix,Daniel Ricciardo,Red Bull,4,2.0,24816.0
+2014,Australian Grand Prix,Daniel Ricciardo,Red Bull,\N,1.0,22994.0
+2014,Australian Grand Prix,Daniel Ricciardo,Red Bull,\N,2.0,22427.0
+2014,Malaysian Grand Prix,Sebastian Vettel,Red Bull,3,1.0,24432.0
+2014,Malaysian Grand Prix,Sebastian Vettel,Red Bull,3,2.0,24728.0
+2014,Malaysian Grand Prix,Sebastian Vettel,Red Bull,3,3.0,25186.0
+2014,Malaysian Grand Prix,Fernando Alonso,Ferrari,4,1.0,24466.0
+2014,Malaysian Grand Prix,Fernando Alonso,Ferrari,4,2.0,24222.0
+2014,Australian Grand Prix,Kevin Magnussen,McLaren,2,1.0,23150.0
+2014,Australian Grand Prix,Kevin Magnussen,McLaren,2,2.0,22273.0
+2014,Australian Grand Prix,Jenson Button,McLaren,3,1.0,22411.0
+2014,Australian Grand Prix,Jenson Button,McLaren,3,2.0,22399.0
+2014,Australian Grand Prix,Fernando Alonso,Ferrari,4,1.0,22887.0
+2014,Australian Grand Prix,Fernando Alonso,Ferrari,4,2.0,21978.0
+2014,Australian Grand Prix,Kimi Räikkönen,Ferrari,7,1.0,25543.0
+2014,Australian Grand Prix,Kimi Räikkönen,Ferrari,7,2.0,21825.0
+2014,Malaysian Grand Prix,Fernando Alonso,Ferrari,4,3.0,24641.0
+2014,Malaysian Grand Prix,Jenson Button,McLaren,6,1.0,24841.0
+2014,Malaysian Grand Prix,Daniel Ricciardo,Red Bull,\N,1.0,24709.0
+2014,Malaysian Grand Prix,Daniel Ricciardo,Red Bull,\N,2.0,24775.0
+2014,Malaysian Grand Prix,Daniel Ricciardo,Red Bull,\N,3.0,109329.0
+2014,Malaysian Grand Prix,Daniel Ricciardo,Red Bull,\N,4.0,34697.0
+2014,Malaysian Grand Prix,Daniel Ricciardo,Red Bull,\N,5.0,34480.0
+2014,Bahrain Grand Prix,Daniel Ricciardo,Red Bull,4,1.0,24706.0
+2014,Malaysian Grand Prix,Jenson Button,McLaren,6,2.0,24524.0
+2014,Malaysian Grand Prix,Jenson Button,McLaren,6,3.0,25028.0
+2014,Malaysian Grand Prix,Kevin Magnussen,McLaren,9,1.0,37116.0
+2014,Malaysian Grand Prix,Kevin Magnussen,McLaren,9,2.0,30661.0
+2014,Malaysian Grand Prix,Kevin Magnussen,McLaren,9,3.0,24415.0
+2014,Malaysian Grand Prix,Kimi Räikkönen,Ferrari,12,1.0,26399.0
+2014,Malaysian Grand Prix,Kimi Räikkönen,Ferrari,12,2.0,24417.0
+2014,Malaysian Grand Prix,Kimi Räikkönen,Ferrari,12,3.0,24246.0
+2014,Spanish Grand Prix,Fernando Alonso,Ferrari,6,1.0,21970.0
+2014,Spanish Grand Prix,Fernando Alonso,Ferrari,6,3.0,21664.0
+2014,Austrian Grand Prix,Sebastian Vettel,Red Bull,\N,1.0,21381.0
+2014,Austrian Grand Prix,Sebastian Vettel,Red Bull,\N,2.0,29844.0
+2014,British Grand Prix,Daniel Ricciardo,Red Bull,3,1.0,28483.0
+2014,British Grand Prix,Jenson Button,McLaren,4,1.0,28645.0
+2014,British Grand Prix,Sebastian Vettel,Red Bull,5,1.0,28558.0
+2014,British Grand Prix,Sebastian Vettel,Red Bull,5,2.0,28787.0
+2014,British Grand Prix,Fernando Alonso,Ferrari,6,1.0,34410.0
+2014,British Grand Prix,Kevin Magnussen,McLaren,7,1.0,28745.0
+2014,Austrian Grand Prix,Fernando Alonso,Ferrari,5,1.0,21234.0
+2014,Austrian Grand Prix,Fernando Alonso,Ferrari,5,2.0,21276.0
+2014,Austrian Grand Prix,Kevin Magnussen,McLaren,7,1.0,21670.0
+2014,Austrian Grand Prix,Kevin Magnussen,McLaren,7,2.0,21882.0
+2014,Austrian Grand Prix,Daniel Ricciardo,Red Bull,8,1.0,21467.0
+2014,Austrian Grand Prix,Daniel Ricciardo,Red Bull,8,2.0,21398.0
+2014,Austrian Grand Prix,Kimi Räikkönen,Ferrari,10,1.0,21914.0
+2014,Austrian Grand Prix,Kimi Räikkönen,Ferrari,10,2.0,21618.0
+2014,Austrian Grand Prix,Jenson Button,McLaren,11,1.0,21505.0
+2014,Austrian Grand Prix,Jenson Button,McLaren,11,2.0,21242.0
+2014,German Grand Prix,Jenson Button,McLaren,8,1.0,22604.0
+2014,German Grand Prix,Jenson Button,McLaren,8,2.0,18916.0
+2014,German Grand Prix,Jenson Button,McLaren,8,3.0,19221.0
+2014,German Grand Prix,Kevin Magnussen,McLaren,9,1.0,25859.0
+2014,German Grand Prix,Kevin Magnussen,McLaren,9,2.0,19135.0
+2014,German Grand Prix,Kevin Magnussen,McLaren,9,3.0,19427.0
+2014,German Grand Prix,Kimi Räikkönen,Ferrari,11,1.0,19737.0
+2014,German Grand Prix,Kimi Räikkönen,Ferrari,11,3.0,19740.0
+2014,Spanish Grand Prix,Fernando Alonso,Ferrari,6,2.0,22014.0
+2014,German Grand Prix,Kimi Räikkönen,Ferrari,11,2.0,19867.0
+2014,German Grand Prix,Daniel Ricciardo,Red Bull,6,3.0,18868.0
+2014,German Grand Prix,Daniel Ricciardo,Red Bull,6,2.0,19358.0
+2014,German Grand Prix,Daniel Ricciardo,Red Bull,6,1.0,19050.0
+2014,German Grand Prix,Sebastian Vettel,Red Bull,4,1.0,19607.0
+2014,German Grand Prix,Sebastian Vettel,Red Bull,4,2.0,19061.0
+2014,German Grand Prix,Sebastian Vettel,Red Bull,4,3.0,18879.0
+2014,German Grand Prix,Fernando Alonso,Ferrari,5,1.0,19174.0
+2014,German Grand Prix,Fernando Alonso,Ferrari,5,2.0,19032.0
+2014,German Grand Prix,Fernando Alonso,Ferrari,5,3.0,19308.0
+2014,Monaco Grand Prix,Daniel Ricciardo,Red Bull,3,1.0,26584.0
+2014,Monaco Grand Prix,Fernando Alonso,Ferrari,4,1.0,26499.0
+2014,Monaco Grand Prix,Jenson Button,McLaren,6,1.0,25992.0
+2014,Monaco Grand Prix,Kevin Magnussen,McLaren,10,1.0,28943.0
+2014,Monaco Grand Prix,Kimi Räikkönen,Ferrari,12,1.0,25282.0
+2014,Monaco Grand Prix,Kimi Räikkönen,Ferrari,12,2.0,25684.0
+2014,Spanish Grand Prix,Kimi Räikkönen,Ferrari,7,1.0,22056.0
+2014,Spanish Grand Prix,Kimi Räikkönen,Ferrari,7,2.0,22727.0
+2014,Spanish Grand Prix,Jenson Button,McLaren,11,1.0,21810.0
+2014,Spanish Grand Prix,Jenson Button,McLaren,11,2.0,24408.0
+2014,Spanish Grand Prix,Kevin Magnussen,McLaren,12,1.0,21894.0
+2014,Spanish Grand Prix,Kevin Magnussen,McLaren,12,2.0,21768.0
+2014,Monaco Grand Prix,Kimi Räikkönen,Ferrari,12,3.0,31896.0
+2014,Canadian Grand Prix,Kevin Magnussen,McLaren,9,2.0,23907.0
+2014,Canadian Grand Prix,Kimi Räikkönen,Ferrari,10,1.0,23925.0
+2014,Canadian Grand Prix,Kimi Räikkönen,Ferrari,10,2.0,24221.0
+2014,Canadian Grand Prix,Kevin Magnussen,McLaren,9,1.0,23479.0
+2014,Monaco Grand Prix,Sebastian Vettel,Red Bull,\N,1.0,66065.0
+2014,Canadian Grand Prix,Daniel Ricciardo,Red Bull,1,1.0,23606.0
+2014,Canadian Grand Prix,Daniel Ricciardo,Red Bull,1,2.0,23274.0
+2014,Canadian Grand Prix,Fernando Alonso,Ferrari,6,2.0,23790.0
+2014,Canadian Grand Prix,Fernando Alonso,Ferrari,6,1.0,23932.0
+2014,Canadian Grand Prix,Jenson Button,McLaren,4,2.0,25050.0
+2014,Canadian Grand Prix,Jenson Button,McLaren,4,1.0,23493.0
+2014,Canadian Grand Prix,Sebastian Vettel,Red Bull,3,2.0,23340.0
+2014,Canadian Grand Prix,Sebastian Vettel,Red Bull,3,1.0,23904.0
+2015,Singapore Grand Prix,Jenson Button,McLaren,\N,1.0,65317.0
+2015,Singapore Grand Prix,Jenson Button,McLaren,\N,2.0,30106.0
+2015,Singapore Grand Prix,Jenson Button,McLaren,\N,3.0,37822.0
+2015,Singapore Grand Prix,Fernando Alonso,McLaren,\N,1.0,34237.0
+2015,Japanese Grand Prix,Sebastian Vettel,Ferrari,3,1.0,23074.0
+2015,Singapore Grand Prix,Daniel Ricciardo,Red Bull,2,2.0,29419.0
+2015,Singapore Grand Prix,Kimi Räikkönen,Ferrari,3,1.0,30031.0
+2015,Singapore Grand Prix,Kimi Räikkönen,Ferrari,3,2.0,30689.0
+2015,Singapore Grand Prix,Daniil Kvyat,Red Bull,6,1.0,29159.0
+2015,Singapore Grand Prix,Daniil Kvyat,Red Bull,6,2.0,32924.0
+2015,Japanese Grand Prix,Sebastian Vettel,Ferrari,3,2.0,23130.0
+2015,Japanese Grand Prix,Kimi Räikkönen,Ferrari,4,2.0,22584.0
+2015,Japanese Grand Prix,Jenson Button,McLaren,16,2.0,23801.0
+2015,Japanese Grand Prix,Jenson Button,McLaren,16,1.0,23343.0
+2015,Russian Grand Prix,Sebastian Vettel,Ferrari,2,1.0,29367.0
+2015,Russian Grand Prix,Kimi Räikkönen,Ferrari,8,1.0,29386.0
+2015,Singapore Grand Prix,Daniel Ricciardo,Red Bull,2,1.0,31307.0
+2015,Russian Grand Prix,Jenson Button,McLaren,9,1.0,29719.0
+2015,Japanese Grand Prix,Daniel Ricciardo,Red Bull,15,2.0,23225.0
+2015,Japanese Grand Prix,Daniel Ricciardo,Red Bull,15,1.0,26087.0
+2015,Japanese Grand Prix,Fernando Alonso,McLaren,11,1.0,23640.0
+2015,Japanese Grand Prix,Fernando Alonso,McLaren,11,2.0,23767.0
+2015,Japanese Grand Prix,Daniil Kvyat,Red Bull,13,1.0,23316.0
+2015,Japanese Grand Prix,Daniil Kvyat,Red Bull,13,2.0,23183.0
+2015,Japanese Grand Prix,Daniil Kvyat,Red Bull,13,3.0,23381.0
+2015,Japanese Grand Prix,Kimi Räikkönen,Ferrari,4,1.0,23714.0
+2015,Singapore Grand Prix,Sebastian Vettel,Ferrari,1,2.0,29273.0
+2015,Belgian Grand Prix,Daniil Kvyat,Red Bull,4,1.0,22796.0
+2015,Belgian Grand Prix,Daniil Kvyat,Red Bull,4,2.0,22563.0
+2015,Belgian Grand Prix,Kimi Räikkönen,Ferrari,7,1.0,22578.0
+2015,Belgian Grand Prix,Kimi Räikkönen,Ferrari,7,2.0,23143.0
+2015,Hungarian Grand Prix,Kimi Räikkönen,Ferrari,\N,5.0,59555.0
+2015,Hungarian Grand Prix,Kimi Räikkönen,Ferrari,\N,3.0,16979.0
+2015,Hungarian Grand Prix,Kimi Räikkönen,Ferrari,\N,4.0,16734.0
+2015,Hungarian Grand Prix,Kimi Räikkönen,Ferrari,\N,1.0,22566.0
+2015,Hungarian Grand Prix,Kimi Räikkönen,Ferrari,\N,2.0,22270.0
+2015,Italian Grand Prix,Kimi Räikkönen,Ferrari,5,1.0,24442.0
+2015,Italian Grand Prix,Daniel Ricciardo,Red Bull,8,1.0,24259.0
+2015,Italian Grand Prix,Daniil Kvyat,Red Bull,10,1.0,23884.0
+2015,Italian Grand Prix,Jenson Button,McLaren,14,1.0,24310.0
+2015,Italian Grand Prix,Fernando Alonso,McLaren,18,1.0,24330.0
+2015,Italian Grand Prix,Fernando Alonso,McLaren,18,2.0,19374.0
+2015,Italian Grand Prix,Sebastian Vettel,Ferrari,2,1.0,24340.0
+2015,Belgian Grand Prix,Sebastian Vettel,Ferrari,12,1.0,22681.0
+2015,Belgian Grand Prix,Fernando Alonso,McLaren,13,1.0,22973.0
+2015,Belgian Grand Prix,Fernando Alonso,McLaren,13,2.0,26103.0
+2015,Belgian Grand Prix,Fernando Alonso,McLaren,13,3.0,23191.0
+2015,Belgian Grand Prix,Jenson Button,McLaren,14,1.0,24083.0
+2015,Belgian Grand Prix,Jenson Button,McLaren,14,2.0,24151.0
+2015,Belgian Grand Prix,Jenson Button,McLaren,14,3.0,23761.0
+2015,Belgian Grand Prix,Daniel Ricciardo,Red Bull,\N,1.0,22637.0
+2015,Brazilian Grand Prix,Daniel Ricciardo,Red Bull,11,1.0,23937.0
+2015,Brazilian Grand Prix,Daniel Ricciardo,Red Bull,11,2.0,23979.0
+2015,Brazilian Grand Prix,Daniel Ricciardo,Red Bull,11,3.0,24775.0
+2015,Brazilian Grand Prix,Jenson Button,McLaren,14,1.0,23242.0
+2015,Brazilian Grand Prix,Jenson Button,McLaren,14,3.0,23402.0
+2015,Brazilian Grand Prix,Fernando Alonso,McLaren,15,1.0,22981.0
+2015,Brazilian Grand Prix,Fernando Alonso,McLaren,15,2.0,23218.0
+2015,Brazilian Grand Prix,Fernando Alonso,McLaren,15,3.0,23810.0
+2015,Brazilian Grand Prix,Jenson Button,McLaren,14,2.0,24265.0
+2015,Brazilian Grand Prix,Sebastian Vettel,Ferrari,3,1.0,23801.0
+2015,Brazilian Grand Prix,Sebastian Vettel,Ferrari,3,2.0,23474.0
+2015,Brazilian Grand Prix,Sebastian Vettel,Ferrari,3,3.0,23861.0
+2015,Brazilian Grand Prix,Kimi Räikkönen,Ferrari,4,1.0,23293.0
+2015,Brazilian Grand Prix,Daniil Kvyat,Red Bull,7,1.0,24155.0
+2015,Brazilian Grand Prix,Daniil Kvyat,Red Bull,7,2.0,23630.0
+2015,Brazilian Grand Prix,Kimi Räikkönen,Ferrari,4,2.0,25308.0
+2015,Abu Dhabi Grand Prix,Jenson Button,McLaren,12,2.0,22310.0
+2015,Abu Dhabi Grand Prix,Jenson Button,McLaren,12,1.0,23722.0
+2015,Abu Dhabi Grand Prix,Fernando Alonso,McLaren,17,1.0,44990.0
+2015,Abu Dhabi Grand Prix,Fernando Alonso,McLaren,17,2.0,16128.0
+2015,Abu Dhabi Grand Prix,Fernando Alonso,McLaren,17,3.0,22246.0
+2015,Abu Dhabi Grand Prix,Fernando Alonso,McLaren,17,4.0,22377.0
+2015,Abu Dhabi Grand Prix,Daniil Kvyat,Red Bull,10,2.0,21634.0
+2015,Abu Dhabi Grand Prix,Kimi Räikkönen,Ferrari,3,1.0,22162.0
+2015,Abu Dhabi Grand Prix,Kimi Räikkönen,Ferrari,3,2.0,25613.0
+2015,Abu Dhabi Grand Prix,Sebastian Vettel,Ferrari,4,1.0,21795.0
+2015,Abu Dhabi Grand Prix,Sebastian Vettel,Ferrari,4,2.0,21628.0
+2015,Abu Dhabi Grand Prix,Daniel Ricciardo,Red Bull,6,1.0,21949.0
+2015,Abu Dhabi Grand Prix,Daniel Ricciardo,Red Bull,6,2.0,22118.0
+2015,Abu Dhabi Grand Prix,Daniil Kvyat,Red Bull,10,1.0,21868.0
+2015,Russian Grand Prix,Fernando Alonso,McLaren,11,1.0,29539.0
+2015,Mexican Grand Prix,Sebastian Vettel,Ferrari,\N,2.0,22156.0
+2015,United States Grand Prix,Jenson Button,McLaren,6,3.0,24862.0
+2015,United States Grand Prix,Daniel Ricciardo,Red Bull,10,1.0,24449.0
+2015,United States Grand Prix,Daniel Ricciardo,Red Bull,10,2.0,27802.0
+2015,United States Grand Prix,Daniel Ricciardo,Red Bull,10,3.0,24495.0
+2015,United States Grand Prix,Fernando Alonso,McLaren,11,1.0,31987.0
+2015,United States Grand Prix,Fernando Alonso,McLaren,11,2.0,24631.0
+2015,United States Grand Prix,Fernando Alonso,McLaren,11,3.0,25405.0
+2015,United States Grand Prix,Daniil Kvyat,Red Bull,\N,1.0,24638.0
+2015,United States Grand Prix,Jenson Button,McLaren,6,2.0,24689.0
+2015,Russian Grand Prix,Daniel Ricciardo,Red Bull,15,1.0,29732.0
+2015,United States Grand Prix,Jenson Button,McLaren,6,1.0,27286.0
+2015,Russian Grand Prix,Daniil Kvyat,Red Bull,5,1.0,30418.0
+2015,United States Grand Prix,Sebastian Vettel,Ferrari,3,1.0,25019.0
+2015,United States Grand Prix,Sebastian Vettel,Ferrari,3,2.0,25576.0
+2015,United States Grand Prix,Sebastian Vettel,Ferrari,3,3.0,24158.0
+2015,United States Grand Prix,Daniil Kvyat,Red Bull,\N,2.0,25205.0
+2015,Mexican Grand Prix,Jenson Button,McLaren,14,1.0,23356.0
+2015,Mexican Grand Prix,Jenson Button,McLaren,14,2.0,23018.0
+2015,United States Grand Prix,Kimi Räikkönen,Ferrari,\N,1.0,24733.0
+2015,United States Grand Prix,Kimi Räikkönen,Ferrari,\N,2.0,34548.0
+2015,Mexican Grand Prix,Daniil Kvyat,Red Bull,4,1.0,22559.0
+2015,Mexican Grand Prix,Daniil Kvyat,Red Bull,4,2.0,22518.0
+2015,Mexican Grand Prix,Daniel Ricciardo,Red Bull,5,1.0,22422.0
+2015,Mexican Grand Prix,Daniel Ricciardo,Red Bull,5,2.0,22488.0
+2015,Mexican Grand Prix,Sebastian Vettel,Ferrari,\N,1.0,28070.0
+2015,Singapore Grand Prix,Sebastian Vettel,Ferrari,1,1.0,29172.0
+2015,Bahrain Grand Prix,Sebastian Vettel,Ferrari,5,1.0,24509.0
+2015,Bahrain Grand Prix,Sebastian Vettel,Ferrari,5,2.0,24449.0
+2015,Bahrain Grand Prix,Sebastian Vettel,Ferrari,5,3.0,33921.0
+2015,Bahrain Grand Prix,Daniel Ricciardo,Red Bull,6,1.0,25723.0
+2015,Bahrain Grand Prix,Daniel Ricciardo,Red Bull,6,2.0,24943.0
+2015,Bahrain Grand Prix,Daniil Kvyat,Red Bull,9,2.0,24692.0
+2015,Bahrain Grand Prix,Fernando Alonso,McLaren,11,1.0,25370.0
+2015,Bahrain Grand Prix,Fernando Alonso,McLaren,11,2.0,24878.0
+2015,Bahrain Grand Prix,Daniil Kvyat,Red Bull,9,1.0,25421.0
+2015,Bahrain Grand Prix,Kimi Räikkönen,Ferrari,2,2.0,24547.0
+2015,Chinese Grand Prix,Fernando Alonso,McLaren,12,1.0,23238.0
+2015,Chinese Grand Prix,Fernando Alonso,McLaren,12,2.0,23345.0
+2015,Chinese Grand Prix,Jenson Button,McLaren,14,1.0,23936.0
+2015,Chinese Grand Prix,Jenson Button,McLaren,14,2.0,23273.0
+2015,Bahrain Grand Prix,Kimi Räikkönen,Ferrari,2,1.0,24773.0
+2015,Spanish Grand Prix,Daniel Ricciardo,Red Bull,7,1.0,22440.0
+2015,Spanish Grand Prix,Daniel Ricciardo,Red Bull,7,2.0,24884.0
+2015,Spanish Grand Prix,Daniil Kvyat,Red Bull,10,1.0,22667.0
+2015,Spanish Grand Prix,Daniil Kvyat,Red Bull,10,2.0,22273.0
+2015,Spanish Grand Prix,Kimi Räikkönen,Ferrari,5,2.0,21789.0
+2015,Spanish Grand Prix,Kimi Räikkönen,Ferrari,5,1.0,22623.0
+2015,Spanish Grand Prix,Sebastian Vettel,Ferrari,3,1.0,21762.0
+2015,Spanish Grand Prix,Sebastian Vettel,Ferrari,3,2.0,21836.0
+2015,Malaysian Grand Prix,Sebastian Vettel,Ferrari,1,2.0,25092.0
+2015,Malaysian Grand Prix,Kimi Räikkönen,Ferrari,4,1.0,27285.0
+2015,Malaysian Grand Prix,Kimi Räikkönen,Ferrari,4,2.0,24744.0
+2015,Malaysian Grand Prix,Sebastian Vettel,Ferrari,1,1.0,23996.0
+2015,Malaysian Grand Prix,Kimi Räikkönen,Ferrari,4,3.0,24653.0
+2015,Australian Grand Prix,Sebastian Vettel,Ferrari,3,1.0,22694.0
+2015,Australian Grand Prix,Daniel Ricciardo,Red Bull,6,1.0,22535.0
+2015,Australian Grand Prix,Jenson Button,McLaren,11,1.0,23353.0
+2015,Australian Grand Prix,Kimi Räikkönen,Ferrari,\N,1.0,27465.0
+2015,Australian Grand Prix,Kimi Räikkönen,Ferrari,\N,2.0,22405.0
+2015,Malaysian Grand Prix,Daniil Kvyat,Red Bull,9,1.0,30463.0
+2015,Malaysian Grand Prix,Daniil Kvyat,Red Bull,9,2.0,24781.0
+2015,Malaysian Grand Prix,Daniil Kvyat,Red Bull,9,3.0,26149.0
+2015,Chinese Grand Prix,Sebastian Vettel,Ferrari,3,1.0,22488.0
+2015,Chinese Grand Prix,Sebastian Vettel,Ferrari,3,2.0,22444.0
+2015,Chinese Grand Prix,Kimi Räikkönen,Ferrari,4,1.0,22818.0
+2015,Chinese Grand Prix,Kimi Räikkönen,Ferrari,4,2.0,22453.0
+2015,Chinese Grand Prix,Daniel Ricciardo,Red Bull,9,1.0,22635.0
+2015,Chinese Grand Prix,Daniel Ricciardo,Red Bull,9,2.0,22897.0
+2015,Malaysian Grand Prix,Fernando Alonso,McLaren,\N,1.0,25222.0
+2015,Malaysian Grand Prix,Jenson Button,McLaren,\N,3.0,25846.0
+2015,Malaysian Grand Prix,Jenson Button,McLaren,\N,2.0,25581.0
+2015,Malaysian Grand Prix,Daniel Ricciardo,Red Bull,10,1.0,26714.0
+2015,Malaysian Grand Prix,Daniel Ricciardo,Red Bull,10,2.0,25604.0
+2015,Malaysian Grand Prix,Daniel Ricciardo,Red Bull,10,3.0,25393.0
+2015,Malaysian Grand Prix,Jenson Button,McLaren,\N,1.0,33027.0
+2015,Spanish Grand Prix,Jenson Button,McLaren,16,1.0,22589.0
+2015,Spanish Grand Prix,Jenson Button,McLaren,16,3.0,24066.0
+2015,British Grand Prix,Daniel Ricciardo,Red Bull,\N,2.0,43240.0
+2015,Hungarian Grand Prix,Sebastian Vettel,Ferrari,1,1.0,21900.0
+2015,Hungarian Grand Prix,Sebastian Vettel,Ferrari,1,2.0,22028.0
+2015,Hungarian Grand Prix,Sebastian Vettel,Ferrari,1,3.0,16639.0
+2015,British Grand Prix,Daniel Ricciardo,Red Bull,\N,1.0,28464.0
+2015,Hungarian Grand Prix,Sebastian Vettel,Ferrari,1,4.0,17121.0
+2015,Hungarian Grand Prix,Daniil Kvyat,Red Bull,2,2.0,21574.0
+2015,Hungarian Grand Prix,Daniil Kvyat,Red Bull,2,3.0,21663.0
+2015,Hungarian Grand Prix,Daniil Kvyat,Red Bull,2,4.0,16453.0
+2015,Hungarian Grand Prix,Daniil Kvyat,Red Bull,2,5.0,17849.0
+2015,Hungarian Grand Prix,Daniel Ricciardo,Red Bull,3,1.0,21824.0
+2015,Hungarian Grand Prix,Daniel Ricciardo,Red Bull,3,2.0,22008.0
+2015,Hungarian Grand Prix,Daniel Ricciardo,Red Bull,3,3.0,18270.0
+2015,Hungarian Grand Prix,Daniel Ricciardo,Red Bull,3,4.0,18758.0
+2015,Hungarian Grand Prix,Daniel Ricciardo,Red Bull,3,5.0,31037.0
+2015,Hungarian Grand Prix,Daniil Kvyat,Red Bull,2,1.0,22072.0
+2015,British Grand Prix,Daniil Kvyat,Red Bull,6,1.0,28347.0
+2015,British Grand Prix,Daniil Kvyat,Red Bull,6,2.0,33979.0
+2015,British Grand Prix,Kimi Räikkönen,Ferrari,8,1.0,28974.0
+2015,British Grand Prix,Kimi Räikkönen,Ferrari,8,2.0,30397.0
+2015,British Grand Prix,Kimi Räikkönen,Ferrari,8,3.0,30178.0
+2015,British Grand Prix,Fernando Alonso,McLaren,10,1.0,71178.0
+2015,British Grand Prix,Fernando Alonso,McLaren,10,2.0,28703.0
+2015,British Grand Prix,Fernando Alonso,McLaren,10,3.0,32593.0
+2015,Hungarian Grand Prix,Jenson Button,McLaren,9,4.0,16639.0
+2015,Spanish Grand Prix,Jenson Button,McLaren,16,2.0,23327.0
+2015,Hungarian Grand Prix,Jenson Button,McLaren,9,3.0,16488.0
+2015,Hungarian Grand Prix,Jenson Button,McLaren,9,2.0,21753.0
+2015,Hungarian Grand Prix,Jenson Button,McLaren,9,1.0,22231.0
+2015,Hungarian Grand Prix,Fernando Alonso,McLaren,5,1.0,21567.0
+2015,Hungarian Grand Prix,Fernando Alonso,McLaren,5,2.0,22300.0
+2015,Hungarian Grand Prix,Fernando Alonso,McLaren,5,3.0,23162.0
+2015,Hungarian Grand Prix,Fernando Alonso,McLaren,5,4.0,16796.0
+2015,Hungarian Grand Prix,Fernando Alonso,McLaren,5,5.0,16879.0
+2015,British Grand Prix,Sebastian Vettel,Ferrari,3,1.0,28946.0
+2015,Monaco Grand Prix,Fernando Alonso,McLaren,\N,1.0,30345.0
+2015,Monaco Grand Prix,Jenson Button,McLaren,8,2.0,24661.0
+2015,British Grand Prix,Sebastian Vettel,Ferrari,3,2.0,29676.0
+2015,Spanish Grand Prix,Fernando Alonso,McLaren,\N,1.0,23728.0
+2015,Monaco Grand Prix,Sebastian Vettel,Ferrari,2,1.0,24851.0
+2015,Monaco Grand Prix,Daniil Kvyat,Red Bull,4,1.0,25119.0
+2015,Monaco Grand Prix,Daniel Ricciardo,Red Bull,5,1.0,24501.0
+2015,Monaco Grand Prix,Daniel Ricciardo,Red Bull,5,2.0,24244.0
+2015,Monaco Grand Prix,Jenson Button,McLaren,8,1.0,25062.0
+2015,Canadian Grand Prix,Kimi Räikkönen,Ferrari,4,1.0,23630.0
+2015,Canadian Grand Prix,Kimi Räikkönen,Ferrari,4,2.0,24578.0
+2015,Monaco Grand Prix,Kimi Räikkönen,Ferrari,6,1.0,24177.0
+2015,Canadian Grand Prix,Sebastian Vettel,Ferrari,5,2.0,23945.0
+2015,Austrian Grand Prix,Daniel Ricciardo,Red Bull,10,1.0,27710.0
+2015,Austrian Grand Prix,Daniil Kvyat,Red Bull,12,1.0,28632.0
+2015,Austrian Grand Prix,Daniil Kvyat,Red Bull,12,2.0,22111.0
+2015,Austrian Grand Prix,Jenson Button,McLaren,\N,1.0,24104.0
+2015,Austrian Grand Prix,Jenson Button,McLaren,\N,2.0,28727.0
+2015,Canadian Grand Prix,Sebastian Vettel,Ferrari,5,1.0,27241.0
+2015,Austrian Grand Prix,Sebastian Vettel,Ferrari,4,1.0,31882.0
+2015,Canadian Grand Prix,Daniil Kvyat,Red Bull,9,1.0,23681.0
+2015,Canadian Grand Prix,Daniel Ricciardo,Red Bull,13,1.0,23997.0
+2015,Canadian Grand Prix,Jenson Button,McLaren,\N,1.0,18057.0
+2015,Canadian Grand Prix,Jenson Button,McLaren,\N,2.0,25374.0
+2015,Canadian Grand Prix,Fernando Alonso,McLaren,\N,1.0,23553.0
+2016,Italian Grand Prix,Jenson Button,McLaren,12,2.0,24418.0
+2016,Italian Grand Prix,Fernando Alonso,McLaren,14,2.0,23694.0
+2016,Italian Grand Prix,Fernando Alonso,McLaren,14,3.0,24082.0
+2016,Italian Grand Prix,Fernando Alonso,McLaren,14,1.0,26843.0
+2016,Singapore Grand Prix,Daniel Ricciardo,Red Bull,2,2.0,28890.0
+2016,Singapore Grand Prix,Daniel Ricciardo,Red Bull,2,3.0,28921.0
+2016,Singapore Grand Prix,Daniel Ricciardo,Red Bull,2,4.0,28662.0
+2016,Singapore Grand Prix,Daniel Ricciardo,Red Bull,2,1.0,25925.0
+2016,Italian Grand Prix,Sebastian Vettel,Ferrari,3,1.0,25472.0
+2016,Italian Grand Prix,Sebastian Vettel,Ferrari,3,2.0,25033.0
+2016,Italian Grand Prix,Kimi Räikkönen,Ferrari,4,1.0,24116.0
+2016,Italian Grand Prix,Kimi Räikkönen,Ferrari,4,2.0,24279.0
+2016,Italian Grand Prix,Daniel Ricciardo,Red Bull,5,1.0,23745.0
+2016,Italian Grand Prix,Daniel Ricciardo,Red Bull,5,2.0,23633.0
+2016,Italian Grand Prix,Max Verstappen,Red Bull,7,1.0,24610.0
+2016,Italian Grand Prix,Max Verstappen,Red Bull,7,2.0,23827.0
+2016,Italian Grand Prix,Jenson Button,McLaren,12,1.0,26427.0
+2016,Singapore Grand Prix,Kimi Räikkönen,Ferrari,4,1.0,24874.0
+2016,Singapore Grand Prix,Kimi Räikkönen,Ferrari,4,3.0,29135.0
+2016,Singapore Grand Prix,Jenson Button,McLaren,\N,2.0,28998.0
+2016,Singapore Grand Prix,Jenson Button,McLaren,\N,3.0,29025.0
+2016,Malaysian Grand Prix,Daniel Ricciardo,Red Bull,1,1.0,24197.0
+2016,Malaysian Grand Prix,Daniel Ricciardo,Red Bull,1,2.0,24408.0
+2016,Malaysian Grand Prix,Max Verstappen,Red Bull,2,1.0,23935.0
+2016,Malaysian Grand Prix,Max Verstappen,Red Bull,2,2.0,23856.0
+2016,Singapore Grand Prix,Jenson Button,McLaren,\N,1.0,42815.0
+2016,Singapore Grand Prix,Kimi Räikkönen,Ferrari,4,2.0,29041.0
+2016,Singapore Grand Prix,Kimi Räikkönen,Ferrari,4,4.0,28954.0
+2016,Singapore Grand Prix,Sebastian Vettel,Ferrari,5,1.0,24342.0
+2016,Singapore Grand Prix,Sebastian Vettel,Ferrari,5,2.0,28924.0
+2016,Singapore Grand Prix,Sebastian Vettel,Ferrari,5,3.0,29391.0
+2016,Singapore Grand Prix,Max Verstappen,Red Bull,6,1.0,25740.0
+2016,Singapore Grand Prix,Max Verstappen,Red Bull,6,2.0,28815.0
+2016,Singapore Grand Prix,Max Verstappen,Red Bull,6,3.0,28948.0
+2016,Singapore Grand Prix,Max Verstappen,Red Bull,6,4.0,28854.0
+2016,Singapore Grand Prix,Fernando Alonso,McLaren,7,1.0,24649.0
+2016,Singapore Grand Prix,Fernando Alonso,McLaren,7,2.0,29401.0
+2016,Singapore Grand Prix,Fernando Alonso,McLaren,7,3.0,30381.0
+2016,German Grand Prix,Max Verstappen,Red Bull,3,2.0,19137.0
+2016,German Grand Prix,Sebastian Vettel,Ferrari,5,1.0,19230.0
+2016,German Grand Prix,Sebastian Vettel,Ferrari,5,2.0,19472.0
+2016,German Grand Prix,Sebastian Vettel,Ferrari,5,3.0,19000.0
+2016,German Grand Prix,Kimi Räikkönen,Ferrari,6,1.0,22393.0
+2016,German Grand Prix,Kimi Räikkönen,Ferrari,6,2.0,19142.0
+2016,German Grand Prix,Kimi Räikkönen,Ferrari,6,3.0,19525.0
+2016,German Grand Prix,Jenson Button,McLaren,8,1.0,19427.0
+2016,German Grand Prix,Max Verstappen,Red Bull,3,3.0,18967.0
+2016,German Grand Prix,Jenson Button,McLaren,8,2.0,19124.0
+2016,German Grand Prix,Fernando Alonso,McLaren,12,1.0,19258.0
+2016,German Grand Prix,Fernando Alonso,McLaren,12,2.0,19440.0
+2016,German Grand Prix,Fernando Alonso,McLaren,12,3.0,19127.0
+2016,German Grand Prix,Jenson Button,McLaren,8,3.0,19268.0
+2016,German Grand Prix,Max Verstappen,Red Bull,3,1.0,19017.0
+2016,German Grand Prix,Daniel Ricciardo,Red Bull,2,2.0,18738.0
+2016,Malaysian Grand Prix,Max Verstappen,Red Bull,2,3.0,28274.0
+2016,German Grand Prix,Daniel Ricciardo,Red Bull,2,3.0,18979.0
+2016,Hungarian Grand Prix,Jenson Button,McLaren,\N,1.0,22229.0
+2016,Hungarian Grand Prix,Jenson Button,McLaren,\N,2.0,16486.0
+2016,Hungarian Grand Prix,Jenson Button,McLaren,\N,3.0,22718.0
+2016,German Grand Prix,Daniel Ricciardo,Red Bull,2,1.0,18964.0
+2016,Belgian Grand Prix,Sebastian Vettel,Ferrari,6,1.0,22403.0
+2016,Belgian Grand Prix,Sebastian Vettel,Ferrari,6,2.0,998511.0
+2016,Belgian Grand Prix,Sebastian Vettel,Ferrari,6,3.0,22762.0
+2016,Belgian Grand Prix,Fernando Alonso,McLaren,7,1.0,998234.0
+2016,Belgian Grand Prix,Fernando Alonso,McLaren,7,2.0,22451.0
+2016,Belgian Grand Prix,Kimi Räikkönen,Ferrari,9,1.0,87084.0
+2016,Belgian Grand Prix,Kimi Räikkönen,Ferrari,9,2.0,23061.0
+2016,Belgian Grand Prix,Kimi Räikkönen,Ferrari,9,3.0,943158.0
+2016,Belgian Grand Prix,Kimi Räikkönen,Ferrari,9,4.0,23056.0
+2016,Belgian Grand Prix,Max Verstappen,Red Bull,11,1.0,31235.0
+2016,Belgian Grand Prix,Max Verstappen,Red Bull,11,2.0,998546.0
+2016,Belgian Grand Prix,Max Verstappen,Red Bull,11,3.0,23231.0
+2016,Belgian Grand Prix,Max Verstappen,Red Bull,11,4.0,22727.0
+2016,Belgian Grand Prix,Daniel Ricciardo,Red Bull,2,1.0,998401.0
+2016,Belgian Grand Prix,Daniel Ricciardo,Red Bull,2,2.0,22531.0
+2016,Brazilian Grand Prix,Sebastian Vettel,Ferrari,5,1.0,29981.0
+2016,Brazilian Grand Prix,Sebastian Vettel,Ferrari,5,2.0,2010637.0
+2016,Brazilian Grand Prix,Sebastian Vettel,Ferrari,5,3.0,1483923.0
+2016,Brazilian Grand Prix,Daniel Ricciardo,Red Bull,8,1.0,24623.0
+2016,Brazilian Grand Prix,Daniel Ricciardo,Red Bull,8,2.0,2008600.0
+2016,Brazilian Grand Prix,Daniel Ricciardo,Red Bull,8,3.0,1484725.0
+2016,Brazilian Grand Prix,Daniel Ricciardo,Red Bull,8,4.0,29621.0
+2016,Brazilian Grand Prix,Daniel Ricciardo,Red Bull,8,5.0,24521.0
+2016,Brazilian Grand Prix,Fernando Alonso,McLaren,10,1.0,24821.0
+2016,Brazilian Grand Prix,Fernando Alonso,McLaren,10,2.0,2008789.0
+2016,Brazilian Grand Prix,Fernando Alonso,McLaren,10,3.0,1483818.0
+2016,Brazilian Grand Prix,Max Verstappen,Red Bull,3,4.0,24435.0
+2016,Mexican Grand Prix,Jenson Button,McLaren,12,1.0,22438.0
+2016,Mexican Grand Prix,Fernando Alonso,McLaren,13,1.0,22461.0
+2016,Mexican Grand Prix,Fernando Alonso,McLaren,13,2.0,25171.0
+2016,Brazilian Grand Prix,Max Verstappen,Red Bull,3,5.0,24041.0
+2016,Brazilian Grand Prix,Max Verstappen,Red Bull,3,1.0,24186.0
+2016,Brazilian Grand Prix,Max Verstappen,Red Bull,3,2.0,2009643.0
+2016,Brazilian Grand Prix,Max Verstappen,Red Bull,3,3.0,1481433.0
+2016,Mexican Grand Prix,Kimi Räikkönen,Ferrari,6,2.0,22974.0
+2016,Abu Dhabi Grand Prix,Fernando Alonso,McLaren,10,1.0,22428.0
+2016,Abu Dhabi Grand Prix,Fernando Alonso,McLaren,10,2.0,22248.0
+2016,Abu Dhabi Grand Prix,Kimi Räikkönen,Ferrari,6,2.0,22087.0
+2016,Abu Dhabi Grand Prix,Kimi Räikkönen,Ferrari,6,1.0,21959.0
+2016,Abu Dhabi Grand Prix,Daniel Ricciardo,Red Bull,5,1.0,22084.0
+2016,Brazilian Grand Prix,Jenson Button,McLaren,16,1.0,24192.0
+2016,Brazilian Grand Prix,Jenson Button,McLaren,16,2.0,2010062.0
+2016,Brazilian Grand Prix,Jenson Button,McLaren,16,3.0,1484987.0
+2016,Brazilian Grand Prix,Jenson Button,McLaren,16,4.0,25006.0
+2016,Brazilian Grand Prix,Jenson Button,McLaren,16,5.0,24754.0
+2016,Abu Dhabi Grand Prix,Daniel Ricciardo,Red Bull,5,2.0,21768.0
+2016,Abu Dhabi Grand Prix,Sebastian Vettel,Ferrari,3,1.0,21711.0
+2016,Abu Dhabi Grand Prix,Sebastian Vettel,Ferrari,3,2.0,21872.0
+2016,Abu Dhabi Grand Prix,Max Verstappen,Red Bull,4,1.0,21221.0
+2016,Mexican Grand Prix,Kimi Räikkönen,Ferrari,6,1.0,22398.0
+2016,Mexican Grand Prix,Max Verstappen,Red Bull,4,1.0,21775.0
+2016,Japanese Grand Prix,Max Verstappen,Red Bull,2,1.0,22855.0
+2016,Japanese Grand Prix,Max Verstappen,Red Bull,2,2.0,22788.0
+2016,Japanese Grand Prix,Sebastian Vettel,Ferrari,4,1.0,23226.0
+2016,Japanese Grand Prix,Sebastian Vettel,Ferrari,4,2.0,22887.0
+2016,Japanese Grand Prix,Kimi Räikkönen,Ferrari,5,2.0,22762.0
+2016,Japanese Grand Prix,Daniel Ricciardo,Red Bull,6,1.0,22996.0
+2016,Japanese Grand Prix,Daniel Ricciardo,Red Bull,6,2.0,25861.0
+2016,Japanese Grand Prix,Kimi Räikkönen,Ferrari,5,1.0,23244.0
+2016,Malaysian Grand Prix,Kimi Räikkönen,Ferrari,4,1.0,24584.0
+2016,Malaysian Grand Prix,Kimi Räikkönen,Ferrari,4,2.0,24412.0
+2016,Malaysian Grand Prix,Kimi Räikkönen,Ferrari,4,3.0,24809.0
+2016,Malaysian Grand Prix,Fernando Alonso,McLaren,7,1.0,25195.0
+2016,Malaysian Grand Prix,Fernando Alonso,McLaren,7,2.0,24061.0
+2016,Malaysian Grand Prix,Fernando Alonso,McLaren,7,3.0,23920.0
+2016,Malaysian Grand Prix,Jenson Button,McLaren,9,1.0,24738.0
+2016,Malaysian Grand Prix,Jenson Button,McLaren,9,2.0,24645.0
+2016,Mexican Grand Prix,Sebastian Vettel,Ferrari,5,1.0,22035.0
+2016,Japanese Grand Prix,Fernando Alonso,McLaren,16,1.0,22786.0
+2016,United States Grand Prix,Jenson Button,McLaren,9,2.0,25635.0
+2016,United States Grand Prix,Kimi Räikkönen,Ferrari,\N,1.0,23989.0
+2016,United States Grand Prix,Kimi Räikkönen,Ferrari,\N,2.0,23845.0
+2016,United States Grand Prix,Kimi Räikkönen,Ferrari,\N,3.0,25384.0
+2016,United States Grand Prix,Max Verstappen,Red Bull,\N,1.0,23489.0
+2016,United States Grand Prix,Max Verstappen,Red Bull,\N,2.0,36112.0
+2016,Mexican Grand Prix,Daniel Ricciardo,Red Bull,3,1.0,22087.0
+2016,Mexican Grand Prix,Daniel Ricciardo,Red Bull,3,2.0,22443.0
+2016,United States Grand Prix,Jenson Button,McLaren,9,1.0,23613.0
+2016,Japanese Grand Prix,Fernando Alonso,McLaren,16,2.0,23032.0
+2016,Japanese Grand Prix,Jenson Button,McLaren,18,1.0,24375.0
+2016,Japanese Grand Prix,Jenson Button,McLaren,18,2.0,23342.0
+2016,United States Grand Prix,Daniel Ricciardo,Red Bull,3,1.0,23956.0
+2016,United States Grand Prix,Daniel Ricciardo,Red Bull,3,2.0,23534.0
+2016,United States Grand Prix,Sebastian Vettel,Ferrari,4,1.0,24433.0
+2016,United States Grand Prix,Sebastian Vettel,Ferrari,4,2.0,23812.0
+2016,United States Grand Prix,Sebastian Vettel,Ferrari,4,3.0,24156.0
+2016,United States Grand Prix,Fernando Alonso,McLaren,5,1.0,23683.0
+2016,United States Grand Prix,Fernando Alonso,McLaren,5,2.0,25300.0
+2016,Hungarian Grand Prix,Kimi Räikkönen,Ferrari,6,1.0,21951.0
+2016,Russian Grand Prix,Kimi Räikkönen,Ferrari,3,1.0,30498.0
+2016,Russian Grand Prix,Fernando Alonso,McLaren,6,1.0,29751.0
+2016,Russian Grand Prix,Jenson Button,McLaren,10,1.0,30580.0
+2016,Russian Grand Prix,Daniel Ricciardo,Red Bull,11,1.0,47763.0
+2016,Russian Grand Prix,Daniel Ricciardo,Red Bull,11,2.0,31205.0
+2016,Russian Grand Prix,Daniil Kvyat,Red Bull,15,1.0,41282.0
+2016,Russian Grand Prix,Daniil Kvyat,Red Bull,15,2.0,38906.0
+2016,Chinese Grand Prix,Fernando Alonso,McLaren,12,1.0,22874.0
+2016,Chinese Grand Prix,Fernando Alonso,McLaren,12,2.0,22927.0
+2016,Chinese Grand Prix,Jenson Button,McLaren,13,1.0,24072.0
+2016,Chinese Grand Prix,Jenson Button,McLaren,13,2.0,23029.0
+2016,Chinese Grand Prix,Jenson Button,McLaren,13,3.0,22510.0
+2016,Spanish Grand Prix,Fernando Alonso,McLaren,\N,1.0,21795.0
+2016,Spanish Grand Prix,Fernando Alonso,McLaren,\N,2.0,22987.0
+2016,Monaco Grand Prix,Daniel Ricciardo,Red Bull,2,1.0,25054.0
+2016,Monaco Grand Prix,Daniel Ricciardo,Red Bull,2,2.0,35327.0
+2016,Spanish Grand Prix,Max Verstappen,Red Bull,1,1.0,22369.0
+2016,Spanish Grand Prix,Max Verstappen,Red Bull,1,2.0,22348.0
+2016,Spanish Grand Prix,Kimi Räikkönen,Ferrari,2,1.0,22107.0
+2016,Spanish Grand Prix,Kimi Räikkönen,Ferrari,2,2.0,22169.0
+2016,Spanish Grand Prix,Sebastian Vettel,Ferrari,3,1.0,21643.0
+2016,Spanish Grand Prix,Sebastian Vettel,Ferrari,3,2.0,22617.0
+2016,Spanish Grand Prix,Sebastian Vettel,Ferrari,3,3.0,21603.0
+2016,Spanish Grand Prix,Daniel Ricciardo,Red Bull,4,1.0,21738.0
+2016,Spanish Grand Prix,Daniel Ricciardo,Red Bull,4,3.0,21683.0
+2016,Spanish Grand Prix,Daniel Ricciardo,Red Bull,4,4.0,23133.0
+2016,Spanish Grand Prix,Jenson Button,McLaren,9,1.0,22280.0
+2016,Spanish Grand Prix,Jenson Button,McLaren,9,2.0,22590.0
+2016,Spanish Grand Prix,Daniel Ricciardo,Red Bull,4,2.0,22104.0
+2016,Monaco Grand Prix,Sebastian Vettel,Ferrari,4,1.0,25114.0
+2016,Australian Grand Prix,Jenson Button,McLaren,14,3.0,21837.0
+2016,Australian Grand Prix,Kimi Räikkönen,Ferrari,\N,1.0,22508.0
+2016,Australian Grand Prix,Kimi Räikkönen,Ferrari,\N,2.0,1089365.0
+2016,Australian Grand Prix,Jenson Button,McLaren,14,2.0,1084466.0
+2016,Australian Grand Prix,Fernando Alonso,McLaren,\N,1.0,21796.0
+2016,Bahrain Grand Prix,Kimi Räikkönen,Ferrari,2,1.0,24720.0
+2016,Bahrain Grand Prix,Kimi Räikkönen,Ferrari,2,2.0,25222.0
+2016,Bahrain Grand Prix,Kimi Räikkönen,Ferrari,2,3.0,25257.0
+2016,Bahrain Grand Prix,Daniel Ricciardo,Red Bull,4,1.0,24541.0
+2016,Bahrain Grand Prix,Daniel Ricciardo,Red Bull,4,2.0,26631.0
+2016,Bahrain Grand Prix,Daniel Ricciardo,Red Bull,4,3.0,24879.0
+2016,Australian Grand Prix,Jenson Button,McLaren,14,1.0,22616.0
+2016,Australian Grand Prix,Sebastian Vettel,Ferrari,3,1.0,21339.0
+2016,Australian Grand Prix,Sebastian Vettel,Ferrari,3,2.0,1089312.0
+2016,Australian Grand Prix,Sebastian Vettel,Ferrari,3,3.0,24548.0
+2016,Australian Grand Prix,Daniel Ricciardo,Red Bull,4,1.0,22245.0
+2016,Australian Grand Prix,Daniel Ricciardo,Red Bull,4,2.0,1089822.0
+2016,Australian Grand Prix,Daniel Ricciardo,Red Bull,4,3.0,21981.0
+2016,Chinese Grand Prix,Sebastian Vettel,Ferrari,2,1.0,30115.0
+2016,Chinese Grand Prix,Sebastian Vettel,Ferrari,2,2.0,22276.0
+2016,Chinese Grand Prix,Sebastian Vettel,Ferrari,2,3.0,22350.0
+2016,Chinese Grand Prix,Daniil Kvyat,Red Bull,3,1.0,24084.0
+2016,Chinese Grand Prix,Daniil Kvyat,Red Bull,3,2.0,22607.0
+2016,Chinese Grand Prix,Daniel Ricciardo,Red Bull,4,1.0,24392.0
+2016,Chinese Grand Prix,Daniel Ricciardo,Red Bull,4,2.0,22461.0
+2016,Chinese Grand Prix,Daniel Ricciardo,Red Bull,4,3.0,22426.0
+2016,Chinese Grand Prix,Kimi Räikkönen,Ferrari,5,1.0,31134.0
+2016,Chinese Grand Prix,Kimi Räikkönen,Ferrari,5,2.0,23296.0
+2016,Chinese Grand Prix,Kimi Räikkönen,Ferrari,5,3.0,22832.0
+2016,Chinese Grand Prix,Daniil Kvyat,Red Bull,3,3.0,22684.0
+2016,Bahrain Grand Prix,Daniil Kvyat,Red Bull,7,1.0,24419.0
+2016,Bahrain Grand Prix,Daniil Kvyat,Red Bull,7,2.0,24661.0
+2016,Bahrain Grand Prix,Daniil Kvyat,Red Bull,7,3.0,24224.0
+2016,Bahrain Grand Prix,Stoffel Vandoorne,McLaren,10,1.0,24604.0
+2016,Bahrain Grand Prix,Stoffel Vandoorne,McLaren,10,2.0,24682.0
+2016,Bahrain Grand Prix,Stoffel Vandoorne,McLaren,10,3.0,25316.0
+2016,Monaco Grand Prix,Sebastian Vettel,Ferrari,4,2.0,25561.0
+2016,Monaco Grand Prix,Fernando Alonso,McLaren,5,2.0,26836.0
+2016,Austrian Grand Prix,Fernando Alonso,McLaren,18,1.0,21924.0
+2016,Austrian Grand Prix,Fernando Alonso,McLaren,18,2.0,22879.0
+2016,Austrian Grand Prix,Fernando Alonso,McLaren,18,3.0,16764.0
+2016,Austrian Grand Prix,Fernando Alonso,McLaren,18,4.0,18194.0
+2016,Austrian Grand Prix,Jenson Button,McLaren,6,2.0,22035.0
+2016,Austrian Grand Prix,Jenson Button,McLaren,6,3.0,18307.0
+2016,Austrian Grand Prix,Jenson Button,McLaren,6,4.0,18964.0
+2016,British Grand Prix,Max Verstappen,Red Bull,2,1.0,31995.0
+2016,British Grand Prix,Max Verstappen,Red Bull,2,2.0,29429.0
+2016,Hungarian Grand Prix,Daniel Ricciardo,Red Bull,3,2.0,22006.0
+2016,Hungarian Grand Prix,Sebastian Vettel,Ferrari,4,1.0,21640.0
+2016,Hungarian Grand Prix,Sebastian Vettel,Ferrari,4,2.0,21535.0
+2016,Hungarian Grand Prix,Max Verstappen,Red Bull,5,1.0,22389.0
+2016,Hungarian Grand Prix,Max Verstappen,Red Bull,5,2.0,21687.0
+2016,Hungarian Grand Prix,Kimi Räikkönen,Ferrari,6,2.0,21857.0
+2016,Hungarian Grand Prix,Fernando Alonso,McLaren,7,1.0,22099.0
+2016,Hungarian Grand Prix,Fernando Alonso,McLaren,7,2.0,21897.0
+2016,Monaco Grand Prix,Fernando Alonso,McLaren,5,1.0,25512.0
+2016,Hungarian Grand Prix,Daniel Ricciardo,Red Bull,3,1.0,22241.0
+2016,Austrian Grand Prix,Jenson Button,McLaren,6,1.0,22859.0
+2016,British Grand Prix,Daniel Ricciardo,Red Bull,4,1.0,30198.0
+2016,British Grand Prix,Daniel Ricciardo,Red Bull,4,2.0,29813.0
+2016,British Grand Prix,Kimi Räikkönen,Ferrari,5,1.0,29578.0
+2016,British Grand Prix,Kimi Räikkönen,Ferrari,5,2.0,30462.0
+2016,British Grand Prix,Sebastian Vettel,Ferrari,9,1.0,31381.0
+2016,British Grand Prix,Sebastian Vettel,Ferrari,9,2.0,29163.0
+2016,British Grand Prix,Jenson Button,McLaren,12,1.0,30093.0
+2016,British Grand Prix,Jenson Button,McLaren,12,2.0,29588.0
+2016,British Grand Prix,Fernando Alonso,McLaren,13,1.0,32374.0
+2016,British Grand Prix,Fernando Alonso,McLaren,13,2.0,28799.0
+2016,British Grand Prix,Fernando Alonso,McLaren,13,3.0,28936.0
+2016,Austrian Grand Prix,Daniel Ricciardo,Red Bull,5,4.0,22284.0
+2016,Austrian Grand Prix,Daniel Ricciardo,Red Bull,5,2.0,19408.0
+2016,Canadian Grand Prix,Sebastian Vettel,Ferrari,2,1.0,22597.0
+2016,Canadian Grand Prix,Sebastian Vettel,Ferrari,2,2.0,22361.0
+2016,Canadian Grand Prix,Max Verstappen,Red Bull,4,1.0,23586.0
+2016,Canadian Grand Prix,Max Verstappen,Red Bull,4,2.0,22909.0
+2016,Canadian Grand Prix,Kimi Räikkönen,Ferrari,6,2.0,23263.0
+2016,Canadian Grand Prix,Daniel Ricciardo,Red Bull,7,1.0,22872.0
+2016,Canadian Grand Prix,Daniel Ricciardo,Red Bull,7,2.0,24018.0
+2016,Canadian Grand Prix,Fernando Alonso,McLaren,11,1.0,27952.0
+2016,Canadian Grand Prix,Kimi Räikkönen,Ferrari,6,1.0,22820.0
+2016,Monaco Grand Prix,Max Verstappen,Red Bull,\N,2.0,25459.0
+2016,Austrian Grand Prix,Daniel Ricciardo,Red Bull,5,3.0,18347.0
+2016,Monaco Grand Prix,Jenson Button,McLaren,9,1.0,25766.0
+2016,Monaco Grand Prix,Jenson Button,McLaren,9,2.0,25450.0
+2016,Monaco Grand Prix,Max Verstappen,Red Bull,\N,1.0,25604.0
+2016,European Grand Prix,Fernando Alonso,McLaren,\N,1.0,20282.0
+2016,European Grand Prix,Fernando Alonso,McLaren,\N,2.0,20654.0
+2016,Austrian Grand Prix,Max Verstappen,Red Bull,2,2.0,17165.0
+2016,Austrian Grand Prix,Max Verstappen,Red Bull,2,3.0,18455.0
+2016,Austrian Grand Prix,Kimi Räikkönen,Ferrari,3,1.0,21916.0
+2016,Austrian Grand Prix,Kimi Räikkönen,Ferrari,3,2.0,21206.0
+2016,Austrian Grand Prix,Kimi Räikkönen,Ferrari,3,3.0,18455.0
+2016,Austrian Grand Prix,Daniel Ricciardo,Red Bull,5,1.0,21183.0
+2016,Austrian Grand Prix,Max Verstappen,Red Bull,2,1.0,21945.0
+2016,European Grand Prix,Sebastian Vettel,Ferrari,2,1.0,20422.0
+2016,European Grand Prix,Jenson Button,McLaren,11,2.0,20640.0
+2016,European Grand Prix,Kimi Räikkönen,Ferrari,4,1.0,20593.0
+2016,European Grand Prix,Jenson Button,McLaren,11,1.0,20185.0
+2016,European Grand Prix,Max Verstappen,Red Bull,8,1.0,20069.0
+2016,European Grand Prix,Max Verstappen,Red Bull,8,2.0,22497.0
+2016,European Grand Prix,Daniel Ricciardo,Red Bull,7,2.0,20155.0
+2016,European Grand Prix,Daniel Ricciardo,Red Bull,7,1.0,19840.0
+2017,Singapore Grand Prix,Stoffel Vandoorne,McLaren,7,4.0,30390.0
+2017,Singapore Grand Prix,Stoffel Vandoorne,McLaren,7,3.0,24543.0
+2017,Singapore Grand Prix,Stoffel Vandoorne,McLaren,7,2.0,26553.0
+2017,Singapore Grand Prix,Stoffel Vandoorne,McLaren,7,5.0,36138.0
+2017,Singapore Grand Prix,Stoffel Vandoorne,McLaren,7,1.0,31550.0
+2017,Singapore Grand Prix,Daniel Ricciardo,Red Bull,2,1.0,30737.0
+2017,Singapore Grand Prix,Daniel Ricciardo,Red Bull,2,2.0,24402.0
+2017,Singapore Grand Prix,Daniel Ricciardo,Red Bull,2,3.0,24362.0
+2017,Singapore Grand Prix,Daniel Ricciardo,Red Bull,2,4.0,29658.0
+2017,Singapore Grand Prix,Daniel Ricciardo,Red Bull,2,5.0,29118.0
+2017,Singapore Grand Prix,Fernando Alonso,McLaren,\N,1.0,36900.0
+2017,Singapore Grand Prix,Fernando Alonso,McLaren,\N,2.0,29306.0
+2017,Singapore Grand Prix,Fernando Alonso,McLaren,\N,3.0,25626.0
+2017,Malaysian Grand Prix,Max Verstappen,Red Bull,1,1.0,23652.0
+2017,Malaysian Grand Prix,Daniel Ricciardo,Red Bull,3,1.0,24199.0
+2017,Malaysian Grand Prix,Sebastian Vettel,Ferrari,4,1.0,23695.0
+2017,Malaysian Grand Prix,Stoffel Vandoorne,McLaren,7,1.0,24580.0
+2017,Belgian Grand Prix,Daniel Ricciardo,Red Bull,3,1.0,22900.0
+2017,Belgian Grand Prix,Sebastian Vettel,Ferrari,2,1.0,22443.0
+2017,Belgian Grand Prix,Sebastian Vettel,Ferrari,2,2.0,25650.0
+2017,Belgian Grand Prix,Daniel Ricciardo,Red Bull,3,2.0,23180.0
+2017,Belgian Grand Prix,Kimi Räikkönen,Ferrari,4,1.0,22533.0
+2017,Belgian Grand Prix,Kimi Räikkönen,Ferrari,4,2.0,30373.0
+2017,Belgian Grand Prix,Kimi Räikkönen,Ferrari,4,3.0,22963.0
+2017,British Grand Prix,Fernando Alonso,McLaren,\N,1.0,28269.0
+2017,Hungarian Grand Prix,Sebastian Vettel,Ferrari,1,1.0,22317.0
+2017,Hungarian Grand Prix,Kimi Räikkönen,Ferrari,2,1.0,21919.0
+2017,Hungarian Grand Prix,Max Verstappen,Red Bull,5,1.0,33605.0
+2017,Hungarian Grand Prix,Fernando Alonso,McLaren,6,1.0,22399.0
+2017,Hungarian Grand Prix,Stoffel Vandoorne,McLaren,10,1.0,28616.0
+2017,Italian Grand Prix,Daniel Ricciardo,Red Bull,4,1.0,23951.0
+2017,Italian Grand Prix,Kimi Räikkönen,Ferrari,5,1.0,25367.0
+2017,Italian Grand Prix,Max Verstappen,Red Bull,10,1.0,39888.0
+2017,Italian Grand Prix,Max Verstappen,Red Bull,10,2.0,24173.0
+2017,Italian Grand Prix,Fernando Alonso,McLaren,17,1.0,24442.0
+2017,Italian Grand Prix,Sebastian Vettel,Ferrari,3,1.0,24307.0
+2017,Belgian Grand Prix,Stoffel Vandoorne,McLaren,14,1.0,26894.0
+2017,Belgian Grand Prix,Stoffel Vandoorne,McLaren,14,2.0,26187.0
+2017,Belgian Grand Prix,Fernando Alonso,McLaren,\N,1.0,24158.0
+2017,Malaysian Grand Prix,Fernando Alonso,McLaren,11,1.0,25798.0
+2017,Brazilian Grand Prix,Fernando Alonso,McLaren,8,1.0,18487.0
+2017,Brazilian Grand Prix,Fernando Alonso,McLaren,8,2.0,17770.0
+2017,Brazilian Grand Prix,Fernando Alonso,McLaren,8,3.0,17716.0
+2017,Brazilian Grand Prix,Fernando Alonso,McLaren,8,4.0,23342.0
+2017,Brazilian Grand Prix,Kimi Räikkönen,Ferrari,3,1.0,19433.0
+2017,Brazilian Grand Prix,Kimi Räikkönen,Ferrari,3,2.0,18027.0
+2017,Brazilian Grand Prix,Kimi Räikkönen,Ferrari,3,3.0,18290.0
+2017,Brazilian Grand Prix,Kimi Räikkönen,Ferrari,3,4.0,23170.0
+2017,Brazilian Grand Prix,Max Verstappen,Red Bull,5,1.0,18827.0
+2017,Brazilian Grand Prix,Max Verstappen,Red Bull,5,2.0,17913.0
+2017,Brazilian Grand Prix,Max Verstappen,Red Bull,5,3.0,18017.0
+2017,Brazilian Grand Prix,Max Verstappen,Red Bull,5,4.0,23180.0
+2017,Brazilian Grand Prix,Max Verstappen,Red Bull,5,5.0,22644.0
+2017,Brazilian Grand Prix,Daniel Ricciardo,Red Bull,6,1.0,25946.0
+2017,Brazilian Grand Prix,Daniel Ricciardo,Red Bull,6,2.0,17929.0
+2017,Brazilian Grand Prix,Daniel Ricciardo,Red Bull,6,3.0,18129.0
+2017,Brazilian Grand Prix,Daniel Ricciardo,Red Bull,6,4.0,23484.0
+2017,Abu Dhabi Grand Prix,Max Verstappen,Red Bull,5,1.0,21269.0
+2017,Abu Dhabi Grand Prix,Fernando Alonso,McLaren,9,1.0,22541.0
+2017,Abu Dhabi Grand Prix,Stoffel Vandoorne,McLaren,12,1.0,22125.0
+2017,Abu Dhabi Grand Prix,Daniel Ricciardo,Red Bull,\N,1.0,23477.0
+2017,Abu Dhabi Grand Prix,Kimi Räikkönen,Ferrari,4,1.0,21609.0
+2017,Abu Dhabi Grand Prix,Sebastian Vettel,Ferrari,3,1.0,21221.0
+2017,Brazilian Grand Prix,Sebastian Vettel,Ferrari,1,4.0,22736.0
+2017,Brazilian Grand Prix,Sebastian Vettel,Ferrari,1,3.0,17842.0
+2017,Japanese Grand Prix,Stoffel Vandoorne,McLaren,14,1.0,23430.0
+2017,Japanese Grand Prix,Stoffel Vandoorne,McLaren,14,2.0,23399.0
+2017,United States Grand Prix,Sebastian Vettel,Ferrari,2,1.0,24300.0
+2017,United States Grand Prix,Sebastian Vettel,Ferrari,2,2.0,23620.0
+2017,United States Grand Prix,Kimi Räikkönen,Ferrari,3,1.0,23575.0
+2017,United States Grand Prix,Max Verstappen,Red Bull,4,1.0,24325.0
+2017,United States Grand Prix,Max Verstappen,Red Bull,4,2.0,23423.0
+2017,Japanese Grand Prix,Fernando Alonso,McLaren,11,1.0,24636.0
+2017,Japanese Grand Prix,Max Verstappen,Red Bull,2,1.0,22620.0
+2017,Japanese Grand Prix,Daniel Ricciardo,Red Bull,3,1.0,23796.0
+2017,Japanese Grand Prix,Kimi Räikkönen,Ferrari,5,1.0,23699.0
+2017,Mexican Grand Prix,Fernando Alonso,McLaren,10,1.0,22655.0
+2017,Mexican Grand Prix,Stoffel Vandoorne,McLaren,12,1.0,28044.0
+2017,Brazilian Grand Prix,Sebastian Vettel,Ferrari,1,1.0,19097.0
+2017,Brazilian Grand Prix,Sebastian Vettel,Ferrari,1,2.0,17817.0
+2017,Mexican Grand Prix,Sebastian Vettel,Ferrari,4,2.0,22379.0
+2017,United States Grand Prix,Stoffel Vandoorne,McLaren,12,1.0,23578.0
+2017,United States Grand Prix,Fernando Alonso,McLaren,\N,1.0,23796.0
+2017,United States Grand Prix,Daniel Ricciardo,Red Bull,\N,1.0,23604.0
+2017,Mexican Grand Prix,Max Verstappen,Red Bull,1,1.0,22570.0
+2017,Mexican Grand Prix,Kimi Räikkönen,Ferrari,3,1.0,22540.0
+2017,Mexican Grand Prix,Sebastian Vettel,Ferrari,4,1.0,32037.0
+2017,Bahrain Grand Prix,Daniel Ricciardo,Red Bull,5,2.0,25200.0
+2017,Bahrain Grand Prix,Fernando Alonso,McLaren,14,1.0,24922.0
+2017,Bahrain Grand Prix,Fernando Alonso,McLaren,14,2.0,24723.0
+2017,Bahrain Grand Prix,Daniel Ricciardo,Red Bull,5,1.0,25312.0
+2017,Bahrain Grand Prix,Kimi Räikkönen,Ferrari,4,2.0,25856.0
+2017,Chinese Grand Prix,Fernando Alonso,McLaren,\N,1.0,24250.0
+2017,Chinese Grand Prix,Fernando Alonso,McLaren,\N,2.0,17304.0
+2017,Chinese Grand Prix,Fernando Alonso,McLaren,\N,3.0,17302.0
+2017,Chinese Grand Prix,Fernando Alonso,McLaren,\N,4.0,17302.0
+2017,Chinese Grand Prix,Stoffel Vandoorne,McLaren,\N,1.0,25146.0
+2017,Chinese Grand Prix,Stoffel Vandoorne,McLaren,\N,2.0,17325.0
+2017,Chinese Grand Prix,Stoffel Vandoorne,McLaren,\N,3.0,17295.0
+2017,Chinese Grand Prix,Stoffel Vandoorne,McLaren,\N,4.0,17292.0
+2017,Bahrain Grand Prix,Sebastian Vettel,Ferrari,1,1.0,24702.0
+2017,Bahrain Grand Prix,Sebastian Vettel,Ferrari,1,2.0,24314.0
+2017,Bahrain Grand Prix,Kimi Räikkönen,Ferrari,4,1.0,26430.0
+2017,Bahrain Grand Prix,Max Verstappen,Red Bull,\N,1.0,25174.0
+2017,Spanish Grand Prix,Sebastian Vettel,Ferrari,2,1.0,22499.0
+2017,Spanish Grand Prix,Sebastian Vettel,Ferrari,2,2.0,22307.0
+2017,Spanish Grand Prix,Daniel Ricciardo,Red Bull,3,1.0,21811.0
+2017,Spanish Grand Prix,Daniel Ricciardo,Red Bull,3,2.0,21918.0
+2017,Russian Grand Prix,Sebastian Vettel,Ferrari,2,1.0,30097.0
+2017,Russian Grand Prix,Kimi Räikkönen,Ferrari,3,1.0,30152.0
+2017,Russian Grand Prix,Max Verstappen,Red Bull,5,1.0,29567.0
+2017,Russian Grand Prix,Stoffel Vandoorne,McLaren,14,1.0,30006.0
+2017,Russian Grand Prix,Stoffel Vandoorne,McLaren,14,2.0,35998.0
+2017,Chinese Grand Prix,Sebastian Vettel,Ferrari,2,1.0,22906.0
+2017,Chinese Grand Prix,Sebastian Vettel,Ferrari,2,2.0,17354.0
+2017,Chinese Grand Prix,Sebastian Vettel,Ferrari,2,3.0,17362.0
+2017,Chinese Grand Prix,Sebastian Vettel,Ferrari,2,4.0,17370.0
+2017,Chinese Grand Prix,Sebastian Vettel,Ferrari,2,5.0,22443.0
+2017,Chinese Grand Prix,Max Verstappen,Red Bull,3,1.0,23071.0
+2017,Chinese Grand Prix,Max Verstappen,Red Bull,3,2.0,17651.0
+2017,Chinese Grand Prix,Max Verstappen,Red Bull,3,3.0,17421.0
+2017,Chinese Grand Prix,Max Verstappen,Red Bull,3,4.0,22505.0
+2017,Chinese Grand Prix,Daniel Ricciardo,Red Bull,4,1.0,17340.0
+2017,Chinese Grand Prix,Daniel Ricciardo,Red Bull,4,2.0,23613.0
+2017,Chinese Grand Prix,Daniel Ricciardo,Red Bull,4,3.0,17480.0
+2017,Chinese Grand Prix,Kimi Räikkönen,Ferrari,5,1.0,23847.0
+2017,Chinese Grand Prix,Kimi Räikkönen,Ferrari,5,2.0,17877.0
+2017,Australian Grand Prix,Sebastian Vettel,Ferrari,1,1.0,21988.0
+2017,Australian Grand Prix,Kimi Räikkönen,Ferrari,4,1.0,22033.0
+2017,Australian Grand Prix,Max Verstappen,Red Bull,5,1.0,22208.0
+2017,Australian Grand Prix,Stoffel Vandoorne,McLaren,13,1.0,39562.0
+2017,Australian Grand Prix,Fernando Alonso,McLaren,\N,1.0,22484.0
+2017,Chinese Grand Prix,Kimi Räikkönen,Ferrari,5,3.0,17435.0
+2017,Chinese Grand Prix,Kimi Räikkönen,Ferrari,5,4.0,23119.0
+2017,Chinese Grand Prix,Daniel Ricciardo,Red Bull,4,4.0,22505.0
+2017,Spanish Grand Prix,Fernando Alonso,McLaren,12,1.0,22690.0
+2017,Azerbaijan Grand Prix,Kimi Räikkönen,Ferrari,14,1.0,23237.0
+2017,Azerbaijan Grand Prix,Kimi Räikkönen,Ferrari,14,2.0,15049.0
+2017,Azerbaijan Grand Prix,Kimi Räikkönen,Ferrari,14,3.0,1583848.0
+2017,Azerbaijan Grand Prix,Kimi Räikkönen,Ferrari,14,4.0,14943.0
+2017,Azerbaijan Grand Prix,Stoffel Vandoorne,McLaren,12,4.0,20446.0
+2017,Azerbaijan Grand Prix,Stoffel Vandoorne,McLaren,12,2.0,15097.0
+2017,Azerbaijan Grand Prix,Fernando Alonso,McLaren,9,1.0,21217.0
+2017,Azerbaijan Grand Prix,Fernando Alonso,McLaren,9,2.0,15104.0
+2017,Azerbaijan Grand Prix,Fernando Alonso,McLaren,9,3.0,1313187.0
+2017,Azerbaijan Grand Prix,Stoffel Vandoorne,McLaren,12,1.0,21423.0
+2017,Azerbaijan Grand Prix,Stoffel Vandoorne,McLaren,12,3.0,1314189.0
+2017,Austrian Grand Prix,Sebastian Vettel,Ferrari,2,1.0,21750.0
+2017,British Grand Prix,Max Verstappen,Red Bull,4,1.0,29147.0
+2017,British Grand Prix,Max Verstappen,Red Bull,4,2.0,28056.0
+2017,British Grand Prix,Daniel Ricciardo,Red Bull,5,1.0,27910.0
+2017,British Grand Prix,Sebastian Vettel,Ferrari,7,1.0,28363.0
+2017,British Grand Prix,Sebastian Vettel,Ferrari,7,2.0,35204.0
+2017,British Grand Prix,Stoffel Vandoorne,McLaren,11,1.0,29337.0
+2017,British Grand Prix,Kimi Räikkönen,Ferrari,3,2.0,29057.0
+2017,British Grand Prix,Kimi Räikkönen,Ferrari,3,1.0,28476.0
+2017,Austrian Grand Prix,Daniel Ricciardo,Red Bull,3,1.0,21713.0
+2017,Austrian Grand Prix,Kimi Räikkönen,Ferrari,5,1.0,21662.0
+2017,Austrian Grand Prix,Stoffel Vandoorne,McLaren,12,1.0,21714.0
+2017,Austrian Grand Prix,Stoffel Vandoorne,McLaren,12,2.0,16206.0
+2017,Monaco Grand Prix,Stoffel Vandoorne,McLaren,\N,1.0,24768.0
+2017,Monaco Grand Prix,Max Verstappen,Red Bull,5,2.0,25678.0
+2017,Monaco Grand Prix,Jenson Button,McLaren,\N,1.0,24465.0
+2017,Monaco Grand Prix,Max Verstappen,Red Bull,5,1.0,25343.0
+2017,Monaco Grand Prix,Daniel Ricciardo,Red Bull,3,1.0,24183.0
+2017,Spanish Grand Prix,Fernando Alonso,McLaren,12,2.0,23354.0
+2017,Spanish Grand Prix,Fernando Alonso,McLaren,12,3.0,22923.0
+2017,Spanish Grand Prix,Stoffel Vandoorne,McLaren,\N,1.0,22547.0
+2017,Monaco Grand Prix,Sebastian Vettel,Ferrari,1,1.0,24306.0
+2017,Monaco Grand Prix,Kimi Räikkönen,Ferrari,2,1.0,24833.0
+2017,Monaco Grand Prix,Jenson Button,McLaren,\N,2.0,26057.0
+2017,Azerbaijan Grand Prix,Daniel Ricciardo,Red Bull,1,1.0,23361.0
+2017,Azerbaijan Grand Prix,Daniel Ricciardo,Red Bull,1,2.0,20198.0
+2017,Azerbaijan Grand Prix,Daniel Ricciardo,Red Bull,1,3.0,15135.0
+2017,Azerbaijan Grand Prix,Daniel Ricciardo,Red Bull,1,4.0,1313343.0
+2017,Azerbaijan Grand Prix,Sebastian Vettel,Ferrari,4,1.0,20059.0
+2017,Azerbaijan Grand Prix,Sebastian Vettel,Ferrari,4,2.0,15174.0
+2017,Azerbaijan Grand Prix,Sebastian Vettel,Ferrari,4,3.0,1310808.0
+2017,Azerbaijan Grand Prix,Sebastian Vettel,Ferrari,4,4.0,29317.0
+2017,Canadian Grand Prix,Sebastian Vettel,Ferrari,4,1.0,31596.0
+2017,Canadian Grand Prix,Sebastian Vettel,Ferrari,4,2.0,23345.0
+2017,Canadian Grand Prix,Daniel Ricciardo,Red Bull,3,1.0,23309.0
+2017,Canadian Grand Prix,Kimi Räikkönen,Ferrari,7,1.0,23500.0
+2017,Canadian Grand Prix,Kimi Räikkönen,Ferrari,7,2.0,23760.0
+2017,Canadian Grand Prix,Fernando Alonso,McLaren,16,1.0,23526.0
+2017,Canadian Grand Prix,Stoffel Vandoorne,McLaren,14,1.0,23267.0
+2018,Italian Grand Prix,Kimi Räikkönen,Ferrari,2,1.0,23862.0
+2018,Italian Grand Prix,Sebastian Vettel,Ferrari,4,1.0,32219.0
+2018,Italian Grand Prix,Sebastian Vettel,Ferrari,4,2.0,24301.0
+2018,Italian Grand Prix,Max Verstappen,Red Bull,5,1.0,24003.0
+2018,Italian Grand Prix,Stoffel Vandoorne,McLaren,12,1.0,24094.0
+2018,Belgian Grand Prix,Stoffel Vandoorne,McLaren,15,3.0,23389.0
+2018,Belgian Grand Prix,Stoffel Vandoorne,McLaren,15,1.0,19847.0
+2018,Belgian Grand Prix,Stoffel Vandoorne,McLaren,15,2.0,22706.0
+2018,Belgian Grand Prix,Kimi Räikkönen,Ferrari,\N,1.0,26367.0
+2018,Belgian Grand Prix,Kimi Räikkönen,Ferrari,\N,2.0,35451.0
+2018,Singapore Grand Prix,Stoffel Vandoorne,McLaren,12,1.0,30234.0
+2018,Italian Grand Prix,Daniel Ricciardo,Red Bull,\N,1.0,24805.0
+2018,Singapore Grand Prix,Max Verstappen,Red Bull,2,1.0,29681.0
+2018,Singapore Grand Prix,Sebastian Vettel,Ferrari,3,1.0,28722.0
+2018,Singapore Grand Prix,Kimi Räikkönen,Ferrari,5,1.0,29513.0
+2018,Singapore Grand Prix,Daniel Ricciardo,Red Bull,6,1.0,28779.0
+2018,Singapore Grand Prix,Fernando Alonso,McLaren,7,1.0,29922.0
+2018,German Grand Prix,Fernando Alonso,McLaren,16,1.0,18956.0
+2018,German Grand Prix,Fernando Alonso,McLaren,16,2.0,21119.0
+2018,German Grand Prix,Fernando Alonso,McLaren,16,3.0,20927.0
+2018,German Grand Prix,Sebastian Vettel,Ferrari,\N,1.0,18657.0
+2018,Hungarian Grand Prix,Sebastian Vettel,Ferrari,2,1.0,23111.0
+2018,Hungarian Grand Prix,Kimi Räikkönen,Ferrari,3,1.0,24471.0
+2018,Hungarian Grand Prix,Kimi Räikkönen,Ferrari,3,2.0,21829.0
+2018,German Grand Prix,Stoffel Vandoorne,McLaren,13,1.0,19778.0
+2018,Russian Grand Prix,Sebastian Vettel,Ferrari,3,1.0,29798.0
+2018,German Grand Prix,Stoffel Vandoorne,McLaren,13,2.0,19621.0
+2018,Hungarian Grand Prix,Daniel Ricciardo,Red Bull,4,1.0,21364.0
+2018,Belgian Grand Prix,Max Verstappen,Red Bull,3,1.0,19942.0
+2018,Belgian Grand Prix,Max Verstappen,Red Bull,3,2.0,22341.0
+2018,Belgian Grand Prix,Sebastian Vettel,Ferrari,1,2.0,22253.0
+2018,Hungarian Grand Prix,Fernando Alonso,McLaren,8,1.0,21795.0
+2018,Belgian Grand Prix,Sebastian Vettel,Ferrari,1,1.0,19582.0
+2018,Hungarian Grand Prix,Stoffel Vandoorne,McLaren,\N,1.0,21732.0
+2018,Russian Grand Prix,Kimi Räikkönen,Ferrari,4,1.0,29531.0
+2018,Russian Grand Prix,Daniel Ricciardo,Red Bull,6,1.0,37446.0
+2018,Brazilian Grand Prix,Max Verstappen,Red Bull,2,1.0,23432.0
+2018,Brazilian Grand Prix,Kimi Räikkönen,Ferrari,3,1.0,22766.0
+2018,Brazilian Grand Prix,Daniel Ricciardo,Red Bull,4,1.0,23300.0
+2018,Brazilian Grand Prix,Sebastian Vettel,Ferrari,6,1.0,22551.0
+2018,Brazilian Grand Prix,Sebastian Vettel,Ferrari,6,2.0,22683.0
+2018,Mexican Grand Prix,Daniel Ricciardo,Red Bull,\N,1.0,22022.0
+2018,Mexican Grand Prix,Stoffel Vandoorne,McLaren,8,1.0,22174.0
+2018,Abu Dhabi Grand Prix,Fernando Alonso,McLaren,11,1.0,21726.0
+2018,Abu Dhabi Grand Prix,Stoffel Vandoorne,McLaren,14,1.0,22317.0
+2018,Brazilian Grand Prix,Stoffel Vandoorne,McLaren,14,1.0,22618.0
+2018,Brazilian Grand Prix,Fernando Alonso,McLaren,17,1.0,33753.0
+2018,Brazilian Grand Prix,Fernando Alonso,McLaren,17,2.0,23046.0
+2018,Abu Dhabi Grand Prix,Sebastian Vettel,Ferrari,2,1.0,22630.0
+2018,Abu Dhabi Grand Prix,Max Verstappen,Red Bull,3,1.0,21057.0
+2018,Abu Dhabi Grand Prix,Daniel Ricciardo,Red Bull,4,1.0,21061.0
+2018,Japanese Grand Prix,Daniel Ricciardo,Red Bull,4,1.0,22864.0
+2018,Japanese Grand Prix,Kimi Räikkönen,Ferrari,5,1.0,22781.0
+2018,Japanese Grand Prix,Sebastian Vettel,Ferrari,6,1.0,22748.0
+2018,Japanese Grand Prix,Max Verstappen,Red Bull,3,1.0,28789.0
+2018,Japanese Grand Prix,Fernando Alonso,McLaren,14,1.0,27454.0
+2018,Japanese Grand Prix,Stoffel Vandoorne,McLaren,15,1.0,23159.0
+2018,Russian Grand Prix,Fernando Alonso,McLaren,14,1.0,30348.0
+2018,Russian Grand Prix,Stoffel Vandoorne,McLaren,16,1.0,29636.0
+2018,Mexican Grand Prix,Max Verstappen,Red Bull,1,1.0,22175.0
+2018,Mexican Grand Prix,Max Verstappen,Red Bull,1,2.0,22088.0
+2018,Mexican Grand Prix,Sebastian Vettel,Ferrari,2,1.0,22658.0
+2018,Mexican Grand Prix,Sebastian Vettel,Ferrari,2,2.0,21777.0
+2018,Mexican Grand Prix,Kimi Räikkönen,Ferrari,3,1.0,22017.0
+2018,United States Grand Prix,Kimi Räikkönen,Ferrari,1,1.0,23714.0
+2018,United States Grand Prix,Max Verstappen,Red Bull,2,1.0,23446.0
+2018,United States Grand Prix,Sebastian Vettel,Ferrari,4,1.0,24449.0
+2018,United States Grand Prix,Stoffel Vandoorne,McLaren,11,1.0,24065.0
+2018,United States Grand Prix,Stoffel Vandoorne,McLaren,11,2.0,24195.0
+2018,Russian Grand Prix,Max Verstappen,Red Bull,5,1.0,29370.0
+2018,Azerbaijan Grand Prix,Kimi Räikkönen,Ferrari,2,2.0,21149.0
+2018,Azerbaijan Grand Prix,Sebastian Vettel,Ferrari,4,1.0,20037.0
+2018,Azerbaijan Grand Prix,Sebastian Vettel,Ferrari,4,2.0,20823.0
+2018,Azerbaijan Grand Prix,Kimi Räikkönen,Ferrari,2,1.0,30012.0
+2018,Azerbaijan Grand Prix,Fernando Alonso,McLaren,7,1.0,56710.0
+2018,Azerbaijan Grand Prix,Fernando Alonso,McLaren,7,2.0,21371.0
+2018,Azerbaijan Grand Prix,Stoffel Vandoorne,McLaren,9,1.0,21103.0
+2018,Azerbaijan Grand Prix,Stoffel Vandoorne,McLaren,9,2.0,20887.0
+2018,Chinese Grand Prix,Stoffel Vandoorne,McLaren,13,1.0,23730.0
+2018,Azerbaijan Grand Prix,Stoffel Vandoorne,McLaren,9,3.0,20760.0
+2018,Spanish Grand Prix,Max Verstappen,Red Bull,3,1.0,21740.0
+2018,Spanish Grand Prix,Sebastian Vettel,Ferrari,4,1.0,22054.0
+2018,Spanish Grand Prix,Sebastian Vettel,Ferrari,4,2.0,24273.0
+2018,Spanish Grand Prix,Daniel Ricciardo,Red Bull,5,1.0,21618.0
+2018,Spanish Grand Prix,Fernando Alonso,McLaren,8,1.0,21721.0
+2018,Azerbaijan Grand Prix,Stoffel Vandoorne,McLaren,9,4.0,20978.0
+2018,Azerbaijan Grand Prix,Daniel Ricciardo,Red Bull,\N,1.0,19925.0
+2018,Azerbaijan Grand Prix,Max Verstappen,Red Bull,\N,1.0,19765.0
+2018,Bahrain Grand Prix,Sebastian Vettel,Ferrari,1,1.0,24524.0
+2018,Australian Grand Prix,Sebastian Vettel,Ferrari,1,1.0,21787.0
+2018,Australian Grand Prix,Kimi Räikkönen,Ferrari,3,1.0,21421.0
+2018,Australian Grand Prix,Daniel Ricciardo,Red Bull,4,1.0,21440.0
+2018,Australian Grand Prix,Fernando Alonso,McLaren,5,1.0,22573.0
+2018,Australian Grand Prix,Max Verstappen,Red Bull,6,1.0,20953.0
+2018,Australian Grand Prix,Stoffel Vandoorne,McLaren,9,1.0,22474.0
+2018,Bahrain Grand Prix,Fernando Alonso,McLaren,7,1.0,24993.0
+2018,Bahrain Grand Prix,Stoffel Vandoorne,McLaren,8,1.0,25081.0
+2018,Bahrain Grand Prix,Kimi Räikkönen,Ferrari,\N,1.0,25018.0
+2018,Bahrain Grand Prix,Max Verstappen,Red Bull,\N,1.0,30381.0
+2018,Chinese Grand Prix,Daniel Ricciardo,Red Bull,1,1.0,23042.0
+2018,Chinese Grand Prix,Daniel Ricciardo,Red Bull,1,2.0,22691.0
+2018,Chinese Grand Prix,Max Verstappen,Red Bull,5,1.0,22715.0
+2018,Chinese Grand Prix,Max Verstappen,Red Bull,5,2.0,22596.0
+2018,Chinese Grand Prix,Fernando Alonso,McLaren,7,1.0,24110.0
+2018,Chinese Grand Prix,Sebastian Vettel,Ferrari,8,1.0,23009.0
+2018,Bahrain Grand Prix,Fernando Alonso,McLaren,7,2.0,24581.0
+2018,Bahrain Grand Prix,Stoffel Vandoorne,McLaren,8,2.0,25131.0
+2018,Chinese Grand Prix,Kimi Räikkönen,Ferrari,3,1.0,22913.0
+2018,Austrian Grand Prix,Stoffel Vandoorne,McLaren,15,1.0,46557.0
+2018,Austrian Grand Prix,Stoffel Vandoorne,McLaren,15,2.0,22526.0
+2018,Austrian Grand Prix,Daniel Ricciardo,Red Bull,\N,1.0,21950.0
+2018,Austrian Grand Prix,Daniel Ricciardo,Red Bull,\N,2.0,21259.0
+2018,British Grand Prix,Sebastian Vettel,Ferrari,1,1.0,28677.0
+2018,French Grand Prix,Fernando Alonso,McLaren,16,1.0,25789.0
+2018,French Grand Prix,Fernando Alonso,McLaren,16,2.0,24788.0
+2018,Austrian Grand Prix,Max Verstappen,Red Bull,1,1.0,21214.0
+2018,Austrian Grand Prix,Sebastian Vettel,Ferrari,3,1.0,23912.0
+2018,Austrian Grand Prix,Fernando Alonso,McLaren,8,1.0,21588.0
+2018,Austrian Grand Prix,Kimi Räikkönen,Ferrari,2,1.0,21552.0
+2018,British Grand Prix,Sebastian Vettel,Ferrari,1,2.0,28174.0
+2018,British Grand Prix,Kimi Räikkönen,Ferrari,3,1.0,38573.0
+2018,British Grand Prix,Max Verstappen,Red Bull,\N,2.0,28000.0
+2018,German Grand Prix,Kimi Räikkönen,Ferrari,3,1.0,19647.0
+2018,German Grand Prix,Kimi Räikkönen,Ferrari,3,2.0,19988.0
+2018,German Grand Prix,Max Verstappen,Red Bull,4,1.0,19742.0
+2018,German Grand Prix,Max Verstappen,Red Bull,4,2.0,19297.0
+2018,German Grand Prix,Max Verstappen,Red Bull,4,3.0,19087.0
+2018,British Grand Prix,Max Verstappen,Red Bull,\N,1.0,28458.0
+2018,British Grand Prix,Kimi Räikkönen,Ferrari,3,2.0,28985.0
+2018,British Grand Prix,Daniel Ricciardo,Red Bull,5,1.0,28194.0
+2018,British Grand Prix,Daniel Ricciardo,Red Bull,5,2.0,28001.0
+2018,British Grand Prix,Fernando Alonso,McLaren,8,1.0,28669.0
+2018,British Grand Prix,Fernando Alonso,McLaren,8,2.0,28085.0
+2018,British Grand Prix,Stoffel Vandoorne,McLaren,11,1.0,28284.0
+2018,British Grand Prix,Stoffel Vandoorne,McLaren,11,2.0,28658.0
+2018,French Grand Prix,Stoffel Vandoorne,McLaren,12,1.0,24399.0
+2018,Monaco Grand Prix,Stoffel Vandoorne,McLaren,14,1.0,26817.0
+2018,Monaco Grand Prix,Stoffel Vandoorne,McLaren,14,2.0,25438.0
+2018,Monaco Grand Prix,Fernando Alonso,McLaren,\N,1.0,24241.0
+2018,Monaco Grand Prix,Max Verstappen,Red Bull,9,1.0,24111.0
+2018,Spanish Grand Prix,Stoffel Vandoorne,McLaren,\N,1.0,27416.0
+2018,Monaco Grand Prix,Daniel Ricciardo,Red Bull,1,1.0,24542.0
+2018,Monaco Grand Prix,Sebastian Vettel,Ferrari,2,1.0,23964.0
+2018,Monaco Grand Prix,Kimi Räikkönen,Ferrari,4,1.0,24263.0
+2018,Canadian Grand Prix,Sebastian Vettel,Ferrari,1,1.0,23529.0
+2018,Canadian Grand Prix,Max Verstappen,Red Bull,3,1.0,23137.0
+2018,French Grand Prix,Max Verstappen,Red Bull,2,1.0,24395.0
+2018,French Grand Prix,Kimi Räikkönen,Ferrari,3,1.0,24289.0
+2018,French Grand Prix,Sebastian Vettel,Ferrari,5,1.0,32612.0
+2018,French Grand Prix,Sebastian Vettel,Ferrari,5,2.0,31029.0
+2018,Canadian Grand Prix,Fernando Alonso,McLaren,\N,1.0,23099.0
+2018,French Grand Prix,Daniel Ricciardo,Red Bull,4,1.0,24309.0
+2018,Canadian Grand Prix,Daniel Ricciardo,Red Bull,4,1.0,23279.0
+2018,Canadian Grand Prix,Kimi Räikkönen,Ferrari,6,1.0,23645.0
+2018,Canadian Grand Prix,Stoffel Vandoorne,McLaren,16,1.0,41008.0
+2018,Canadian Grand Prix,Stoffel Vandoorne,McLaren,16,2.0,23537.0
+2019,Italian Grand Prix,Carlos Sainz,McLaren,\N,1.0,27010.0
+2019,Singapore Grand Prix,Alexander Albon,Red Bull,6,1.0,28606.0
+2019,Singapore Grand Prix,Charles Leclerc,Ferrari,2,1.0,29168.0
+2019,Singapore Grand Prix,Max Verstappen,Red Bull,3,1.0,28846.0
+2019,Singapore Grand Prix,Lando Norris,McLaren,7,1.0,30397.0
+2019,Singapore Grand Prix,Sebastian Vettel,Ferrari,1,1.0,29384.0
+2019,Italian Grand Prix,Alexander Albon,Red Bull,6,1.0,29830.0
+2019,Italian Grand Prix,Max Verstappen,Red Bull,8,1.0,31211.0
+2019,Italian Grand Prix,Max Verstappen,Red Bull,8,2.0,24303.0
+2019,Italian Grand Prix,Lando Norris,McLaren,10,1.0,24311.0
+2019,Italian Grand Prix,Sebastian Vettel,Ferrari,13,1.0,32443.0
+2019,Italian Grand Prix,Sebastian Vettel,Ferrari,13,2.0,31851.0
+2019,Italian Grand Prix,Sebastian Vettel,Ferrari,13,3.0,24376.0
+2019,Russian Grand Prix,Lando Norris,McLaren,8,1.0,29290.0
+2019,Russian Grand Prix,Sebastian Vettel,Ferrari,\N,1.0,29860.0
+2019,Russian Grand Prix,Carlos Sainz,McLaren,6,1.0,30103.0
+2019,Russian Grand Prix,Alexander Albon,Red Bull,5,1.0,29854.0
+2019,Russian Grand Prix,Charles Leclerc,Ferrari,3,2.0,29401.0
+2019,Singapore Grand Prix,Carlos Sainz,McLaren,12,2.0,30623.0
+2019,Russian Grand Prix,Charles Leclerc,Ferrari,3,1.0,29548.0
+2019,Russian Grand Prix,Max Verstappen,Red Bull,4,1.0,29978.0
+2019,Italian Grand Prix,Charles Leclerc,Ferrari,1,1.0,23833.0
+2019,Belgian Grand Prix,Carlos Sainz,McLaren,\N,1.0,59291.0
+2019,German Grand Prix,Charles Leclerc,Ferrari,\N,1.0,20361.0
+2019,German Grand Prix,Charles Leclerc,Ferrari,\N,2.0,22102.0
+2019,German Grand Prix,Charles Leclerc,Ferrari,\N,3.0,20317.0
+2019,German Grand Prix,Lando Norris,McLaren,\N,1.0,21402.0
+2019,Hungarian Grand Prix,Max Verstappen,Red Bull,2,1.0,21705.0
+2019,Hungarian Grand Prix,Max Verstappen,Red Bull,2,2.0,21164.0
+2019,Hungarian Grand Prix,Sebastian Vettel,Ferrari,3,1.0,24819.0
+2019,German Grand Prix,Lando Norris,McLaren,\N,2.0,20242.0
+2019,German Grand Prix,Pierre Gasly,Red Bull,14,4.0,20012.0
+2019,German Grand Prix,Pierre Gasly,Red Bull,14,1.0,29667.0
+2019,German Grand Prix,Pierre Gasly,Red Bull,14,2.0,19875.0
+2019,German Grand Prix,Pierre Gasly,Red Bull,14,3.0,20552.0
+2019,Hungarian Grand Prix,Charles Leclerc,Ferrari,4,1.0,21575.0
+2019,Hungarian Grand Prix,Carlos Sainz,McLaren,5,1.0,21832.0
+2019,Hungarian Grand Prix,Pierre Gasly,Red Bull,6,1.0,22104.0
+2019,Belgian Grand Prix,Lando Norris,McLaren,11,1.0,23182.0
+2019,Belgian Grand Prix,Alexander Albon,Red Bull,5,1.0,22506.0
+2019,Belgian Grand Prix,Sebastian Vettel,Ferrari,4,2.0,22786.0
+2019,Hungarian Grand Prix,Lando Norris,McLaren,9,1.0,26066.0
+2019,Belgian Grand Prix,Charles Leclerc,Ferrari,1,1.0,22449.0
+2019,Belgian Grand Prix,Sebastian Vettel,Ferrari,4,1.0,22863.0
+2019,Abu Dhabi Grand Prix,Charles Leclerc,Ferrari,3,2.0,21274.0
+2019,Brazilian Grand Prix,Lando Norris,McLaren,8,1.0,23381.0
+2019,Brazilian Grand Prix,Lando Norris,McLaren,8,2.0,23355.0
+2019,Brazilian Grand Prix,Max Verstappen,Red Bull,1,1.0,22818.0
+2019,Brazilian Grand Prix,Max Verstappen,Red Bull,1,2.0,22657.0
+2019,Brazilian Grand Prix,Max Verstappen,Red Bull,1,3.0,22593.0
+2019,Brazilian Grand Prix,Carlos Sainz,McLaren,3,1.0,22770.0
+2019,Brazilian Grand Prix,Alexander Albon,Red Bull,14,1.0,23073.0
+2019,Brazilian Grand Prix,Alexander Albon,Red Bull,14,2.0,23071.0
+2019,Abu Dhabi Grand Prix,Lando Norris,McLaren,8,1.0,22974.0
+2019,Abu Dhabi Grand Prix,Carlos Sainz,McLaren,10,1.0,21928.0
+2019,Abu Dhabi Grand Prix,Carlos Sainz,McLaren,10,2.0,21466.0
+2019,Abu Dhabi Grand Prix,Alexander Albon,Red Bull,6,1.0,22028.0
+2019,Abu Dhabi Grand Prix,Sebastian Vettel,Ferrari,5,1.0,25771.0
+2019,Brazilian Grand Prix,Sebastian Vettel,Ferrari,17,1.0,23039.0
+2019,Brazilian Grand Prix,Sebastian Vettel,Ferrari,17,2.0,23138.0
+2019,Brazilian Grand Prix,Charles Leclerc,Ferrari,18,1.0,22966.0
+2019,Brazilian Grand Prix,Charles Leclerc,Ferrari,18,2.0,23042.0
+2019,Abu Dhabi Grand Prix,Max Verstappen,Red Bull,2,1.0,21023.0
+2019,Abu Dhabi Grand Prix,Charles Leclerc,Ferrari,3,1.0,21697.0
+2019,Abu Dhabi Grand Prix,Sebastian Vettel,Ferrari,5,2.0,21858.0
+2019,Mexican Grand Prix,Sebastian Vettel,Ferrari,2,1.0,21862.0
+2019,Mexican Grand Prix,Charles Leclerc,Ferrari,4,1.0,22002.0
+2019,Mexican Grand Prix,Charles Leclerc,Ferrari,4,2.0,25786.0
+2019,Mexican Grand Prix,Alexander Albon,Red Bull,5,1.0,22192.0
+2019,Mexican Grand Prix,Alexander Albon,Red Bull,5,2.0,22003.0
+2019,Japanese Grand Prix,Sebastian Vettel,Ferrari,2,1.0,24032.0
+2019,Japanese Grand Prix,Sebastian Vettel,Ferrari,2,2.0,23213.0
+2019,Japanese Grand Prix,Alexander Albon,Red Bull,4,1.0,23354.0
+2019,Japanese Grand Prix,Alexander Albon,Red Bull,4,2.0,23301.0
+2019,Japanese Grand Prix,Carlos Sainz,McLaren,5,1.0,23476.0
+2019,Japanese Grand Prix,Charles Leclerc,Ferrari,6,1.0,30502.0
+2019,Japanese Grand Prix,Charles Leclerc,Ferrari,6,2.0,23580.0
+2019,Japanese Grand Prix,Charles Leclerc,Ferrari,6,3.0,23280.0
+2019,Japanese Grand Prix,Lando Norris,McLaren,11,1.0,25347.0
+2019,Japanese Grand Prix,Lando Norris,McLaren,11,2.0,23949.0
+2019,Mexican Grand Prix,Max Verstappen,Red Bull,6,1.0,24493.0
+2019,United States Grand Prix,Max Verstappen,Red Bull,3,2.0,23444.0
+2019,United States Grand Prix,Charles Leclerc,Ferrari,4,1.0,29157.0
+2019,United States Grand Prix,Charles Leclerc,Ferrari,4,2.0,23844.0
+2019,United States Grand Prix,Alexander Albon,Red Bull,5,1.0,34100.0
+2019,United States Grand Prix,Alexander Albon,Red Bull,5,2.0,23213.0
+2019,United States Grand Prix,Alexander Albon,Red Bull,5,3.0,23705.0
+2019,United States Grand Prix,Lando Norris,McLaren,7,1.0,24678.0
+2019,United States Grand Prix,Lando Norris,McLaren,7,2.0,25776.0
+2019,United States Grand Prix,Carlos Sainz,McLaren,8,1.0,24784.0
+2019,United States Grand Prix,Max Verstappen,Red Bull,3,1.0,23716.0
+2019,Mexican Grand Prix,Carlos Sainz,McLaren,13,1.0,22241.0
+2019,Mexican Grand Prix,Carlos Sainz,McLaren,13,2.0,22179.0
+2019,Azerbaijan Grand Prix,Charles Leclerc,Ferrari,5,1.0,20382.0
+2019,Azerbaijan Grand Prix,Charles Leclerc,Ferrari,5,2.0,19857.0
+2019,Azerbaijan Grand Prix,Carlos Sainz,McLaren,7,1.0,19755.0
+2019,Azerbaijan Grand Prix,Lando Norris,McLaren,8,1.0,19819.0
+2019,Azerbaijan Grand Prix,Lando Norris,McLaren,8,2.0,22080.0
+2019,Azerbaijan Grand Prix,Max Verstappen,Red Bull,4,1.0,20973.0
+2019,Azerbaijan Grand Prix,Sebastian Vettel,Ferrari,3,1.0,19981.0
+2019,Chinese Grand Prix,Carlos Sainz,McLaren,14,1.0,45878.0
+2019,Chinese Grand Prix,Carlos Sainz,McLaren,14,2.0,22532.0
+2019,Chinese Grand Prix,Lando Norris,McLaren,18,1.0,50738.0
+2019,Chinese Grand Prix,Lando Norris,McLaren,18,2.0,33638.0
+2019,Chinese Grand Prix,Lando Norris,McLaren,18,3.0,22524.0
+2019,Spanish Grand Prix,Carlos Sainz,McLaren,8,2.0,21545.0
+2019,Spanish Grand Prix,Max Verstappen,Red Bull,3,1.0,22417.0
+2019,Spanish Grand Prix,Max Verstappen,Red Bull,3,2.0,22540.0
+2019,Spanish Grand Prix,Sebastian Vettel,Ferrari,4,1.0,23746.0
+2019,Spanish Grand Prix,Sebastian Vettel,Ferrari,4,2.0,21643.0
+2019,Spanish Grand Prix,Charles Leclerc,Ferrari,5,1.0,23646.0
+2019,Spanish Grand Prix,Charles Leclerc,Ferrari,5,2.0,21638.0
+2019,Spanish Grand Prix,Pierre Gasly,Red Bull,6,1.0,22563.0
+2019,Spanish Grand Prix,Pierre Gasly,Red Bull,6,2.0,22095.0
+2019,Spanish Grand Prix,Carlos Sainz,McLaren,8,1.0,21468.0
+2019,Spanish Grand Prix,Lando Norris,McLaren,\N,1.0,21579.0
+2019,Bahrain Grand Prix,Charles Leclerc,Ferrari,3,1.0,24518.0
+2019,Bahrain Grand Prix,Charles Leclerc,Ferrari,3,2.0,24358.0
+2019,Bahrain Grand Prix,Max Verstappen,Red Bull,4,2.0,26729.0
+2019,Bahrain Grand Prix,Sebastian Vettel,Ferrari,5,1.0,24228.0
+2019,Bahrain Grand Prix,Sebastian Vettel,Ferrari,5,2.0,24212.0
+2019,Bahrain Grand Prix,Sebastian Vettel,Ferrari,5,3.0,34193.0
+2019,Bahrain Grand Prix,Lando Norris,McLaren,6,1.0,24175.0
+2019,Bahrain Grand Prix,Lando Norris,McLaren,6,2.0,24717.0
+2019,Bahrain Grand Prix,Max Verstappen,Red Bull,4,1.0,24199.0
+2019,Australian Grand Prix,Max Verstappen,Red Bull,3,1.0,21157.0
+2019,Australian Grand Prix,Sebastian Vettel,Ferrari,4,1.0,21995.0
+2019,Australian Grand Prix,Charles Leclerc,Ferrari,5,1.0,22306.0
+2019,Australian Grand Prix,Pierre Gasly,Red Bull,11,1.0,21269.0
+2019,Australian Grand Prix,Lando Norris,McLaren,12,1.0,21627.0
+2019,Bahrain Grand Prix,Pierre Gasly,Red Bull,8,1.0,27557.0
+2019,Bahrain Grand Prix,Pierre Gasly,Red Bull,8,2.0,24484.0
+2019,Chinese Grand Prix,Sebastian Vettel,Ferrari,3,1.0,22749.0
+2019,Chinese Grand Prix,Sebastian Vettel,Ferrari,3,2.0,22316.0
+2019,Chinese Grand Prix,Max Verstappen,Red Bull,4,1.0,23223.0
+2019,Chinese Grand Prix,Max Verstappen,Red Bull,4,2.0,22365.0
+2019,Chinese Grand Prix,Charles Leclerc,Ferrari,5,1.0,22921.0
+2019,Chinese Grand Prix,Charles Leclerc,Ferrari,5,2.0,24227.0
+2019,Chinese Grand Prix,Pierre Gasly,Red Bull,6,1.0,22301.0
+2019,Chinese Grand Prix,Pierre Gasly,Red Bull,6,2.0,22722.0
+2019,Chinese Grand Prix,Pierre Gasly,Red Bull,6,3.0,22408.0
+2019,Bahrain Grand Prix,Carlos Sainz,McLaren,\N,3.0,24985.0
+2019,Bahrain Grand Prix,Carlos Sainz,McLaren,\N,1.0,45543.0
+2019,Bahrain Grand Prix,Carlos Sainz,McLaren,\N,2.0,25034.0
+2019,British Grand Prix,Charles Leclerc,Ferrari,3,1.0,28558.0
+2019,British Grand Prix,Charles Leclerc,Ferrari,3,2.0,28348.0
+2019,British Grand Prix,Pierre Gasly,Red Bull,4,1.0,27905.0
+2019,British Grand Prix,Max Verstappen,Red Bull,5,1.0,27827.0
+2019,British Grand Prix,Max Verstappen,Red Bull,5,2.0,27950.0
+2019,British Grand Prix,Carlos Sainz,McLaren,6,1.0,27980.0
+2019,British Grand Prix,Lando Norris,McLaren,11,1.0,28275.0
+2019,British Grand Prix,Lando Norris,McLaren,11,2.0,27919.0
+2019,Austrian Grand Prix,Max Verstappen,Red Bull,1,1.0,21110.0
+2019,Austrian Grand Prix,Charles Leclerc,Ferrari,2,1.0,21878.0
+2019,Austrian Grand Prix,Sebastian Vettel,Ferrari,4,1.0,25236.0
+2019,Austrian Grand Prix,Sebastian Vettel,Ferrari,4,2.0,22251.0
+2019,Austrian Grand Prix,Lando Norris,McLaren,6,1.0,21547.0
+2019,Austrian Grand Prix,Pierre Gasly,Red Bull,7,1.0,22239.0
+2019,Austrian Grand Prix,Carlos Sainz,McLaren,8,1.0,21266.0
+2019,British Grand Prix,Sebastian Vettel,Ferrari,16,1.0,28021.0
+2019,British Grand Prix,Sebastian Vettel,Ferrari,16,2.0,38468.0
+2019,German Grand Prix,Carlos Sainz,McLaren,5,3.0,20711.0
+2019,Monaco Grand Prix,Sebastian Vettel,Ferrari,2,1.0,24483.0
+2019,German Grand Prix,Carlos Sainz,McLaren,5,2.0,19964.0
+2019,German Grand Prix,Max Verstappen,Red Bull,1,1.0,22358.0
+2019,German Grand Prix,Max Verstappen,Red Bull,1,2.0,19640.0
+2019,German Grand Prix,Max Verstappen,Red Bull,1,3.0,21472.0
+2019,German Grand Prix,Max Verstappen,Red Bull,1,4.0,19327.0
+2019,German Grand Prix,Max Verstappen,Red Bull,1,5.0,19062.0
+2019,German Grand Prix,Sebastian Vettel,Ferrari,2,1.0,20094.0
+2019,German Grand Prix,Carlos Sainz,McLaren,5,1.0,23363.0
+2019,German Grand Prix,Sebastian Vettel,Ferrari,2,2.0,20768.0
+2019,German Grand Prix,Sebastian Vettel,Ferrari,2,4.0,21256.0
+2019,German Grand Prix,Sebastian Vettel,Ferrari,2,5.0,19586.0
+2019,German Grand Prix,Sebastian Vettel,Ferrari,2,3.0,22058.0
+2019,Canadian Grand Prix,Max Verstappen,Red Bull,5,1.0,23426.0
+2019,Canadian Grand Prix,Pierre Gasly,Red Bull,8,1.0,23485.0
+2019,Canadian Grand Prix,Carlos Sainz,McLaren,11,1.0,24727.0
+2019,French Grand Prix,Charles Leclerc,Ferrari,3,1.0,30203.0
+2019,French Grand Prix,Max Verstappen,Red Bull,4,1.0,30118.0
+2019,French Grand Prix,Sebastian Vettel,Ferrari,5,1.0,30044.0
+2019,French Grand Prix,Sebastian Vettel,Ferrari,5,2.0,30468.0
+2019,Canadian Grand Prix,Sebastian Vettel,Ferrari,2,1.0,23782.0
+2019,Monaco Grand Prix,Max Verstappen,Red Bull,4,1.0,24011.0
+2019,Monaco Grand Prix,Pierre Gasly,Red Bull,5,1.0,24161.0
+2019,Monaco Grand Prix,Pierre Gasly,Red Bull,5,2.0,23858.0
+2019,Monaco Grand Prix,Carlos Sainz,McLaren,6,1.0,23795.0
+2019,Canadian Grand Prix,Charles Leclerc,Ferrari,3,1.0,23732.0
+2019,Monaco Grand Prix,Lando Norris,McLaren,11,1.0,25026.0
+2019,Monaco Grand Prix,Charles Leclerc,Ferrari,\N,1.0,25964.0
+2019,Monaco Grand Prix,Charles Leclerc,Ferrari,\N,2.0,25705.0
+2019,French Grand Prix,Carlos Sainz,McLaren,6,1.0,29920.0
+2019,French Grand Prix,Lando Norris,McLaren,9,1.0,30576.0
+2019,French Grand Prix,Pierre Gasly,Red Bull,10,1.0,30228.0
+2020,Portuguese Grand Prix,Sebastian Vettel,Ferrari,10,1.0,26666.0
+2020,Portuguese Grand Prix,Alexander Albon,Red Bull,12,1.0,26287.0
+2020,Portuguese Grand Prix,Alexander Albon,Red Bull,12,2.0,25882.0
+2020,Portuguese Grand Prix,Lando Norris,McLaren,13,1.0,34807.0
+2020,Portuguese Grand Prix,Lando Norris,McLaren,13,2.0,27750.0
+2020,Portuguese Grand Prix,Carlos Sainz,McLaren,6,1.0,27299.0
+2020,Turkish Grand Prix,Sebastian Vettel,Ferrari,3,1.0,24022.0
+2020,Turkish Grand Prix,Sebastian Vettel,Ferrari,3,2.0,25401.0
+2020,Portuguese Grand Prix,Max Verstappen,Red Bull,3,1.0,26394.0
+2020,Turkish Grand Prix,Charles Leclerc,Ferrari,4,1.0,24275.0
+2020,Portuguese Grand Prix,Charles Leclerc,Ferrari,4,1.0,26940.0
+2020,Eifel Grand Prix,Lando Norris,McLaren,\N,1.0,21991.0
+2020,Eifel Grand Prix,Alexander Albon,Red Bull,\N,1.0,23562.0
+2020,Emilia Romagna Grand Prix,Charles Leclerc,Ferrari,5,1.0,30243.0
+2020,Eifel Grand Prix,Sebastian Vettel,Ferrari,11,2.0,24366.0
+2020,Emilia Romagna Grand Prix,Carlos Sainz,McLaren,7,1.0,29950.0
+2020,Emilia Romagna Grand Prix,Carlos Sainz,McLaren,7,2.0,30614.0
+2020,Emilia Romagna Grand Prix,Max Verstappen,Red Bull,\N,1.0,29427.0
+2020,Emilia Romagna Grand Prix,Alexander Albon,Red Bull,15,2.0,29552.0
+2020,Emilia Romagna Grand Prix,Alexander Albon,Red Bull,15,1.0,29770.0
+2020,Emilia Romagna Grand Prix,Sebastian Vettel,Ferrari,12,2.0,29934.0
+2020,Emilia Romagna Grand Prix,Sebastian Vettel,Ferrari,12,1.0,40497.0
+2020,Emilia Romagna Grand Prix,Lando Norris,McLaren,8,2.0,30203.0
+2020,Emilia Romagna Grand Prix,Lando Norris,McLaren,8,1.0,29683.0
+2020,Eifel Grand Prix,Sebastian Vettel,Ferrari,11,1.0,22616.0
+2020,Russian Grand Prix,Lando Norris,McLaren,15,1.0,37108.0
+2020,Tuscan Grand Prix,Sebastian Vettel,Ferrari,10,6.0,1266590.0
+2020,Tuscan Grand Prix,Sebastian Vettel,Ferrari,10,5.0,22489.0
+2020,Tuscan Grand Prix,Sebastian Vettel,Ferrari,10,4.0,22995.0
+2020,Tuscan Grand Prix,Sebastian Vettel,Ferrari,10,3.0,1449513.0
+2020,Tuscan Grand Prix,Sebastian Vettel,Ferrari,10,1.0,33583.0
+2020,Tuscan Grand Prix,Sebastian Vettel,Ferrari,10,2.0,17516.0
+2020,Russian Grand Prix,Charles Leclerc,Ferrari,6,1.0,30261.0
+2020,Russian Grand Prix,Max Verstappen,Red Bull,2,1.0,28748.0
+2020,Eifel Grand Prix,Max Verstappen,Red Bull,2,1.0,22106.0
+2020,Eifel Grand Prix,Max Verstappen,Red Bull,2,2.0,22568.0
+2020,Eifel Grand Prix,Carlos Sainz,McLaren,5,1.0,22641.0
+2020,Eifel Grand Prix,Carlos Sainz,McLaren,5,2.0,22503.0
+2020,Eifel Grand Prix,Charles Leclerc,Ferrari,7,1.0,22560.0
+2020,Eifel Grand Prix,Charles Leclerc,Ferrari,7,2.0,23111.0
+2020,Turkish Grand Prix,Charles Leclerc,Ferrari,4,2.0,23687.0
+2020,Russian Grand Prix,Alexander Albon,Red Bull,10,1.0,30211.0
+2020,Russian Grand Prix,Sebastian Vettel,Ferrari,13,1.0,29395.0
+2020,Russian Grand Prix,Lando Norris,McLaren,15,2.0,31368.0
+2020,Turkish Grand Prix,Carlos Sainz,McLaren,5,1.0,23910.0
+2020,Turkish Grand Prix,Max Verstappen,Red Bull,6,1.0,24256.0
+2020,Sakhir Grand Prix,Lando Norris,McLaren,10,1.0,24885.0
+2020,Sakhir Grand Prix,Lando Norris,McLaren,10,2.0,24245.0
+2020,Sakhir Grand Prix,Sebastian Vettel,Ferrari,12,1.0,26216.0
+2020,Sakhir Grand Prix,Sebastian Vettel,Ferrari,12,2.0,28080.0
+2020,Tuscan Grand Prix,Charles Leclerc,Ferrari,8,5.0,1285145.0
+2020,Sakhir Grand Prix,Sebastian Vettel,Ferrari,12,3.0,24809.0
+2020,Sakhir Grand Prix,Alexander Albon,Red Bull,6,2.0,23645.0
+2020,Sakhir Grand Prix,Alexander Albon,Red Bull,6,1.0,23874.0
+2020,Sakhir Grand Prix,Carlos Sainz,McLaren,4,1.0,24162.0
+2020,Sakhir Grand Prix,Carlos Sainz,McLaren,4,2.0,24853.0
+2020,Abu Dhabi Grand Prix,Charles Leclerc,Ferrari,13,1.0,22178.0
+2020,Abu Dhabi Grand Prix,Sebastian Vettel,Ferrari,14,1.0,22040.0
+2020,Abu Dhabi Grand Prix,Carlos Sainz,McLaren,6,1.0,22140.0
+2020,Abu Dhabi Grand Prix,Max Verstappen,Red Bull,1,1.0,21289.0
+2020,Abu Dhabi Grand Prix,Alexander Albon,Red Bull,4,1.0,21508.0
+2020,Abu Dhabi Grand Prix,Lando Norris,McLaren,5,1.0,21840.0
+2020,Turkish Grand Prix,Carlos Sainz,McLaren,5,2.0,23537.0
+2020,Bahrain Grand Prix,Max Verstappen,Red Bull,2,1.0,1164529.0
+2020,Bahrain Grand Prix,Max Verstappen,Red Bull,2,2.0,24622.0
+2020,Bahrain Grand Prix,Max Verstappen,Red Bull,2,3.0,26950.0
+2020,Turkish Grand Prix,Max Verstappen,Red Bull,6,2.0,22518.0
+2020,Turkish Grand Prix,Max Verstappen,Red Bull,6,3.0,22787.0
+2020,Turkish Grand Prix,Alexander Albon,Red Bull,7,1.0,22602.0
+2020,Turkish Grand Prix,Alexander Albon,Red Bull,7,2.0,22490.0
+2020,Turkish Grand Prix,Lando Norris,McLaren,8,1.0,22684.0
+2020,Turkish Grand Prix,Lando Norris,McLaren,8,2.0,23686.0
+2020,Bahrain Grand Prix,Max Verstappen,Red Bull,2,4.0,23906.0
+2020,Bahrain Grand Prix,Alexander Albon,Red Bull,3,1.0,1161607.0
+2020,Bahrain Grand Prix,Alexander Albon,Red Bull,3,3.0,23848.0
+2020,Bahrain Grand Prix,Charles Leclerc,Ferrari,10,3.0,24855.0
+2020,Bahrain Grand Prix,Sebastian Vettel,Ferrari,13,1.0,1157042.0
+2020,Bahrain Grand Prix,Sebastian Vettel,Ferrari,13,2.0,24774.0
+2020,Bahrain Grand Prix,Sebastian Vettel,Ferrari,13,3.0,25444.0
+2020,Bahrain Grand Prix,Charles Leclerc,Ferrari,10,2.0,25199.0
+2020,Bahrain Grand Prix,Charles Leclerc,Ferrari,10,1.0,1154255.0
+2020,Bahrain Grand Prix,Lando Norris,McLaren,4,1.0,1153898.0
+2020,Bahrain Grand Prix,Lando Norris,McLaren,4,2.0,24679.0
+2020,Bahrain Grand Prix,Lando Norris,McLaren,4,3.0,24666.0
+2020,Bahrain Grand Prix,Carlos Sainz,McLaren,5,1.0,1157291.0
+2020,Bahrain Grand Prix,Carlos Sainz,McLaren,5,2.0,24511.0
+2020,Bahrain Grand Prix,Carlos Sainz,McLaren,5,3.0,25502.0
+2020,Bahrain Grand Prix,Alexander Albon,Red Bull,3,2.0,24172.0
+2020,Tuscan Grand Prix,Charles Leclerc,Ferrari,8,4.0,23367.0
+2020,Russian Grand Prix,Alexander Albon,Red Bull,10,2.0,30111.0
+2020,Tuscan Grand Prix,Charles Leclerc,Ferrari,8,1.0,17516.0
+2020,British Grand Prix,Max Verstappen,Red Bull,2,1.0,28208.0
+2020,British Grand Prix,Max Verstappen,Red Bull,2,2.0,28273.0
+2020,Hungarian Grand Prix,Sebastian Vettel,Ferrari,6,1.0,28286.0
+2020,Hungarian Grand Prix,Sebastian Vettel,Ferrari,6,2.0,21880.0
+2020,Hungarian Grand Prix,Carlos Sainz,McLaren,9,1.0,27131.0
+2020,British Grand Prix,Charles Leclerc,Ferrari,3,1.0,29520.0
+2020,Hungarian Grand Prix,Carlos Sainz,McLaren,9,2.0,22438.0
+2020,Hungarian Grand Prix,Charles Leclerc,Ferrari,11,1.0,22266.0
+2020,Hungarian Grand Prix,Charles Leclerc,Ferrari,11,2.0,22564.0
+2020,Hungarian Grand Prix,Lando Norris,McLaren,13,1.0,23012.0
+2020,Hungarian Grand Prix,Lando Norris,McLaren,13,2.0,22742.0
+2020,Hungarian Grand Prix,Alexander Albon,Red Bull,5,2.0,22174.0
+2020,70th Anniversary Grand Prix,Charles Leclerc,Ferrari,4,1.0,29419.0
+2020,70th Anniversary Grand Prix,Alexander Albon,Red Bull,5,1.0,28417.0
+2020,70th Anniversary Grand Prix,Alexander Albon,Red Bull,5,2.0,27858.0
+2020,70th Anniversary Grand Prix,Lando Norris,McLaren,9,1.0,27949.0
+2020,70th Anniversary Grand Prix,Lando Norris,McLaren,9,2.0,28874.0
+2020,70th Anniversary Grand Prix,Max Verstappen,Red Bull,1,2.0,28986.0
+2020,70th Anniversary Grand Prix,Max Verstappen,Red Bull,1,1.0,29115.0
+2020,British Grand Prix,Alexander Albon,Red Bull,8,1.0,28834.0
+2020,British Grand Prix,Alexander Albon,Red Bull,8,2.0,33308.0
+2020,British Grand Prix,Sebastian Vettel,Ferrari,10,1.0,29439.0
+2020,British Grand Prix,Lando Norris,McLaren,5,1.0,30289.0
+2020,British Grand Prix,Carlos Sainz,McLaren,13,2.0,36278.0
+2020,British Grand Prix,Carlos Sainz,McLaren,13,1.0,28487.0
+2020,Hungarian Grand Prix,Alexander Albon,Red Bull,5,1.0,23046.0
+2020,Austrian Grand Prix,Sebastian Vettel,Ferrari,10,1.0,22231.0
+2020,Austrian Grand Prix,Sebastian Vettel,Ferrari,10,2.0,22738.0
+2020,Austrian Grand Prix,Sebastian Vettel,Ferrari,10,3.0,19330.0
+2020,Austrian Grand Prix,Alexander Albon,Red Bull,13,1.0,21279.0
+2020,Austrian Grand Prix,Alexander Albon,Red Bull,13,2.0,21842.0
+2020,Austrian Grand Prix,Alexander Albon,Red Bull,13,3.0,17035.0
+2020,Tuscan Grand Prix,Charles Leclerc,Ferrari,8,3.0,23469.0
+2020,Austrian Grand Prix,Charles Leclerc,Ferrari,2,1.0,22756.0
+2020,Austrian Grand Prix,Charles Leclerc,Ferrari,2,2.0,21972.0
+2020,Austrian Grand Prix,Charles Leclerc,Ferrari,2,3.0,18748.0
+2020,Austrian Grand Prix,Lando Norris,McLaren,3,1.0,23637.0
+2020,Austrian Grand Prix,Lando Norris,McLaren,3,2.0,21921.0
+2020,Austrian Grand Prix,Carlos Sainz,McLaren,5,1.0,23827.0
+2020,Austrian Grand Prix,Carlos Sainz,McLaren,5,2.0,21805.0
+2020,Austrian Grand Prix,Carlos Sainz,McLaren,5,3.0,20064.0
+2020,Austrian Grand Prix,Lando Norris,McLaren,3,3.0,18163.0
+2020,Styrian Grand Prix,Charles Leclerc,Ferrari,\N,1.0,39715.0
+2020,Hungarian Grand Prix,Max Verstappen,Red Bull,2,1.0,21529.0
+2020,Hungarian Grand Prix,Max Verstappen,Red Bull,2,2.0,21268.0
+2020,Styrian Grand Prix,Max Verstappen,Red Bull,3,1.0,20937.0
+2020,Styrian Grand Prix,Max Verstappen,Red Bull,3,2.0,21091.0
+2020,Styrian Grand Prix,Lando Norris,McLaren,5,1.0,22406.0
+2020,Styrian Grand Prix,Carlos Sainz,McLaren,9,2.0,21873.0
+2020,Styrian Grand Prix,Alexander Albon,Red Bull,4,1.0,21505.0
+2020,Styrian Grand Prix,Carlos Sainz,McLaren,9,1.0,25983.0
+2020,Italian Grand Prix,Alexander Albon,Red Bull,15,1.0,29661.0
+2020,Italian Grand Prix,Alexander Albon,Red Bull,15,2.0,1528247.0
+2020,Italian Grand Prix,Max Verstappen,Red Bull,\N,1.0,26149.0
+2020,Italian Grand Prix,Max Verstappen,Red Bull,\N,2.0,1522796.0
+2020,Italian Grand Prix,Carlos Sainz,McLaren,2,1.0,24398.0
+2020,Italian Grand Prix,Carlos Sainz,McLaren,2,2.0,1522369.0
+2020,Italian Grand Prix,Lando Norris,McLaren,4,1.0,24612.0
+2020,Italian Grand Prix,Lando Norris,McLaren,4,2.0,1522009.0
+2020,Italian Grand Prix,Charles Leclerc,Ferrari,\N,1.0,24344.0
+2020,Tuscan Grand Prix,Lando Norris,McLaren,6,1.0,17845.0
+2020,Tuscan Grand Prix,Lando Norris,McLaren,6,2.0,1445614.0
+2020,Tuscan Grand Prix,Lando Norris,McLaren,6,3.0,24137.0
+2020,Tuscan Grand Prix,Lando Norris,McLaren,6,4.0,24820.0
+2020,Tuscan Grand Prix,Lando Norris,McLaren,6,5.0,1292871.0
+2020,Tuscan Grand Prix,Charles Leclerc,Ferrari,8,2.0,1436871.0
+2020,Tuscan Grand Prix,Alexander Albon,Red Bull,3,2.0,1438719.0
+2020,Tuscan Grand Prix,Alexander Albon,Red Bull,3,3.0,22387.0
+2020,Tuscan Grand Prix,Alexander Albon,Red Bull,3,4.0,22822.0
+2020,Tuscan Grand Prix,Alexander Albon,Red Bull,3,5.0,1302435.0
+2020,Tuscan Grand Prix,Alexander Albon,Red Bull,3,1.0,17591.0
+2020,Spanish Grand Prix,Max Verstappen,Red Bull,2,1.0,21532.0
+2020,Spanish Grand Prix,Max Verstappen,Red Bull,2,2.0,21601.0
+2020,Spanish Grand Prix,Carlos Sainz,McLaren,6,1.0,22078.0
+2020,Spanish Grand Prix,Carlos Sainz,McLaren,6,2.0,22166.0
+2020,Spanish Grand Prix,Sebastian Vettel,Ferrari,7,1.0,21820.0
+2020,Spanish Grand Prix,Alexander Albon,Red Bull,8,1.0,21663.0
+2020,Spanish Grand Prix,Alexander Albon,Red Bull,8,2.0,21804.0
+2020,70th Anniversary Grand Prix,Sebastian Vettel,Ferrari,12,2.0,28352.0
+2020,70th Anniversary Grand Prix,Sebastian Vettel,Ferrari,12,1.0,28167.0
+2020,70th Anniversary Grand Prix,Carlos Sainz,McLaren,13,1.0,35864.0
+2020,70th Anniversary Grand Prix,Carlos Sainz,McLaren,13,2.0,28772.0
+2020,Spanish Grand Prix,Lando Norris,McLaren,10,1.0,22099.0
+2020,Belgian Grand Prix,Max Verstappen,Red Bull,3,1.0,23314.0
+2020,Belgian Grand Prix,Alexander Albon,Red Bull,6,1.0,22738.0
+2020,Belgian Grand Prix,Lando Norris,McLaren,7,1.0,23046.0
+2020,Belgian Grand Prix,Sebastian Vettel,Ferrari,13,1.0,22982.0
+2020,Belgian Grand Prix,Charles Leclerc,Ferrari,14,1.0,30678.0
+2020,Belgian Grand Prix,Charles Leclerc,Ferrari,14,2.0,25100.0
+2020,Spanish Grand Prix,Lando Norris,McLaren,10,2.0,21761.0
+2020,Spanish Grand Prix,Charles Leclerc,Ferrari,\N,1.0,22274.0
+2021,Turkish Grand Prix,Max Verstappen,Red Bull,2,1.0,22442.0
+2021,Turkish Grand Prix,Sergio Pérez,Red Bull,3,1.0,22463.0
+2021,Turkish Grand Prix,Charles Leclerc,Ferrari,4,1.0,23646.0
+2021,Turkish Grand Prix,Lando Norris,McLaren,7,1.0,23239.0
+2021,Turkish Grand Prix,Carlos Sainz,Ferrari,8,1.0,28353.0
+2021,Russian Grand Prix,Charles Leclerc,Ferrari,15,2.0,32648.0
+2021,Russian Grand Prix,Charles Leclerc,Ferrari,15,1.0,31849.0
+2021,Russian Grand Prix,Lando Norris,McLaren,7,2.0,32670.0
+2021,Russian Grand Prix,Carlos Sainz,Ferrari,3,2.0,30677.0
+2021,Russian Grand Prix,Carlos Sainz,Ferrari,3,1.0,30715.0
+2021,Russian Grand Prix,Daniel Ricciardo,McLaren,4,1.0,33617.0
+2021,Russian Grand Prix,Max Verstappen,Red Bull,2,2.0,31017.0
+2021,Russian Grand Prix,Daniel Ricciardo,McLaren,4,2.0,31016.0
+2021,Russian Grand Prix,Lando Norris,McLaren,7,1.0,29824.0
+2021,Russian Grand Prix,Sergio Pérez,Red Bull,9,1.0,36026.0
+2021,Russian Grand Prix,Sergio Pérez,Red Bull,9,2.0,32313.0
+2021,Turkish Grand Prix,Daniel Ricciardo,McLaren,13,1.0,23028.0
+2021,Russian Grand Prix,Max Verstappen,Red Bull,2,1.0,29578.0
+2021,Mexico City Grand Prix,Max Verstappen,Red Bull,1,1.0,21908.0
+2021,Mexico City Grand Prix,Sergio Pérez,Red Bull,3,1.0,22114.0
+2021,United States Grand Prix,Max Verstappen,Red Bull,1,1.0,23727.0
+2021,United States Grand Prix,Max Verstappen,Red Bull,1,2.0,24052.0
+2021,United States Grand Prix,Sergio Pérez,Red Bull,3,1.0,25018.0
+2021,United States Grand Prix,Sergio Pérez,Red Bull,3,2.0,23604.0
+2021,United States Grand Prix,Charles Leclerc,Ferrari,4,1.0,24011.0
+2021,United States Grand Prix,Charles Leclerc,Ferrari,4,2.0,23805.0
+2021,United States Grand Prix,Daniel Ricciardo,McLaren,5,1.0,24176.0
+2021,United States Grand Prix,Daniel Ricciardo,McLaren,5,2.0,24036.0
+2021,United States Grand Prix,Carlos Sainz,Ferrari,7,1.0,23414.0
+2021,United States Grand Prix,Carlos Sainz,Ferrari,7,2.0,26866.0
+2021,United States Grand Prix,Lando Norris,McLaren,8,1.0,24385.0
+2021,United States Grand Prix,Lando Norris,McLaren,8,2.0,25548.0
+2021,Hungarian Grand Prix,Lando Norris,McLaren,\N,1.0,38267.0
+2021,Hungarian Grand Prix,Max Verstappen,Red Bull,9,2.0,1456349.0
+2021,Hungarian Grand Prix,Max Verstappen,Red Bull,9,3.0,35245.0
+2021,Hungarian Grand Prix,Max Verstappen,Red Bull,9,4.0,21047.0
+2021,Hungarian Grand Prix,Max Verstappen,Red Bull,9,5.0,20848.0
+2021,Hungarian Grand Prix,Daniel Ricciardo,McLaren,11,1.0,1457127.0
+2021,Hungarian Grand Prix,Daniel Ricciardo,McLaren,11,2.0,34492.0
+2021,Hungarian Grand Prix,Daniel Ricciardo,McLaren,11,3.0,21623.0
+2021,Dutch Grand Prix,Max Verstappen,Red Bull,1,1.0,19142.0
+2021,Dutch Grand Prix,Max Verstappen,Red Bull,1,2.0,18578.0
+2021,Italian Grand Prix,Lando Norris,McLaren,2,1.0,24168.0
+2021,Italian Grand Prix,Charles Leclerc,Ferrari,4,1.0,24557.0
+2021,Italian Grand Prix,Sergio Pérez,Red Bull,5,1.0,23906.0
+2021,Italian Grand Prix,Carlos Sainz,Ferrari,6,1.0,24283.0
+2021,Italian Grand Prix,Daniel Ricciardo,McLaren,1,1.0,23812.0
+2021,Italian Grand Prix,Max Verstappen,Red Bull,\N,1.0,32456.0
+2021,Dutch Grand Prix,Charles Leclerc,Ferrari,5,1.0,19490.0
+2021,Dutch Grand Prix,Carlos Sainz,Ferrari,7,1.0,20327.0
+2021,Dutch Grand Prix,Sergio Pérez,Red Bull,8,1.0,19287.0
+2021,Dutch Grand Prix,Sergio Pérez,Red Bull,8,2.0,18555.0
+2021,Dutch Grand Prix,Lando Norris,McLaren,10,1.0,20443.0
+2021,Dutch Grand Prix,Daniel Ricciardo,McLaren,11,1.0,19449.0
+2021,Mexico City Grand Prix,Charles Leclerc,Ferrari,5,1.0,22085.0
+2021,Saudi Arabian Grand Prix,Lando Norris,McLaren,10,3.0,1116576.0
+2021,Saudi Arabian Grand Prix,Max Verstappen,Red Bull,2,2.0,1087591.0
+2021,Saudi Arabian Grand Prix,Daniel Ricciardo,McLaren,5,1.0,997029.0
+2021,Saudi Arabian Grand Prix,Daniel Ricciardo,McLaren,5,2.0,1087296.0
+2021,Saudi Arabian Grand Prix,Max Verstappen,Red Bull,2,1.0,996375.0
+2021,Saudi Arabian Grand Prix,Charles Leclerc,Ferrari,7,1.0,20531.0
+2021,Saudi Arabian Grand Prix,Charles Leclerc,Ferrari,7,3.0,1095192.0
+2021,Saudi Arabian Grand Prix,Carlos Sainz,Ferrari,8,1.0,1004618.0
+2021,Saudi Arabian Grand Prix,Carlos Sainz,Ferrari,8,2.0,1097194.0
+2021,Saudi Arabian Grand Prix,Lando Norris,McLaren,10,1.0,20973.0
+2021,Saudi Arabian Grand Prix,Lando Norris,McLaren,10,2.0,1017303.0
+2021,Saudi Arabian Grand Prix,Charles Leclerc,Ferrari,7,2.0,999485.0
+2021,Qatar Grand Prix,Sergio Pérez,Red Bull,4,2.0,25420.0
+2021,Qatar Grand Prix,Carlos Sainz,Ferrari,7,1.0,25639.0
+2021,Qatar Grand Prix,Charles Leclerc,Ferrari,8,1.0,25799.0
+2021,Qatar Grand Prix,Lando Norris,McLaren,9,1.0,25319.0
+2021,Qatar Grand Prix,Lando Norris,McLaren,9,2.0,26552.0
+2021,Qatar Grand Prix,Daniel Ricciardo,McLaren,12,1.0,25562.0
+2021,Qatar Grand Prix,Sergio Pérez,Red Bull,4,1.0,25419.0
+2021,Abu Dhabi Grand Prix,Lando Norris,McLaren,7,1.0,21380.0
+2021,Abu Dhabi Grand Prix,Lando Norris,McLaren,7,2.0,22173.0
+2021,Abu Dhabi Grand Prix,Charles Leclerc,Ferrari,10,1.0,22461.0
+2021,Abu Dhabi Grand Prix,Charles Leclerc,Ferrari,10,2.0,21173.0
+2021,Abu Dhabi Grand Prix,Daniel Ricciardo,McLaren,12,1.0,21449.0
+2021,Abu Dhabi Grand Prix,Daniel Ricciardo,McLaren,12,2.0,22056.0
+2021,Abu Dhabi Grand Prix,Sergio Pérez,Red Bull,15,1.0,21471.0
+2021,Abu Dhabi Grand Prix,Sergio Pérez,Red Bull,15,2.0,21413.0
+2021,Abu Dhabi Grand Prix,Sergio Pérez,Red Bull,15,3.0,21385.0
+2021,Hungarian Grand Prix,Max Verstappen,Red Bull,9,1.0,22569.0
+2021,Saudi Arabian Grand Prix,Sergio Pérez,Red Bull,\N,1.0,20710.0
+2021,Saudi Arabian Grand Prix,Sergio Pérez,Red Bull,\N,2.0,1002619.0
+2021,Abu Dhabi Grand Prix,Max Verstappen,Red Bull,1,1.0,21152.0
+2021,Abu Dhabi Grand Prix,Max Verstappen,Red Bull,1,2.0,21871.0
+2021,Abu Dhabi Grand Prix,Max Verstappen,Red Bull,1,3.0,21453.0
+2021,Abu Dhabi Grand Prix,Carlos Sainz,Ferrari,3,1.0,22213.0
+2021,Mexico City Grand Prix,Carlos Sainz,Ferrari,6,1.0,22031.0
+2021,Qatar Grand Prix,Max Verstappen,Red Bull,2,2.0,25175.0
+2021,São Paulo Grand Prix,Max Verstappen,Red Bull,2,4.0,22766.0
+2021,São Paulo Grand Prix,Sergio Pérez,Red Bull,4,1.0,18308.0
+2021,São Paulo Grand Prix,Sergio Pérez,Red Bull,4,2.0,18136.0
+2021,São Paulo Grand Prix,Sergio Pérez,Red Bull,4,3.0,23165.0
+2021,São Paulo Grand Prix,Sergio Pérez,Red Bull,4,4.0,22656.0
+2021,São Paulo Grand Prix,Sergio Pérez,Red Bull,4,5.0,22916.0
+2021,São Paulo Grand Prix,Max Verstappen,Red Bull,2,3.0,22722.0
+2021,São Paulo Grand Prix,Charles Leclerc,Ferrari,5,1.0,17943.0
+2021,São Paulo Grand Prix,Charles Leclerc,Ferrari,5,3.0,22667.0
+2021,São Paulo Grand Prix,Charles Leclerc,Ferrari,5,4.0,23064.0
+2021,São Paulo Grand Prix,Carlos Sainz,Ferrari,6,1.0,18460.0
+2021,São Paulo Grand Prix,Carlos Sainz,Ferrari,6,2.0,18373.0
+2021,São Paulo Grand Prix,Carlos Sainz,Ferrari,6,3.0,23321.0
+2021,São Paulo Grand Prix,Carlos Sainz,Ferrari,6,4.0,22745.0
+2021,São Paulo Grand Prix,Charles Leclerc,Ferrari,5,2.0,17771.0
+2021,São Paulo Grand Prix,Max Verstappen,Red Bull,2,2.0,17807.0
+2021,São Paulo Grand Prix,Max Verstappen,Red Bull,2,1.0,17916.0
+2021,Mexico City Grand Prix,Lando Norris,McLaren,10,1.0,22534.0
+2021,Mexico City Grand Prix,Daniel Ricciardo,McLaren,12,1.0,38128.0
+2021,Mexico City Grand Prix,Daniel Ricciardo,McLaren,12,2.0,22813.0
+2021,Qatar Grand Prix,Max Verstappen,Red Bull,2,3.0,25465.0
+2021,São Paulo Grand Prix,Daniel Ricciardo,McLaren,\N,1.0,19732.0
+2021,São Paulo Grand Prix,Daniel Ricciardo,McLaren,\N,2.0,18347.0
+2021,São Paulo Grand Prix,Daniel Ricciardo,McLaren,\N,3.0,22839.0
+2021,Qatar Grand Prix,Max Verstappen,Red Bull,2,1.0,25300.0
+2021,São Paulo Grand Prix,Lando Norris,McLaren,10,1.0,27313.0
+2021,São Paulo Grand Prix,Lando Norris,McLaren,10,2.0,17719.0
+2021,São Paulo Grand Prix,Lando Norris,McLaren,10,3.0,17673.0
+2021,São Paulo Grand Prix,Lando Norris,McLaren,10,4.0,19176.0
+2021,São Paulo Grand Prix,Lando Norris,McLaren,10,5.0,24211.0
+2021,British Grand Prix,Daniel Ricciardo,McLaren,5,1.0,2051281.0
+2021,Portuguese Grand Prix,Carlos Sainz,Ferrari,11,3.0,25892.0
+2021,Portuguese Grand Prix,Carlos Sainz,Ferrari,11,2.0,22244.0
+2021,Portuguese Grand Prix,Carlos Sainz,Ferrari,11,1.0,22029.0
+2021,Portuguese Grand Prix,Sergio Pérez,Red Bull,4,1.0,21890.0
+2021,Portuguese Grand Prix,Sergio Pérez,Red Bull,4,2.0,22100.0
+2021,Portuguese Grand Prix,Sergio Pérez,Red Bull,4,3.0,26607.0
+2021,Portuguese Grand Prix,Lando Norris,McLaren,5,1.0,21407.0
+2021,Portuguese Grand Prix,Lando Norris,McLaren,5,2.0,22551.0
+2021,Portuguese Grand Prix,Lando Norris,McLaren,5,3.0,26952.0
+2021,Portuguese Grand Prix,Charles Leclerc,Ferrari,6,1.0,21323.0
+2021,Portuguese Grand Prix,Charles Leclerc,Ferrari,6,2.0,22587.0
+2021,Portuguese Grand Prix,Daniel Ricciardo,McLaren,9,1.0,21965.0
+2021,Portuguese Grand Prix,Daniel Ricciardo,McLaren,9,2.0,22355.0
+2021,Portuguese Grand Prix,Daniel Ricciardo,McLaren,9,3.0,28639.0
+2021,Portuguese Grand Prix,Charles Leclerc,Ferrari,6,3.0,27082.0
+2021,Monaco Grand Prix,Carlos Sainz,Ferrari,2,1.0,24150.0
+2021,Monaco Grand Prix,Max Verstappen,Red Bull,1,1.0,23746.0
+2021,Monaco Grand Prix,Lando Norris,McLaren,3,1.0,23874.0
+2021,Monaco Grand Prix,Sergio Pérez,Red Bull,4,1.0,24548.0
+2021,Spanish Grand Prix,Max Verstappen,Red Bull,2,1.0,23565.0
+2021,Spanish Grand Prix,Max Verstappen,Red Bull,2,2.0,21592.0
+2021,Spanish Grand Prix,Charles Leclerc,Ferrari,4,1.0,21613.0
+2021,Spanish Grand Prix,Charles Leclerc,Ferrari,4,2.0,22292.0
+2021,Spanish Grand Prix,Sergio Pérez,Red Bull,5,1.0,22382.0
+2021,Spanish Grand Prix,Sergio Pérez,Red Bull,5,2.0,21345.0
+2021,Spanish Grand Prix,Daniel Ricciardo,McLaren,6,1.0,22406.0
+2021,Spanish Grand Prix,Daniel Ricciardo,McLaren,6,2.0,21762.0
+2021,Spanish Grand Prix,Carlos Sainz,Ferrari,7,1.0,21779.0
+2021,Spanish Grand Prix,Carlos Sainz,Ferrari,7,2.0,21856.0
+2021,Spanish Grand Prix,Lando Norris,McLaren,8,1.0,21864.0
+2021,Spanish Grand Prix,Lando Norris,McLaren,8,2.0,22467.0
+2021,Portuguese Grand Prix,Max Verstappen,Red Bull,2,4.0,26319.0
+2021,Portuguese Grand Prix,Max Verstappen,Red Bull,2,3.0,26743.0
+2021,Portuguese Grand Prix,Max Verstappen,Red Bull,2,2.0,22104.0
+2021,Emilia Romagna Grand Prix,Max Verstappen,Red Bull,1,1.0,29809.0
+2021,Emilia Romagna Grand Prix,Max Verstappen,Red Bull,1,2.0,1621361.0
+2021,Emilia Romagna Grand Prix,Lando Norris,McLaren,3,1.0,30654.0
+2021,Emilia Romagna Grand Prix,Lando Norris,McLaren,3,2.0,1584953.0
+2021,Bahrain Grand Prix,Max Verstappen,Red Bull,2,1.0,24767.0
+2021,Bahrain Grand Prix,Max Verstappen,Red Bull,2,2.0,23848.0
+2021,Bahrain Grand Prix,Lando Norris,McLaren,4,1.0,24899.0
+2021,Bahrain Grand Prix,Lando Norris,McLaren,4,2.0,25640.0
+2021,Bahrain Grand Prix,Sergio Pérez,Red Bull,5,1.0,23993.0
+2021,Bahrain Grand Prix,Sergio Pérez,Red Bull,5,2.0,24105.0
+2021,Bahrain Grand Prix,Sergio Pérez,Red Bull,5,3.0,24191.0
+2021,Bahrain Grand Prix,Charles Leclerc,Ferrari,6,1.0,24925.0
+2021,Bahrain Grand Prix,Charles Leclerc,Ferrari,6,2.0,24176.0
+2021,Bahrain Grand Prix,Daniel Ricciardo,McLaren,7,1.0,24688.0
+2021,Bahrain Grand Prix,Daniel Ricciardo,McLaren,7,2.0,24655.0
+2021,Bahrain Grand Prix,Carlos Sainz,Ferrari,8,1.0,24353.0
+2021,Bahrain Grand Prix,Carlos Sainz,Ferrari,8,2.0,24341.0
+2021,Emilia Romagna Grand Prix,Charles Leclerc,Ferrari,4,1.0,31002.0
+2021,Emilia Romagna Grand Prix,Charles Leclerc,Ferrari,4,2.0,1609484.0
+2021,Emilia Romagna Grand Prix,Carlos Sainz,Ferrari,5,2.0,1582211.0
+2021,Portuguese Grand Prix,Max Verstappen,Red Bull,2,1.0,22718.0
+2021,Emilia Romagna Grand Prix,Daniel Ricciardo,McLaren,6,1.0,34340.0
+2021,Emilia Romagna Grand Prix,Daniel Ricciardo,McLaren,6,2.0,1574827.0
+2021,Emilia Romagna Grand Prix,Sergio Pérez,Red Bull,11,1.0,44608.0
+2021,Emilia Romagna Grand Prix,Sergio Pérez,Red Bull,11,2.0,1581158.0
+2021,Emilia Romagna Grand Prix,Carlos Sainz,Ferrari,5,1.0,30856.0
+2021,British Grand Prix,Charles Leclerc,Ferrari,2,1.0,2047731.0
+2021,British Grand Prix,Charles Leclerc,Ferrari,2,2.0,28433.0
+2021,British Grand Prix,Lando Norris,McLaren,4,1.0,2052218.0
+2021,British Grand Prix,Lando Norris,McLaren,4,2.0,31706.0
+2021,British Grand Prix,Daniel Ricciardo,McLaren,5,2.0,28817.0
+2021,British Grand Prix,Carlos Sainz,Ferrari,6,1.0,2059122.0
+2021,British Grand Prix,Carlos Sainz,Ferrari,6,2.0,37509.0
+2021,Styrian Grand Prix,Daniel Ricciardo,McLaren,13,1.0,21410.0
+2021,Austrian Grand Prix,Max Verstappen,Red Bull,1,1.0,21090.0
+2021,Austrian Grand Prix,Lando Norris,McLaren,3,1.0,26474.0
+2021,Austrian Grand Prix,Carlos Sainz,Ferrari,5,1.0,21431.0
+2021,Austrian Grand Prix,Sergio Pérez,Red Bull,6,1.0,21735.0
+2021,Austrian Grand Prix,Daniel Ricciardo,McLaren,7,1.0,21151.0
+2021,Austrian Grand Prix,Charles Leclerc,Ferrari,8,1.0,21143.0
+2021,Austrian Grand Prix,Max Verstappen,Red Bull,1,2.0,21236.0
+2021,Hungarian Grand Prix,Carlos Sainz,Ferrari,3,1.0,1452527.0
+2021,Hungarian Grand Prix,Carlos Sainz,Ferrari,3,2.0,42786.0
+2021,Hungarian Grand Prix,Carlos Sainz,Ferrari,3,3.0,21951.0
+2021,Monaco Grand Prix,Daniel Ricciardo,McLaren,12,1.0,24715.0
+2021,British Grand Prix,Sergio Pérez,Red Bull,16,1.0,2076405.0
+2021,British Grand Prix,Sergio Pérez,Red Bull,16,2.0,27892.0
+2021,British Grand Prix,Sergio Pérez,Red Bull,16,3.0,27848.0
+2021,British Grand Prix,Sergio Pérez,Red Bull,16,4.0,29082.0
+2021,Azerbaijan Grand Prix,Carlos Sainz,Ferrari,8,1.0,20064.0
+2021,Azerbaijan Grand Prix,Carlos Sainz,Ferrari,8,2.0,15119.0
+2021,Azerbaijan Grand Prix,Carlos Sainz,Ferrari,8,3.0,2012724.0
+2021,Azerbaijan Grand Prix,Daniel Ricciardo,McLaren,9,1.0,20082.0
+2021,Azerbaijan Grand Prix,Daniel Ricciardo,McLaren,9,2.0,14994.0
+2021,Azerbaijan Grand Prix,Daniel Ricciardo,McLaren,9,3.0,2015163.0
+2021,Azerbaijan Grand Prix,Sergio Pérez,Red Bull,1,1.0,21874.0
+2021,Azerbaijan Grand Prix,Sergio Pérez,Red Bull,1,2.0,15277.0
+2021,Azerbaijan Grand Prix,Sergio Pérez,Red Bull,1,3.0,1998466.0
+2021,Azerbaijan Grand Prix,Charles Leclerc,Ferrari,4,1.0,19836.0
+2021,Azerbaijan Grand Prix,Charles Leclerc,Ferrari,4,2.0,15092.0
+2021,Azerbaijan Grand Prix,Charles Leclerc,Ferrari,4,3.0,2002544.0
+2021,Azerbaijan Grand Prix,Lando Norris,McLaren,5,1.0,20533.0
+2021,Azerbaijan Grand Prix,Lando Norris,McLaren,5,2.0,15866.0
+2021,Azerbaijan Grand Prix,Lando Norris,McLaren,5,3.0,2010409.0
+2021,French Grand Prix,Carlos Sainz,Ferrari,11,1.0,30534.0
+2021,French Grand Prix,Charles Leclerc,Ferrari,16,1.0,30798.0
+2021,French Grand Prix,Charles Leclerc,Ferrari,16,2.0,31368.0
+2021,Styrian Grand Prix,Sergio Pérez,Red Bull,4,1.0,23477.0
+2021,Styrian Grand Prix,Sergio Pérez,Red Bull,4,2.0,20961.0
+2021,Styrian Grand Prix,Lando Norris,McLaren,5,1.0,21692.0
+2021,Styrian Grand Prix,Carlos Sainz,Ferrari,6,1.0,21226.0
+2021,Styrian Grand Prix,Charles Leclerc,Ferrari,7,1.0,28386.0
+2021,Styrian Grand Prix,Charles Leclerc,Ferrari,7,2.0,21924.0
+2021,Styrian Grand Prix,Max Verstappen,Red Bull,1,1.0,20936.0
+2021,French Grand Prix,Daniel Ricciardo,McLaren,6,1.0,29951.0
+2021,French Grand Prix,Sergio Pérez,Red Bull,3,1.0,29682.0
+2021,French Grand Prix,Lando Norris,McLaren,5,1.0,30531.0
+2021,French Grand Prix,Max Verstappen,Red Bull,1,1.0,29803.0
+2021,Azerbaijan Grand Prix,Max Verstappen,Red Bull,\N,1.0,19769.0
+2021,French Grand Prix,Max Verstappen,Red Bull,1,2.0,30123.0
+2022,Dutch Grand Prix,Carlos Sainz,Ferrari,8,1.0,29705.0
+2022,Dutch Grand Prix,Carlos Sainz,Ferrari,8,2.0,19493.0
+2022,Dutch Grand Prix,Carlos Sainz,Ferrari,8,3.0,21164.0
+2022,Dutch Grand Prix,Lando Norris,McLaren,7,3.0,21264.0
+2022,Dutch Grand Prix,Lando Norris,McLaren,7,1.0,19303.0
+2022,Dutch Grand Prix,Max Verstappen,Red Bull,1,1.0,19634.0
+2022,Dutch Grand Prix,Max Verstappen,Red Bull,1,2.0,19610.0
+2022,Dutch Grand Prix,Max Verstappen,Red Bull,1,3.0,19655.0
+2022,Dutch Grand Prix,Max Verstappen,Red Bull,1,4.0,14113.0
+2022,Dutch Grand Prix,Charles Leclerc,Ferrari,3,1.0,19080.0
+2022,Dutch Grand Prix,Charles Leclerc,Ferrari,3,2.0,19084.0
+2022,Dutch Grand Prix,Lando Norris,McLaren,7,2.0,21117.0
+2022,Dutch Grand Prix,Charles Leclerc,Ferrari,3,3.0,19576.0
+2022,Dutch Grand Prix,Sergio Pérez,Red Bull,5,1.0,18835.0
+2022,Dutch Grand Prix,Sergio Pérez,Red Bull,5,2.0,18738.0
+2022,Dutch Grand Prix,Sergio Pérez,Red Bull,5,3.0,19250.0
+2022,Dutch Grand Prix,Sergio Pérez,Red Bull,5,4.0,14113.0
+2022,Dutch Grand Prix,Charles Leclerc,Ferrari,3,4.0,14008.0
+2022,Italian Grand Prix,Charles Leclerc,Ferrari,2,3.0,23719.0
+2022,Italian Grand Prix,Carlos Sainz,Ferrari,4,1.0,23728.0
+2022,Italian Grand Prix,Carlos Sainz,Ferrari,4,2.0,24525.0
+2022,Italian Grand Prix,Sergio Pérez,Red Bull,6,1.0,23698.0
+2022,Italian Grand Prix,Sergio Pérez,Red Bull,6,2.0,23299.0
+2022,Italian Grand Prix,Lando Norris,McLaren,7,1.0,26714.0
+2022,Italian Grand Prix,Lando Norris,McLaren,7,2.0,24784.0
+2022,Italian Grand Prix,Charles Leclerc,Ferrari,2,2.0,23904.0
+2022,Italian Grand Prix,Charles Leclerc,Ferrari,2,1.0,23531.0
+2022,Italian Grand Prix,Max Verstappen,Red Bull,1,2.0,24091.0
+2022,Italian Grand Prix,Max Verstappen,Red Bull,1,1.0,23791.0
+2022,Dutch Grand Prix,Daniel Ricciardo,McLaren,17,1.0,19546.0
+2022,Dutch Grand Prix,Daniel Ricciardo,McLaren,17,2.0,19567.0
+2022,Dutch Grand Prix,Daniel Ricciardo,McLaren,17,3.0,19718.0
+2022,Dutch Grand Prix,Daniel Ricciardo,McLaren,17,4.0,20295.0
+2022,Dutch Grand Prix,Daniel Ricciardo,McLaren,17,5.0,14493.0
+2022,Belgian Grand Prix,Charles Leclerc,Ferrari,6,3.0,23334.0
+2022,Hungarian Grand Prix,Max Verstappen,Red Bull,1,1.0,21351.0
+2022,Hungarian Grand Prix,Max Verstappen,Red Bull,1,2.0,21228.0
+2022,Hungarian Grand Prix,Carlos Sainz,Ferrari,4,1.0,22820.0
+2022,Hungarian Grand Prix,Carlos Sainz,Ferrari,4,2.0,23456.0
+2022,Hungarian Grand Prix,Sergio Pérez,Red Bull,5,1.0,21118.0
+2022,Hungarian Grand Prix,Sergio Pérez,Red Bull,5,2.0,21167.0
+2022,Hungarian Grand Prix,Charles Leclerc,Ferrari,6,1.0,21775.0
+2022,Hungarian Grand Prix,Charles Leclerc,Ferrari,6,3.0,21544.0
+2022,Hungarian Grand Prix,Lando Norris,McLaren,7,1.0,23567.0
+2022,Hungarian Grand Prix,Lando Norris,McLaren,7,2.0,21855.0
+2022,Hungarian Grand Prix,Charles Leclerc,Ferrari,6,2.0,21972.0
+2022,Italian Grand Prix,Daniel Ricciardo,McLaren,\N,1.0,25164.0
+2022,French Grand Prix,Sergio Pérez,Red Bull,4,1.0,38061.0
+2022,French Grand Prix,Carlos Sainz,Ferrari,5,1.0,41458.0
+2022,French Grand Prix,Carlos Sainz,Ferrari,5,2.0,42292.0
+2022,French Grand Prix,Lando Norris,McLaren,7,1.0,37539.0
+2022,French Grand Prix,Daniel Ricciardo,McLaren,9,1.0,36264.0
+2022,Belgian Grand Prix,Charles Leclerc,Ferrari,6,2.0,23189.0
+2022,Belgian Grand Prix,Lando Norris,McLaren,12,1.0,23036.0
+2022,Belgian Grand Prix,Daniel Ricciardo,McLaren,15,1.0,23085.0
+2022,Belgian Grand Prix,Daniel Ricciardo,McLaren,15,2.0,23146.0
+2022,Belgian Grand Prix,Lando Norris,McLaren,12,2.0,23560.0
+2022,Belgian Grand Prix,Charles Leclerc,Ferrari,6,1.0,24198.0
+2022,Hungarian Grand Prix,Daniel Ricciardo,McLaren,15,2.0,21521.0
+2022,Belgian Grand Prix,Max Verstappen,Red Bull,1,1.0,22882.0
+2022,Belgian Grand Prix,Max Verstappen,Red Bull,1,2.0,22322.0
+2022,Belgian Grand Prix,Sergio Pérez,Red Bull,2,1.0,22349.0
+2022,Belgian Grand Prix,Sergio Pérez,Red Bull,2,2.0,22650.0
+2022,Belgian Grand Prix,Carlos Sainz,Ferrari,3,1.0,22543.0
+2022,Belgian Grand Prix,Carlos Sainz,Ferrari,3,2.0,22750.0
+2022,Hungarian Grand Prix,Daniel Ricciardo,McLaren,15,1.0,21558.0
+2022,United States Grand Prix,Daniel Ricciardo,McLaren,16,1.0,26206.0
+2022,Brazilian Grand Prix,Carlos Sainz,Ferrari,3,1.0,25206.0
+2022,Brazilian Grand Prix,Carlos Sainz,Ferrari,3,2.0,23483.0
+2022,Brazilian Grand Prix,Carlos Sainz,Ferrari,3,3.0,23816.0
+2022,Brazilian Grand Prix,Charles Leclerc,Ferrari,4,1.0,30080.0
+2022,Brazilian Grand Prix,Charles Leclerc,Ferrari,4,2.0,23172.0
+2022,Brazilian Grand Prix,Charles Leclerc,Ferrari,4,3.0,23124.0
+2022,Brazilian Grand Prix,Max Verstappen,Red Bull,6,1.0,30942.0
+2022,Brazilian Grand Prix,Max Verstappen,Red Bull,6,2.0,31682.0
+2022,Brazilian Grand Prix,Max Verstappen,Red Bull,6,3.0,24102.0
+2022,Brazilian Grand Prix,Sergio Pérez,Red Bull,7,1.0,22869.0
+2022,Brazilian Grand Prix,Sergio Pérez,Red Bull,7,2.0,23152.0
+2022,Mexico City Grand Prix,Max Verstappen,Red Bull,1,1.0,22487.0
+2022,Mexico City Grand Prix,Sergio Pérez,Red Bull,3,1.0,24892.0
+2022,Mexico City Grand Prix,Carlos Sainz,Ferrari,5,1.0,23469.0
+2022,Mexico City Grand Prix,Charles Leclerc,Ferrari,6,1.0,22193.0
+2022,Mexico City Grand Prix,Daniel Ricciardo,McLaren,7,1.0,22280.0
+2022,Mexico City Grand Prix,Lando Norris,McLaren,9,1.0,22585.0
+2022,Abu Dhabi Grand Prix,Lando Norris,McLaren,6,1.0,22234.0
+2022,Abu Dhabi Grand Prix,Lando Norris,McLaren,6,2.0,21559.0
+2022,Abu Dhabi Grand Prix,Daniel Ricciardo,McLaren,9,1.0,21893.0
+2022,French Grand Prix,Max Verstappen,Red Bull,1,1.0,35266.0
+2022,Abu Dhabi Grand Prix,Carlos Sainz,Ferrari,4,2.0,21575.0
+2022,Abu Dhabi Grand Prix,Carlos Sainz,Ferrari,4,1.0,21930.0
+2022,Brazilian Grand Prix,Lando Norris,McLaren,\N,1.0,29338.0
+2022,Brazilian Grand Prix,Lando Norris,McLaren,\N,2.0,24669.0
+2022,Abu Dhabi Grand Prix,Max Verstappen,Red Bull,1,1.0,22735.0
+2022,Abu Dhabi Grand Prix,Charles Leclerc,Ferrari,2,1.0,22210.0
+2022,Abu Dhabi Grand Prix,Sergio Pérez,Red Bull,3,1.0,21360.0
+2022,Abu Dhabi Grand Prix,Sergio Pérez,Red Bull,3,2.0,21367.0
+2022,United States Grand Prix,Daniel Ricciardo,McLaren,16,2.0,24436.0
+2022,Japanese Grand Prix,Max Verstappen,Red Bull,1,1.0,387399.0
+2022,Japanese Grand Prix,Max Verstappen,Red Bull,1,2.0,24308.0
+2022,Japanese Grand Prix,Sergio Pérez,Red Bull,2,1.0,392517.0
+2022,Japanese Grand Prix,Sergio Pérez,Red Bull,2,2.0,25322.0
+2022,Japanese Grand Prix,Charles Leclerc,Ferrari,3,1.0,389973.0
+2022,Japanese Grand Prix,Charles Leclerc,Ferrari,3,2.0,25899.0
+2022,Japanese Grand Prix,Lando Norris,McLaren,10,1.0,406256.0
+2022,Japanese Grand Prix,Lando Norris,McLaren,10,2.0,24595.0
+2022,Japanese Grand Prix,Daniel Ricciardo,McLaren,11,1.0,401749.0
+2022,Singapore Grand Prix,Sergio Pérez,Red Bull,1,1.0,29550.0
+2022,Singapore Grand Prix,Charles Leclerc,Ferrari,2,1.0,32058.0
+2022,Singapore Grand Prix,Carlos Sainz,Ferrari,3,1.0,30603.0
+2022,Singapore Grand Prix,Lando Norris,McLaren,4,1.0,30528.0
+2022,Singapore Grand Prix,Daniel Ricciardo,McLaren,5,1.0,30946.0
+2022,Singapore Grand Prix,Max Verstappen,Red Bull,7,1.0,29407.0
+2022,Singapore Grand Prix,Max Verstappen,Red Bull,7,2.0,29775.0
+2022,Japanese Grand Prix,Daniel Ricciardo,McLaren,11,2.0,25377.0
+2022,United States Grand Prix,Lando Norris,McLaren,6,1.0,24026.0
+2022,United States Grand Prix,Lando Norris,McLaren,6,2.0,23702.0
+2022,United States Grand Prix,Sergio Pérez,Red Bull,4,2.0,24801.0
+2022,United States Grand Prix,Sergio Pérez,Red Bull,4,1.0,23403.0
+2022,United States Grand Prix,Charles Leclerc,Ferrari,3,2.0,23755.0
+2022,United States Grand Prix,Charles Leclerc,Ferrari,3,1.0,24314.0
+2022,United States Grand Prix,Max Verstappen,Red Bull,1,1.0,23866.0
+2022,United States Grand Prix,Max Verstappen,Red Bull,1,2.0,32254.0
+2022,Austrian Grand Prix,Sergio Pérez,Red Bull,\N,1.0,23681.0
+2022,Miami Grand Prix,Max Verstappen,Red Bull,1,1.0,18798.0
+2022,Miami Grand Prix,Charles Leclerc,Ferrari,2,1.0,19697.0
+2022,Miami Grand Prix,Carlos Sainz,Ferrari,3,1.0,22063.0
+2022,Miami Grand Prix,Sergio Pérez,Red Bull,4,1.0,18519.0
+2022,Miami Grand Prix,Sergio Pérez,Red Bull,4,2.0,18433.0
+2022,Miami Grand Prix,Daniel Ricciardo,McLaren,13,1.0,19484.0
+2022,Miami Grand Prix,Daniel Ricciardo,McLaren,13,2.0,19280.0
+2022,Emilia Romagna Grand Prix,Daniel Ricciardo,McLaren,18,3.0,30155.0
+2022,Emilia Romagna Grand Prix,Daniel Ricciardo,McLaren,18,1.0,32362.0
+2022,Emilia Romagna Grand Prix,Max Verstappen,Red Bull,1,1.0,30001.0
+2022,Emilia Romagna Grand Prix,Max Verstappen,Red Bull,1,2.0,29942.0
+2022,Emilia Romagna Grand Prix,Sergio Pérez,Red Bull,2,1.0,30366.0
+2022,Emilia Romagna Grand Prix,Sergio Pérez,Red Bull,2,2.0,29627.0
+2022,Emilia Romagna Grand Prix,Lando Norris,McLaren,3,1.0,30070.0
+2022,Emilia Romagna Grand Prix,Charles Leclerc,Ferrari,6,1.0,31794.0
+2022,Emilia Romagna Grand Prix,Charles Leclerc,Ferrari,6,2.0,30042.0
+2022,Emilia Romagna Grand Prix,Charles Leclerc,Ferrari,6,3.0,36560.0
+2022,Emilia Romagna Grand Prix,Daniel Ricciardo,McLaren,18,2.0,30422.0
+2022,Miami Grand Prix,Lando Norris,McLaren,\N,1.0,19986.0
+2022,Spanish Grand Prix,Daniel Ricciardo,McLaren,12,1.0,22124.0
+2022,Spanish Grand Prix,Daniel Ricciardo,McLaren,12,2.0,22399.0
+2022,Spanish Grand Prix,Daniel Ricciardo,McLaren,12,3.0,22154.0
+2022,Spanish Grand Prix,Lando Norris,McLaren,8,2.0,23341.0
+2022,Spanish Grand Prix,Max Verstappen,Red Bull,1,1.0,22173.0
+2022,Spanish Grand Prix,Max Verstappen,Red Bull,1,2.0,21966.0
+2022,Spanish Grand Prix,Max Verstappen,Red Bull,1,3.0,21941.0
+2022,Spanish Grand Prix,Sergio Pérez,Red Bull,2,1.0,22032.0
+2022,Spanish Grand Prix,Sergio Pérez,Red Bull,2,2.0,21619.0
+2022,Spanish Grand Prix,Sergio Pérez,Red Bull,2,3.0,21694.0
+2022,Spanish Grand Prix,Lando Norris,McLaren,8,3.0,22165.0
+2022,Spanish Grand Prix,Carlos Sainz,Ferrari,4,1.0,22341.0
+2022,Spanish Grand Prix,Carlos Sainz,Ferrari,4,3.0,22302.0
+2022,Spanish Grand Prix,Lando Norris,McLaren,8,1.0,21916.0
+2022,Spanish Grand Prix,Carlos Sainz,Ferrari,4,2.0,21867.0
+2022,Australian Grand Prix,Max Verstappen,Red Bull,\N,1.0,18281.0
+2022,Bahrain Grand Prix,Daniel Ricciardo,McLaren,14,1.0,24915.0
+2022,Bahrain Grand Prix,Daniel Ricciardo,McLaren,14,2.0,24885.0
+2022,Bahrain Grand Prix,Daniel Ricciardo,McLaren,14,3.0,25139.0
+2022,Bahrain Grand Prix,Lando Norris,McLaren,15,1.0,24568.0
+2022,Bahrain Grand Prix,Lando Norris,McLaren,15,2.0,27367.0
+2022,Bahrain Grand Prix,Lando Norris,McLaren,15,3.0,24975.0
+2022,Bahrain Grand Prix,Charles Leclerc,Ferrari,1,1.0,25012.0
+2022,Bahrain Grand Prix,Charles Leclerc,Ferrari,1,2.0,24527.0
+2022,Bahrain Grand Prix,Charles Leclerc,Ferrari,1,3.0,24613.0
+2022,Bahrain Grand Prix,Carlos Sainz,Ferrari,2,1.0,24666.0
+2022,Bahrain Grand Prix,Carlos Sainz,Ferrari,2,2.0,24438.0
+2022,Bahrain Grand Prix,Carlos Sainz,Ferrari,2,3.0,24287.0
+2022,Bahrain Grand Prix,Sergio Pérez,Red Bull,18,1.0,25046.0
+2022,Australian Grand Prix,Charles Leclerc,Ferrari,1,1.0,17973.0
+2022,Australian Grand Prix,Sergio Pérez,Red Bull,2,1.0,17434.0
+2022,Australian Grand Prix,Lando Norris,McLaren,5,1.0,17556.0
+2022,Australian Grand Prix,Daniel Ricciardo,McLaren,6,1.0,18150.0
+2022,Saudi Arabian Grand Prix,Daniel Ricciardo,McLaren,\N,1.0,20650.0
+2022,Bahrain Grand Prix,Sergio Pérez,Red Bull,18,2.0,24173.0
+2022,Bahrain Grand Prix,Sergio Pérez,Red Bull,18,3.0,24947.0
+2022,Bahrain Grand Prix,Max Verstappen,Red Bull,19,1.0,24897.0
+2022,Bahrain Grand Prix,Max Verstappen,Red Bull,19,2.0,24937.0
+2022,Bahrain Grand Prix,Max Verstappen,Red Bull,19,3.0,24402.0
+2022,Saudi Arabian Grand Prix,Max Verstappen,Red Bull,1,1.0,20731.0
+2022,Saudi Arabian Grand Prix,Charles Leclerc,Ferrari,2,1.0,21038.0
+2022,Saudi Arabian Grand Prix,Carlos Sainz,Ferrari,3,1.0,21521.0
+2022,Saudi Arabian Grand Prix,Sergio Pérez,Red Bull,4,1.0,20481.0
+2022,Saudi Arabian Grand Prix,Lando Norris,McLaren,7,1.0,20383.0
+2022,British Grand Prix,Lando Norris,McLaren,6,1.0,3043215.0
+2022,British Grand Prix,Lando Norris,McLaren,6,2.0,28947.0
+2022,British Grand Prix,Lando Norris,McLaren,6,3.0,28659.0
+2022,British Grand Prix,Max Verstappen,Red Bull,7,1.0,3037323.0
+2022,British Grand Prix,Max Verstappen,Red Bull,7,2.0,29395.0
+2022,British Grand Prix,Max Verstappen,Red Bull,7,3.0,29296.0
+2022,British Grand Prix,Max Verstappen,Red Bull,7,4.0,28709.0
+2022,British Grand Prix,Daniel Ricciardo,McLaren,13,1.0,3063314.0
+2022,British Grand Prix,Daniel Ricciardo,McLaren,13,2.0,30262.0
+2022,British Grand Prix,Charles Leclerc,Ferrari,4,2.0,28805.0
+2022,Canadian Grand Prix,Lando Norris,McLaren,15,1.0,43032.0
+2022,Canadian Grand Prix,Lando Norris,McLaren,15,2.0,24134.0
+2022,British Grand Prix,Carlos Sainz,Ferrari,1,1.0,3031752.0
+2022,British Grand Prix,Carlos Sainz,Ferrari,1,2.0,28574.0
+2022,British Grand Prix,Carlos Sainz,Ferrari,1,3.0,28435.0
+2022,British Grand Prix,Sergio Pérez,Red Bull,2,1.0,3034772.0
+2022,British Grand Prix,Sergio Pérez,Red Bull,2,2.0,37302.0
+2022,British Grand Prix,Sergio Pérez,Red Bull,2,3.0,28155.0
+2022,British Grand Prix,Charles Leclerc,Ferrari,4,1.0,3036360.0
+2022,British Grand Prix,Daniel Ricciardo,McLaren,13,3.0,30599.0
+2022,British Grand Prix,Daniel Ricciardo,McLaren,13,4.0,29345.0
+2022,Austrian Grand Prix,Daniel Ricciardo,McLaren,9,1.0,21356.0
+2022,Austrian Grand Prix,Daniel Ricciardo,McLaren,9,2.0,21889.0
+2022,Austrian Grand Prix,Carlos Sainz,Ferrari,\N,1.0,21212.0
+2022,Austrian Grand Prix,Carlos Sainz,Ferrari,\N,2.0,21492.0
+2022,Austrian Grand Prix,Lando Norris,McLaren,7,2.0,27324.0
+2022,Austrian Grand Prix,Lando Norris,McLaren,7,1.0,22684.0
+2022,Austrian Grand Prix,Charles Leclerc,Ferrari,1,1.0,21532.0
+2022,Austrian Grand Prix,Charles Leclerc,Ferrari,1,2.0,21319.0
+2022,Austrian Grand Prix,Charles Leclerc,Ferrari,1,3.0,21650.0
+2022,Austrian Grand Prix,Max Verstappen,Red Bull,2,1.0,22022.0
+2022,Austrian Grand Prix,Max Verstappen,Red Bull,2,2.0,21444.0
+2022,Austrian Grand Prix,Max Verstappen,Red Bull,2,3.0,21319.0
+2022,Canadian Grand Prix,Daniel Ricciardo,McLaren,11,2.0,24833.0
+2022,Monaco Grand Prix,Daniel Ricciardo,McLaren,13,1.0,26056.0
+2022,Monaco Grand Prix,Daniel Ricciardo,McLaren,13,2.0,1168673.0
+2022,Spanish Grand Prix,Charles Leclerc,Ferrari,\N,1.0,21794.0
+2022,Monaco Grand Prix,Sergio Pérez,Red Bull,1,1.0,24409.0
+2022,Monaco Grand Prix,Sergio Pérez,Red Bull,1,2.0,24536.0
+2022,Monaco Grand Prix,Sergio Pérez,Red Bull,1,3.0,1172062.0
+2022,Monaco Grand Prix,Carlos Sainz,Ferrari,2,1.0,24666.0
+2022,Monaco Grand Prix,Carlos Sainz,Ferrari,2,2.0,1174793.0
+2022,Monaco Grand Prix,Max Verstappen,Red Bull,3,1.0,27009.0
+2022,Monaco Grand Prix,Max Verstappen,Red Bull,3,2.0,26930.0
+2022,Monaco Grand Prix,Max Verstappen,Red Bull,3,3.0,1175575.0
+2022,Monaco Grand Prix,Charles Leclerc,Ferrari,4,1.0,25710.0
+2022,Monaco Grand Prix,Charles Leclerc,Ferrari,4,2.0,28034.0
+2022,Monaco Grand Prix,Lando Norris,McLaren,6,1.0,24872.0
+2022,Monaco Grand Prix,Lando Norris,McLaren,6,2.0,24760.0
+2022,Monaco Grand Prix,Lando Norris,McLaren,6,3.0,1183029.0
+2022,Monaco Grand Prix,Lando Norris,McLaren,6,4.0,24607.0
+2022,Monaco Grand Prix,Charles Leclerc,Ferrari,4,3.0,1176822.0
+2022,Azerbaijan Grand Prix,Charles Leclerc,Ferrari,\N,1.0,23212.0
+2022,Canadian Grand Prix,Max Verstappen,Red Bull,1,1.0,24217.0
+2022,Canadian Grand Prix,Max Verstappen,Red Bull,1,2.0,23704.0
+2022,Canadian Grand Prix,Carlos Sainz,Ferrari,2,1.0,24215.0
+2022,Canadian Grand Prix,Carlos Sainz,Ferrari,2,2.0,24881.0
+2022,Canadian Grand Prix,Charles Leclerc,Ferrari,5,1.0,26199.0
+2022,Canadian Grand Prix,Daniel Ricciardo,McLaren,11,1.0,27937.0
+2022,Azerbaijan Grand Prix,Max Verstappen,Red Bull,1,1.0,21468.0
+2022,Azerbaijan Grand Prix,Max Verstappen,Red Bull,1,2.0,20722.0
+2022,Azerbaijan Grand Prix,Sergio Pérez,Red Bull,2,1.0,23379.0
+2022,Azerbaijan Grand Prix,Sergio Pérez,Red Bull,2,2.0,22349.0
+2022,Azerbaijan Grand Prix,Daniel Ricciardo,McLaren,8,1.0,21794.0
+2022,Azerbaijan Grand Prix,Lando Norris,McLaren,9,1.0,21443.0
