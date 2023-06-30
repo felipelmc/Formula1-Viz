@@ -1,0 +1,152 @@
+:root {
+  --primary: #CCB8D9;
+  --secondary: #FA3131;
+  --accent: #579ee4;
+  --text: hsl(0, 0%, 100%);
+  --light: #FFFFFF;
+  --background: #000000;
+  --footer-color: #292929;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background: var(--background);
+  font-family: 'Crimson Text', serif;
+  color: var(--light);
+  overflow-x: hidden;
+}
+
+text {
+  font-family: 'Crimson Text', serif;
+}
+
+h2 {
+  font-weight: 700;
+  color: var(--secondary);
+}
+
+h3 {
+  font-weight: 200;
+  color: var(--secondary);
+}
+
+h4 {
+  font-size: medium;
+  font-weight: 400;
+}
+
+h5 {
+  color: #000000;
+  font-weight: bold;
+}
+
+h6 {
+  color: #FFFFFF;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+
+p {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 20px;
+  color: var(--text);
+}
+
+.justified {
+  text-align: justify;
+}
+
+.x-axis-label {
+  fill: white; /* Legend text color */
+  font-size: 15px; /* Legend font size */
+  text-anchor: middle; /* Horizontal alignment */
+}
+
+.y-axis-label {
+  fill: white; /* Legend text color */
+  font-size: 15px; /* Legend font size */
+  text-anchor: middle; /* Horizontal alignment */
+}
+
+.card-text {
+  font-size: 15px;
+  color: var(--footer-color);
+}
+.card-text-b {
+  font-size: 15px;
+  font-weight: bold;
+  color: var(--footer-color);
+}
+
+.btn-circle.btn-xl {
+  width: 72px;
+  height: 72px;
+  border-radius: 60px;
+  fill: var(--light);
+  padding: 0px;
+}
+
+#car {
+  display: block;
+  margin-left: 110px;
+  margin-right: 10px;
+}
+
+.largepill {
+  padding: 6px 23px 4px 23px;
+  border: none;
+  white-space: nowrap;
+  text-decoration: none;
+  border-radius: 100px;
+  background: var(--accent);
+  color: white;
+}
+
+.smallpill {
+  padding: 3px 10px 3px 10px;
+  border: none;
+  white-space: nowrap;
+  text-decoration: none;
+  border-radius: 20px;
+  background: var(--secondary);
+  color: white;
+}
+
+
+.dark-article {
+  padding: 15px;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  background-color: #731500;
+  border-radius: 10px;
+  color: snow;
+}
+
+
+#us {
+  border-radius: 50%;
+}
+
+figure {
+  border: 1px #cccccc solid;
+  padding: 4px;
+  margin: auto;
+}
+
+figcaption {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
