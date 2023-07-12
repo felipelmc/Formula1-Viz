@@ -1,3 +1,5 @@
+Co-autores: [Ana Carolina Erthal](https://github.com/anacarolerthal) e [Guilherme de Melo](https://github.com/guilherme-melo).
+
 # Visual F1
 
 Projeto com objetivo de criar visualizações para dados de Fórmula 1
